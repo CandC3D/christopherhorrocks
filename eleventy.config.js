@@ -27,6 +27,23 @@ export default function (eleventyConfig) {
     return items.filter((i) => list.includes(slugOf(i)));
   });
   eleventyConfig.addFilter("featured", (items, cur) => items.filter((i) => cur.featured.includes(slugOf(i))));
+  // Newest first, except that the parts of a multi-part piece stay together in
+  // reading order (earliest part first), placed by the date of their latest part.
+  eleventyConfig.addFilter("readingOrder", (items, cur) => {
+    const groupOf = (slug) => (cur.groups || []).find((g) => g.includes(slug));
+    const latest = (item) => {
+      const g = groupOf(slugOf(item));
+      if (!g) return item.date;
+      return new Date(Math.max(...items.filter((x) => g.includes(slugOf(x))).map((x) => x.date)));
+    };
+    return [...items].sort((a, b) => {
+      const d = latest(b) - latest(a);
+      if (d) return d;
+      const ga = groupOf(slugOf(a));
+      if (ga && ga === groupOf(slugOf(b))) return ga.indexOf(slugOf(a)) - ga.indexOf(slugOf(b));
+      return b.date - a.date;
+    });
+  });
   eleventyConfig.addFilter("seriesOf", (slug, cur) => (cur.interludes.includes(slug) ? "interludes" : cur.aids.includes(slug) ? "aids" : "essays"));
   eleventyConfig.addFilter("neighbours", (items, slug, cur) => {
     const series = cur.interludes.includes(slug) ? "interludes" : cur.aids.includes(slug) ? "aids" : "essays";

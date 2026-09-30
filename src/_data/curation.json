@@ -1,5 +1,5 @@
 {
-  "_comment": "Only slugs listed under 'essays', 'interludes' or 'aids' are imported and published. Featured pieces appear on the homepage, newest first.",
+  "_comment": "Only slugs listed under 'essays', 'interludes' or 'aids' are imported and published. Featured pieces appear on the homepage, newest first. Pieces in a multi-part group are kept together in reading order, earliest part first, placed by their latest part.",
   "essays": [
     "virtual-intelligence-and-the-death-5c5",
     "virtual-intelligence-and-the-death",
@@ -36,5 +36,20 @@
     "the-carwash-test-virtual-intelligence",
     "in-search-of-other-bodies",
     "in-search-of-other-minds"
+  ],
+  "groups": [
+    [
+      "virtual-intelligence-and-the-death",
+      "virtual-intelligence-and-the-death-5c5"
+    ],
+    [
+      "virtual-intelligence-and-the-high",
+      "virtual-intelligence-and-the-hi2",
+      "virtual-intelligence-and-the-high-19e"
+    ],
+    [
+      "virtual-intelligence-and-the-perfect",
+      "virtual-intelligence-and-the-perfect-2e6"
+    ]
   ]
 }

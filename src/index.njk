@@ -13,9 +13,9 @@ permalink: /
 </section>
 
 <section>
-  <h2>Essays</h2>
+  <h2>Selected Essays</h2>
   <ul class="list">
-  {% for e in collections.pieces | featured(curation) %}
+  {% for e in collections.pieces | featured(curation) | readingOrder(curation) %}
     <li><a href="{{ e.url }}">{{ e.data.title }}</a></li>
   {% endfor %}
   </ul>

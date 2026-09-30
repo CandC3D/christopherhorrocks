@@ -7,7 +7,7 @@ description: Every essay and interlude from the Virtual Intelligence series host
 <h1 class="page-title">Archive</h1>
 
 {% for group in [["essays", "Essays"], ["interludes", "Interludes"], ["aids", "Reader aids"]] %}
-{% set items = collections.pieces | inSeries(group[0], curation) %}
+{% set items = collections.pieces | inSeries(group[0], curation) | readingOrder(curation) %}
 {% if items.length %}
 <section>
   <h2>{{ group[1] }}</h2>
