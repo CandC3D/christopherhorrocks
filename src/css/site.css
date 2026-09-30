@@ -1,19 +1,20 @@
 /* Layout: one narrow reading column, text only, after darioamodei.com.
-   Palette: Virtual Intelligence series spec v1.0, with the series olive as the accent. Type: option 13, Merriweather family. */
+   Palette: Virtual Intelligence series spec v1.0. Type: option 13, Merriweather family. */
 :root {
   --cream: #FAF9F6;
   --ink: #0A0A0C;
-  --olive: #65A30D;
+  --dark-teal: #1E5B56;
+  --medium-teal: #3A847D;
   --warm-gray: #8A8078;
 
   --bg: var(--cream);
   --fg: var(--ink);
-  --heading: var(--olive);
-  --link: var(--olive);
+  --heading: var(--dark-teal);
+  --link: var(--medium-teal);
   --muted: var(--warm-gray);
   --rule: color-mix(in srgb, var(--warm-gray) 35%, transparent);
-  --quote-rule: var(--olive);
-  --callout-bg: color-mix(in srgb, var(--olive) 8%, var(--bg));
+  --quote-rule: var(--medium-teal);
+  --callout-bg: color-mix(in srgb, var(--medium-teal) 8%, var(--bg));
 
   --serif: "Merriweather", "Noto Sans Symbols 2", "Noto Sans Symbols", Georgia, "Times New Roman", serif;
   --sans: "Merriweather Sans", "Noto Sans Symbols 2", "Noto Sans Symbols", system-ui, -apple-system, "Segoe UI", sans-serif;
@@ -30,8 +31,8 @@
   :root {
     --bg: var(--ink);
     --fg: var(--cream);
-    --heading: var(--olive);
-    --link: var(--olive);
+    --heading: var(--medium-teal);
+    --link: var(--medium-teal);
     --muted: var(--warm-gray);
     color-scheme: dark;
   }
