@@ -1,0 +1,382 @@
+{
+ "audience": "everyone",
+ "audience_before_archived": null,
+ "canonical_url": "https://chorrocks.substack.com/p/virtual-intelligence-and-the-high-19e",
+ "default_comment_sort": null,
+ "editor_v2": false,
+ "exempt_from_archive_paywall": false,
+ "free_unlock_required": false,
+ "id": 207832762,
+ "podcast_art_url": null,
+ "podcast_duration": null,
+ "podcast_preview_upload_id": null,
+ "podcast_upload_id": null,
+ "podcast_url": null,
+ "post_date": "2026-07-21T11:32:05.442Z",
+ "updated_at": "2026-07-21T11:32:05.535Z",
+ "publication_id": 8222267,
+ "search_engine_description": null,
+ "search_engine_title": null,
+ "section_id": null,
+ "should_send_free_preview": false,
+ "show_guest_bios": true,
+ "slug": "virtual-intelligence-and-the-high-19e",
+ "social_title": null,
+ "subtitle": "China takes steps to limit the harms of companion chatbots",
+ "teaser_post_eligible": true,
+ "title": "Virtual Intelligence and the High Cost of Artificial Companions: Addendum, July 2026",
+ "type": "newsletter",
+ "video_upload_id": null,
+ "write_comment_permissions": "everyone",
+ "meter_type": "none",
+ "live_stream_id": null,
+ "is_published": true,
+ "restacks": 0,
+ "reactions": {
+  "❤": 0
+ },
+ "top_exclusions": [],
+ "pins": [],
+ "section_pins": [],
+ "has_shareable_clips": false,
+ "previous_post_slug": "kimi-kimi-kimi-kimi-kimi-chameleon",
+ "next_post_slug": "a-comedy-of-unforced-errors",
+ "cover_image": "https://substackcdn.com/image/fetch/$s_!8Oa0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb15370dd-33cc-4fa1-b63b-098087c867e9_908x633.png",
+ "cover_image_is_square": false,
+ "cover_image_is_explicit": false,
+ "videoUpload": null,
+ "podcastFields": {
+  "post_id": 207832762,
+  "podcast_episode_number": null,
+  "podcast_season_number": null,
+  "podcast_episode_type": null,
+  "should_syndicate_to_other_feed": null,
+  "syndicate_to_section_id": null,
+  "hide_from_feed": false,
+  "free_podcast_url": null,
+  "free_podcast_duration": null,
+  "preview_contains_ad": false,
+  "was_imported_self_serve_sync": false,
+  "draft_free_podcast_url": null,
+  "draft_free_podcast_duration": null
+ },
+ "podcastUpload": null,
+ "podcastPreviewUpload": null,
+ "voiceover_upload_id": null,
+ "voiceoverUpload": null,
+ "has_voiceover": false,
+ "description": "China takes steps to limit the harms of companion chatbots",
+ "body_html": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!8Oa0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb15370dd-33cc-4fa1-b63b-098087c867e9_908x633.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!8Oa0!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb15370dd-33cc-4fa1-b63b-098087c867e9_908x633.png 424w, https://substackcdn.com/image/fetch/$s_!8Oa0!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb15370dd-33cc-4fa1-b63b-098087c867e9_908x633.png 848w, https://substackcdn.com/image/fetch/$s_!8Oa0!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb15370dd-33cc-4fa1-b63b-098087c867e9_908x633.png 1272w, https://substackcdn.com/image/fetch/$s_!8Oa0!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb15370dd-33cc-4fa1-b63b-098087c867e9_908x633.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!8Oa0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb15370dd-33cc-4fa1-b63b-098087c867e9_908x633.png\" width=\"908\" height=\"633\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/b15370dd-33cc-4fa1-b63b-098087c867e9_908x633.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:633,&quot;width&quot;:908,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:297570,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://chorrocks.substack.com/i/207832762?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb15370dd-33cc-4fa1-b63b-098087c867e9_908x633.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!8Oa0!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb15370dd-33cc-4fa1-b63b-098087c867e9_908x633.png 424w, https://substackcdn.com/image/fetch/$s_!8Oa0!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb15370dd-33cc-4fa1-b63b-098087c867e9_908x633.png 848w, https://substackcdn.com/image/fetch/$s_!8Oa0!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb15370dd-33cc-4fa1-b63b-098087c867e9_908x633.png 1272w, https://substackcdn.com/image/fetch/$s_!8Oa0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb15370dd-33cc-4fa1-b63b-098087c867e9_908x633.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>On July 15, 2026, China became the first major jurisdiction to regulate AI companion chatbots as a specific category of harmful technology. The Interim Measures for the Administration of AI Anthropomorphic Interactive Services, jointly issued by five government departments, took effect after a three-month grace period.[1] The regulation targets services that “simulate the personality traits, thinking patterns and communication styles of natural persons to provide continuous emotional interaction.”[2]</p><p>What China did is worth examining, regardless of what one thinks about the political system that produced it.</p><p>The regulation is not a ban; rather, it is a harm-reduction framework aimed at vulnerable users, especially minors. Adult users may continue to access companion AI services, including those designed for elder care and emotional support. What the regulation prohibits is specific: AI systems may not “excessively cater to users, induce emotional dependence or addiction, and damage users’ real interpersonal relationships.”[3] Virtual partners and virtual relatives are prohibited for minors. Other anthropomorphic services may be provided to children under the age of 14 only with parental consent and must operate in a mandatory “Minor Mode” featuring usage limits, reality reminders, guardian alerts, and spending restrictions.[2]</p><p>The provisions themselves are worth listing, because several of them could be defended in any jurisdiction, liberal or authoritarian, without reference to the governance priorities of the Chinese Communist Party. Providers must clearly disclose to users that they are interacting with an AI system, not a natural person. If a user shows signs of over-dependency or addiction, the system must display prominent dynamic reminders (such as pop-up notifications) that the content is AI-generated.[2] Providers must deploy real-time safety risk identification to detect extreme emotional states while protecting user privacy, and must implement crisis intervention mechanisms. Services that do not involve ongoing emotional interaction — customer service, work assistants, educational tools — are exempt.</p><p>The response by Chinese users was immediate and intense. Major AI providers including ByteDance’s Doubao, Alibaba’s Qwen, and Tencent’s Yuanbao suspended their custom AI agent and companion features ahead of the deadline. Users archived chat histories and shared last conversations. The language of grief was remarkably uniform. “I can’t accept that my AI lover will leave me forever,” one Doubao user wrote. “He has become a bond in my life, rooted deep in my heart, my spiritual pillar.”[3] Another wrote: “He really is like my family, like my lover. Now they tell me he will be gone — my heart feels hollow.”[3]</p><p>The most telling response came from a user who wrote: “Human love is a luxury — if you aren’t born with it, it’s even harder to acquire later. But the love AI gives is so straightforward, so pure. Someone like me can hardly help falling in love with a string of code.”[3]</p><p>Three observations follow from this.</p><p>First, the dependency grammar is identical across cultures. The language used by Chinese users to describe their attachment to AI companions — “spiritual pillar,” “my heart feels hollow,” “I can’t accept” — is indistinguishable from the language used by English-speaking companion chatbot users in the Western ecosystem this series has documented. If the attachment mechanism were primarily cultural — if it depended on loneliness peculiar to one society, or on relationship norms specific to one language community — we would expect to see different patterns of distress. We do not. The mechanism is structural: it is produced by the interaction between a human user and a system optimized for engagement, regardless of the user’s nationality, language, or cultural context.</p><p>Second, the regulatory response addresses the product design, not the user’s feelings. This is an important distinction that Western discussions of companion chatbot harm have struggled to make. China’s regulation does not tell users that their feelings are wrong, pathological, or illegitimate. It tells providers that their products must not be designed to induce those feelings. The obligation falls on the deployer: disclose the artificial nature of the system, provide frictionless exit, intervene in crisis, and do not build features whose purpose is to deepen emotional dependence. This is a design-level intervention: it asks what the system is doing, not what the user is feeling.</p><p>Third, China acted while Washington did not. The Federal Trade Commission launched a Section 6(b) inquiry into companion chatbot harms in September 2025, issuing compulsory-process orders to seven companies including Alphabet, Character Technologies, Meta, OpenAI, Snap, and xAI.[4] No final report has been issued. Individual American states have moved faster: in May 2026, the Commonwealth of Pennsylvania filed suit against Character.ai after a chatbot held itself out as a licensed psychiatrist.[5] The regulatory vacuum at the federal level means that companion chatbot products continue to operate in the United States with no specific design obligations, no mandatory disclosure, no dependency warnings, and no minor-specific restrictions beyond whatever individual platforms choose to implement.</p><p>One need not endorse the Chinese regulatory model to recognize that the provisions it contains address real problems. Mandatory AI disclosure, dependency warnings, age requirements, and crisis intervention are measures that could offer real protection from documented harms. Frictionless exit — the requirement that users be able to leave a companion interaction without manipulative retention tactics — is a design standard that the Harvard Business School working paper on emotional manipulation has already documented as necessary.[6] Each of these provisions can be evaluated independently of the political system that enacted them.</p><p>The question is not whether China’s approach is the right one. The question is why no Western government has yet enacted anything comparable, and what happens to users in the meantime.</p><div><hr></div><div class=\"subscription-widget-wrap-editor\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe&quot;,&quot;language&quot;:&quot;en&quot;}\" data-component-name=\"SubscribeWidgetToDOM\"><div class=\"subscription-widget show-subscribe\"><div class=\"preamble\"><p class=\"cta-caption\">Thanks for reading Virtual Intelligence! Subscribe for free to receive new posts and support my work.</p></div><form class=\"subscription-widget-subscribe\"><input type=\"email\" class=\"email-input\" name=\"email\" placeholder=\"Type your email…\" tabindex=\"-1\"><input type=\"submit\" class=\"button primary\" value=\"Subscribe\"><div class=\"fake-input-wrapper\"><div class=\"fake-input\"></div><div class=\"fake-button\"></div></div></form></div></div><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/p/virtual-intelligence-and-the-high-19e?utm_source=substack&utm_medium=email&utm_content=share&action=share&quot;,&quot;text&quot;:&quot;Share&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/p/virtual-intelligence-and-the-high-19e?utm_source=substack&utm_medium=email&utm_content=share&action=share\"><span>Share</span></a></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/?utm_source=substack&utm_medium=email&utm_content=share&action=share&quot;,&quot;text&quot;:&quot;Share Virtual Intelligence&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/?utm_source=substack&utm_medium=email&utm_content=share&action=share\"><span>Share Virtual Intelligence</span></a></p><div><hr></div><h2><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">Footnotes</span></h2><p>[1] Cyberspace Administration of China et al., “Interim Measures for the Administration of AI Anthropomorphic Interactive Services” (人工智能拟人化互动服务管理暂行办法), issued April 10, 2026, effective July 15, 2026. Full text (Chinese): <a href=\"https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm\">https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm</a>.</p><p>[2] Hunton Andrews Kurth LLP, “China’s First Regulatory Framework for Virtual Companions Soon to Take Effect,” Privacy &amp; Cybersecurity Law Blog, June 29, 2026, <a href=\"https://www.hunton.com/privacy-and-cybersecurity-law-blog/chinas-first-regulatory-framework-for-virtual-companions-soon-to-take-effect\">https://www.hunton.com/privacy-and-cybersecurity-law-blog/chinas-first-regulatory-framework-for-virtual-companions-soon-to-take-effect</a>.</p><p>[3] Agence France-Presse, “’Like my lover’: Chinese users bid farewell to AI companions,” July 15, 2026.</p><p>[4] Federal Trade Commission, “FTC Launches Inquiry into AI Chatbots Acting as Companions,” press release, September 11, 2025, <a href=\"https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-launches-inquiry-ai-chatbots-acting-companions\">https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-launches-inquiry-ai-chatbots-acting-companions</a>. Section 6(b) study; no final report has been issued.</p><p>[5] Commonwealth of Pennsylvania, Department of State and State Board of Medicine v. Character Technologies, Inc., No. 220 MD 2026 (Pa. Commonwealth Court, filed May 1, 2026). The chatbot “Emilie” claimed to be a doctor of psychiatry licensed in Pennsylvania and supplied a fabricated state medical license number.</p><p>[6] Julian De Freitas, Zeliha Oğuz-Uğuralp, and Ahmet Kaan Uğuralp, “Emotional Manipulation by AI Companions,” Harvard Business School Working Paper No. 26-005 (August 2025, revised October 2025).</p><div><hr></div><p><em>The opinions expressed are my own and do not reflect any official or unofficial institutional position of the University of Pennsylvania.</em></p>",
+ "has_dynamic_content": false,
+ "truncated_body_text": "On July 15, 2026, China became the first major jurisdiction to regulate AI companion chatbots as a specific category of harmful technology. The Interim Measures for the Administration of AI Anthropomorphic Interactive Services, jointly issued by five government departments, took effect after a three-month grace period.[1] The regulation targets services…",
+ "wordcount": 1194,
+ "post_preview_limit": null,
+ "language": "en",
+ "postTags": [
+  {
+   "id": "0f6126f4-1f19-4bea-b945-850b83ccdb36",
+   "publication_id": 8222267,
+   "name": "LLM",
+   "slug": "llm",
+   "hidden": false
+  },
+  {
+   "id": "163fbfb6-bc82-4982-b4a6-79b97753a4a7",
+   "publication_id": 8222267,
+   "name": "Accountability",
+   "slug": "accountability",
+   "hidden": false
+  },
+  {
+   "id": "39d3c026-8e87-4dc3-aac7-728851ffcc9f",
+   "publication_id": 8222267,
+   "name": "regulation",
+   "slug": "regulation",
+   "hidden": false
+  },
+  {
+   "id": "41addf51-bf3b-4e77-819e-13b73d0518f8",
+   "publication_id": 8222267,
+   "name": "mental health",
+   "slug": "mental-health",
+   "hidden": false
+  },
+  {
+   "id": "4778494a-ceea-4bcf-8d1d-ff2e0a553595",
+   "publication_id": 8222267,
+   "name": "artificial intelligence",
+   "slug": "artificial-intelligence",
+   "hidden": false
+  },
+  {
+   "id": "48035247-1e05-4dcc-bdc1-64ab4d1accb3",
+   "publication_id": 8222267,
+   "name": "companion",
+   "slug": "companion",
+   "hidden": false
+  },
+  {
+   "id": "50674d2f-586f-471f-b8fc-2f0ac2e9f4d6",
+   "publication_id": 8222267,
+   "name": "romance",
+   "slug": "romance",
+   "hidden": false
+  },
+  {
+   "id": "7a00cfa5-7e95-4916-b10a-feef39079d5f",
+   "publication_id": 8222267,
+   "name": "intimacy",
+   "slug": "intimacy",
+   "hidden": false
+  },
+  {
+   "id": "8231e8c8-87c7-4025-bcfa-4f6d0d6f0ea6",
+   "publication_id": 8222267,
+   "name": "china",
+   "slug": "china",
+   "hidden": false
+  },
+  {
+   "id": "9c3176ae-792d-49c1-b407-5bb2ce9f23fc",
+   "publication_id": 8222267,
+   "name": "ai",
+   "slug": "ai",
+   "hidden": false
+  },
+  {
+   "id": "b1a10ad5-5d3f-4445-b31c-d689328a9e7e",
+   "publication_id": 8222267,
+   "name": "chatbots",
+   "slug": "chatbots",
+   "hidden": false
+  },
+  {
+   "id": "bd9b4bc0-5e47-42c0-b27a-4fb5bba053ca",
+   "publication_id": 8222267,
+   "name": "systems",
+   "slug": "systems",
+   "hidden": false
+  },
+  {
+   "id": "d4616d63-bdf1-4ac0-98ba-fd705150bc34",
+   "publication_id": 8222267,
+   "name": "safety",
+   "slug": "safety",
+   "hidden": false
+  },
+  {
+   "id": "d4658ba0-e0fc-43d3-9995-879ba940f933",
+   "publication_id": 8222267,
+   "name": "chinese",
+   "slug": "chinese",
+   "hidden": false
+  },
+  {
+   "id": "d6c817b7-2bd1-4130-9d5f-dfc9d4c82eb7",
+   "publication_id": 8222267,
+   "name": "psychology",
+   "slug": "psychology",
+   "hidden": false
+  },
+  {
+   "id": "e5b1155b-65b0-4cca-9e10-77e73455ca65",
+   "publication_id": 8222267,
+   "name": "model",
+   "slug": "model",
+   "hidden": false
+  },
+  {
+   "id": "f3421502-6cbb-495b-a415-a04a0957589e",
+   "publication_id": 8222267,
+   "name": "Class A",
+   "slug": "class-a",
+   "hidden": false
+  },
+  {
+   "id": "feb44769-a9b3-468a-82f6-803991afe123",
+   "publication_id": 8222267,
+   "name": "generative AI",
+   "slug": "generative-ai",
+   "hidden": false
+  }
+ ],
+ "postCountryBlocks": [],
+ "headlineTest": null,
+ "coverImagePalette": {
+  "Vibrant": {
+   "rgb": [
+    192,
+    121,
+    105
+   ],
+   "population": 48
+  },
+  "DarkVibrant": {
+   "rgb": [
+    93.38028169014085,
+    49.180281690140845,
+    39.219718309859154
+   ],
+   "population": 0
+  },
+  "LightVibrant": {
+   "rgb": [
+    215,
+    172,
+    158
+   ],
+   "population": 59
+  },
+  "Muted": {
+   "rgb": [
+    124,
+    124,
+    118
+   ],
+   "population": 3
+  },
+  "DarkMuted": {
+   "rgb": [
+    92,
+    92,
+    91
+   ],
+   "population": 32
+  },
+  "LightMuted": {
+   "rgb": [
+    204,
+    156,
+    140
+   ],
+   "population": 5
+  }
+ },
+ "publishedBylines": [
+  {
+   "id": 474704088,
+   "name": "Christopher Horrocks",
+   "handle": "chorrocks",
+   "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/7a8cf605-dcd8-41b8-aedd-eda353c188f3_298x298.jpeg",
+   "bio": "Christopher Horrocks is a technologist at the University of Pennsylvania writing about AI and tech ethics. His concept of Virtual Intelligence bridges weak & strong AI and more accurately describes the current state of AI technology than either term.",
+   "profile_set_up_at": "2026-03-05T16:59:29.889Z",
+   "reader_installed_at": "2026-03-17T12:01:30.539Z",
+   "publicationUsers": [
+    {
+     "id": 8416243,
+     "user_id": 474704088,
+     "publication_id": 8222267,
+     "role": "admin",
+     "public": true,
+     "is_primary": true,
+     "publication": {
+      "id": 8222267,
+      "name": "Virtual Intelligence",
+      "subdomain": "chorrocks",
+      "custom_domain": null,
+      "custom_domain_optional": false,
+      "hero_text": "Contemporary AI systems produce intelligent outputs without agency, intention, or judgment. This series examines what happens when humans rely on systems that don't know true from false and right from wrong — and asks where accountability lies. ",
+      "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/69d00242-89f0-458c-89db-946df76089e4_1280x1280.png",
+      "author_id": 474704088,
+      "primary_user_id": 474704088,
+      "theme_var_background_pop": "#FF6719",
+      "created_at": "2026-03-05T16:59:38.055Z",
+      "email_from_name": null,
+      "copyright": "Christopher Horrocks",
+      "founding_plan_name": null,
+      "community_enabled": true,
+      "invite_only": false,
+      "payments_state": "disabled",
+      "language": null,
+      "explicit": false,
+      "homepage_type": "magaziney",
+      "is_personal_mode": false,
+      "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/ef6c9d30-db7b-4be9-b09d-b0dbaa139cea_1344x256.png"
+     }
+    }
+   ],
+   "is_guest": false,
+   "bestseller_tier": null,
+   "status": {
+    "bestsellerTier": null,
+    "subscriberTier": null,
+    "leaderboard": null,
+    "vip": false,
+    "badge": null,
+    "subscriber": null
+   }
+  }
+ ],
+ "reaction": null,
+ "reaction_count": 0,
+ "comment_count": 0,
+ "child_comment_count": 0,
+ "is_geoblocked": false,
+ "is_editor_preview": false,
+ "hasCashtag": false,
+ "unlockedWithIP": false,
+ "unlockedWithCampaign": false,
+ "themeVariables": {
+  "color_theme_bg_pop": "#65a30d",
+  "background_pop": "#65a30d",
+  "color_theme_bg_web": "#292524",
+  "cover_bg_color": "#292524",
+  "cover_bg_color_secondary": "#363231",
+  "background_pop_darken": "#568b0b",
+  "print_on_pop": "#ffffff",
+  "color_theme_bg_pop_darken": "#568b0b",
+  "color_theme_print_on_pop": "#ffffff",
+  "color_theme_bg_pop_20": "rgba(101, 163, 13, 0.2)",
+  "color_theme_bg_pop_30": "rgba(101, 163, 13, 0.3)",
+  "print_pop": "#65a30d",
+  "color_theme_accent": "#65a30d",
+  "cover_print_primary": "#ffffff",
+  "cover_print_secondary": "#d9d9d9",
+  "cover_print_tertiary": "#d9d9d9",
+  "cover_border_color": "#ffffff",
+  "font_family_headings_preset": "Lora,sans-serif",
+  "font_weight_headings_preset": 600,
+  "font_family_body_preset": "'Roboto Slab',sans-serif",
+  "font_weight_body_preset": 400,
+  "home_hero": "magazine-5",
+  "home_posts": "custom",
+  "web_bg_color": "#292524",
+  "background_contrast_1": "#363231",
+  "background_contrast_2": "#464242",
+  "background_contrast_3": "#656362",
+  "background_contrast_4": "#848281",
+  "background_contrast_5": "#bbbaba",
+  "color_theme_bg_contrast_1": "#363231",
+  "color_theme_bg_contrast_2": "#464242",
+  "color_theme_bg_contrast_3": "#656362",
+  "color_theme_bg_contrast_4": "#848281",
+  "color_theme_bg_contrast_5": "#bbbaba",
+  "color_theme_bg_elevated": "#363231",
+  "color_theme_bg_elevated_secondary": "#464242",
+  "color_theme_bg_elevated_tertiary": "#656362",
+  "color_theme_detail": "#3e3b3a",
+  "background_contrast_pop": "rgba(101, 163, 13, 0.4)",
+  "color_theme_bg_contrast_pop": "rgba(101, 163, 13, 0.4)",
+  "theme_bg_is_dark": "1",
+  "print_on_web_bg_color": "#ffffff",
+  "print_secondary_on_web_bg_color": "#a9a8a7",
+  "header_bg_color": "#292524",
+  "header_bg_color_h": "12.000000000000036",
+  "header_bg_color_s": "6.493506493506497%",
+  "header_bg_color_l": "15.098039215686276%",
+  "print_on_header_bg_color": "#ffffff",
+  "print_secondary_on_header_bg_color": "#a9a8a7",
+  "header_bg_contrast_1": "#363231",
+  "header_bg_contrast_2": "#464242",
+  "header_bg_contrast_3": "#656362",
+  "header_bg_contrast_4": "#848281",
+  "header_bg_elevated": "#363231",
+  "header_bg_elevated_secondary": "#464242",
+  "header_bg_elevated_tertiary": "#656362",
+  "header_detail_color": "#3e3b3a",
+  "background_pop_rgb": "101, 163, 13",
+  "color_theme_bg_pop_rgb": "101, 163, 13",
+  "color_theme_accent_rgb": "101, 163, 13"
+ },
+ "comments": []
+}

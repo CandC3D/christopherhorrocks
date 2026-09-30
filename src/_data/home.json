@@ -1,0 +1,26 @@
+{
+  "_comment": "Homepage content other than essays. Descriptions marked draft are taken from each site's own page description and await Chris's approval.",
+  "bio": [
+    "Christopher Horrocks is a technologist at the University of Pennsylvania. He is the author of Virtual Intelligence, an essay series on AI systems, accountability, and the exchange between people and machines, published on Substack since March 2026."
+  ],
+  "bioMore": [],
+  "tools": [
+    { "title": "Virtual Intelligence framework", "url": "https://candc3d.github.io/vi-framework/", "note": "An interactive reference framework for Virtual Intelligence, the excluded middle between Weak AI and Strong AI." },
+    { "title": "The Sampo framework", "url": "https://candc3d.github.io/sampo-framework/", "note": "A constitutive model of the human-VI exchange." },
+    { "title": "Sampo Diagnostic Kit", "url": "https://candc3d.github.io/sampo-diagnostic/", "note": "A free, open toolkit for measuring the health of human–AI exchange." },
+    { "title": "The Carwash Test", "url": "https://carwashtest.org/", "note": "A longitudinal AI reasoning diagnostic." },
+    { "title": "BrassLLM: Analytical Bard Engine", "url": "https://brassllm.com/bard/", "note": "An LLM of the Sonnets, in brass." },
+    { "title": "ELIZA-66", "url": "https://candc3d.github.io/ELIZA-66/", "note": "" }
+  ],
+  "talks": [
+    { "title": "Virtual Intelligence: A Practical Framework for the AI Tools We're Deploying", "where": "Penn IT Staff Convention, Amy Gutmann Hall", "date": "May 20, 2026" }
+  ],
+  "research": [
+    { "title": "The Exchange Monitor", "url": "https://zenodo.org/records/22101655", "where": "Zenodo", "year": 2026 }
+  ],
+  "elsewhere": [
+    { "title": "Substack", "url": "https://chorrocks.substack.com" },
+    { "title": "Medium", "url": "" },
+    { "title": "GitHub", "url": "https://github.com/CandC3D" }
+  ]
+}

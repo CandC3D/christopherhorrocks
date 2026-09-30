@@ -1,0 +1,25 @@
+---
+layout: base.njk
+---
+{% set slug = page.fileSlug %}
+{% set series = slug | seriesOf(curation) %}
+{% set nb = collections.pieces | neighbours(slug, curation) %}
+<article class="essay">
+  <header class="essay-head">
+    <h1>{{ title }}</h1>
+    {% if subtitle %}<p class="subtitle">{{ subtitle }}</p>{% endif %}
+    <p class="meta"><time datetime="{{ date | isoDate }}">{{ date | longDate }}</time>{% if series == "interludes" %} · Interlude{% endif %}</p>
+  </header>
+  <div class="prose">
+{{ content | safe }}
+  </div>
+  <footer class="essay-foot">
+    <p class="origin">Originally published on Substack, {{ date | longDate }}. <a href="{{ substack }}">Read the original</a>.{% if podcast %} <a href="{{ podcast }}">Listen to the podcast episode</a>.{% endif %}</p>
+    {% if nb.prev or nb.next %}
+    <nav class="prevnext" aria-label="{{ 'Interludes' if series == 'interludes' else 'Essays' }}">
+      {% if nb.prev %}<a class="prev" href="{{ nb.prev.url }}"><span>Previous</span>{{ nb.prev.data.title }}</a>{% else %}<span></span>{% endif %}
+      {% if nb.next %}<a class="next" href="{{ nb.next.url }}"><span>Next</span>{{ nb.next.data.title }}</a>{% endif %}
+    </nav>
+    {% endif %}
+  </footer>
+</article>

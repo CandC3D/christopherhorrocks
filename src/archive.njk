@@ -1,0 +1,21 @@
+---
+layout: base.njk
+permalink: /archive/
+title: Archive
+description: Every essay and interlude from the Virtual Intelligence series hosted on this site.
+---
+<h1 class="page-title">Archive</h1>
+
+{% for group in [["essays", "Essays"], ["interludes", "Interludes"], ["aids", "Reader aids"]] %}
+{% set items = collections.pieces | inSeries(group[0], curation) %}
+{% if items.length %}
+<section>
+  <h2>{{ group[1] }}</h2>
+  <ul class="list dated">
+  {% for e in items %}
+    <li><time datetime="{{ e.date | isoDate }}">{{ e.date | longDate }}</time><a href="{{ e.url }}">{{ e.data.title }}</a></li>
+  {% endfor %}
+  </ul>
+</section>
+{% endif %}
+{% endfor %}

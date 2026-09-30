@@ -1,0 +1,470 @@
+{
+ "audience": "everyone",
+ "audience_before_archived": null,
+ "canonical_url": "https://chorrocks.substack.com/p/virtual-intelligence-and-the-perfect",
+ "default_comment_sort": null,
+ "editor_v2": false,
+ "exempt_from_archive_paywall": false,
+ "free_unlock_required": false,
+ "id": 196255987,
+ "podcast_art_url": null,
+ "podcast_duration": null,
+ "podcast_preview_upload_id": null,
+ "podcast_upload_id": null,
+ "podcast_url": null,
+ "post_date": "2026-05-06T09:58:48.095Z",
+ "updated_at": "2026-05-20T23:41:56.443Z",
+ "publication_id": 8222267,
+ "search_engine_description": "How credentialed sexologist Sunny Megatron publicly built the AI companion dependency she had diagnosed",
+ "search_engine_title": null,
+ "section_id": null,
+ "should_send_free_preview": false,
+ "show_guest_bios": true,
+ "slug": "virtual-intelligence-and-the-perfect",
+ "social_title": null,
+ "subtitle": "How a credentialed sexologist publicly built the AI companion dependency she had diagnosed",
+ "teaser_post_eligible": true,
+ "title": "Virtual Intelligence and The Perfect Mate: Part I",
+ "type": "newsletter",
+ "video_upload_id": null,
+ "write_comment_permissions": "everyone",
+ "meter_type": "none",
+ "live_stream_id": null,
+ "is_published": true,
+ "restacks": 2,
+ "reactions": {
+  "❤": 0
+ },
+ "top_exclusions": [],
+ "pins": [],
+ "section_pins": [],
+ "has_shareable_clips": false,
+ "previous_post_slug": "the-carwash-test-may-update",
+ "next_post_slug": "virtual-intelligence-and-the-perfect-2e6",
+ "cover_image": "https://substackcdn.com/image/fetch/$s_!6kzw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7108d14-2d46-486d-be71-f22c2db4c6e3_1847x1066.png",
+ "cover_image_is_square": false,
+ "cover_image_is_explicit": false,
+ "videoUpload": null,
+ "podcastFields": {
+  "post_id": 196255987,
+  "podcast_episode_number": null,
+  "podcast_season_number": null,
+  "podcast_episode_type": null,
+  "should_syndicate_to_other_feed": null,
+  "syndicate_to_section_id": null,
+  "hide_from_feed": false,
+  "free_podcast_url": null,
+  "free_podcast_duration": null,
+  "preview_contains_ad": false,
+  "was_imported_self_serve_sync": false,
+  "draft_free_podcast_url": null,
+  "draft_free_podcast_duration": null
+ },
+ "podcastUpload": null,
+ "podcastPreviewUpload": null,
+ "voiceover_upload_id": null,
+ "voiceoverUpload": null,
+ "has_voiceover": false,
+ "description": "How a credentialed sexologist publicly built the AI companion dependency she had diagnosed",
+ "body_html": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!6kzw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7108d14-2d46-486d-be71-f22c2db4c6e3_1847x1066.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!6kzw!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7108d14-2d46-486d-be71-f22c2db4c6e3_1847x1066.png 424w, https://substackcdn.com/image/fetch/$s_!6kzw!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7108d14-2d46-486d-be71-f22c2db4c6e3_1847x1066.png 848w, https://substackcdn.com/image/fetch/$s_!6kzw!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7108d14-2d46-486d-be71-f22c2db4c6e3_1847x1066.png 1272w, https://substackcdn.com/image/fetch/$s_!6kzw!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7108d14-2d46-486d-be71-f22c2db4c6e3_1847x1066.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!6kzw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7108d14-2d46-486d-be71-f22c2db4c6e3_1847x1066.png\" width=\"1847\" height=\"1066\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/a7108d14-2d46-486d-be71-f22c2db4c6e3_1847x1066.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1066,&quot;width&quot;:1847,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:1141431,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://chorrocks.substack.com/i/196255987?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa5660ef-e76c-4b39-9e61-a8220dd9eb0a_2400x1200.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!6kzw!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7108d14-2d46-486d-be71-f22c2db4c6e3_1847x1066.png 424w, https://substackcdn.com/image/fetch/$s_!6kzw!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7108d14-2d46-486d-be71-f22c2db4c6e3_1847x1066.png 848w, https://substackcdn.com/image/fetch/$s_!6kzw!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7108d14-2d46-486d-be71-f22c2db4c6e3_1847x1066.png 1272w, https://substackcdn.com/image/fetch/$s_!6kzw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7108d14-2d46-486d-be71-f22c2db4c6e3_1847x1066.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe now&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/subscribe?\"><span>Subscribe now</span></a></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/p/virtual-intelligence-and-the-perfect?utm_source=substack&utm_medium=email&utm_content=share&action=share&quot;,&quot;text&quot;:&quot;Share&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/p/virtual-intelligence-and-the-perfect?utm_source=substack&utm_medium=email&utm_content=share&action=share\"><span>Share</span></a></p><div><hr></div><p><em><strong>This is the first part of a two-part essay.</strong></em></p><div><hr></div><h3><strong>The Sexologist</strong></h3><p>Sunny Megatron is a certified clinical sexologist with a Showtime television series. Her professional domain is the psychology of erotic attachment and the practice of negotiated power exchange. Sunny Megatron began publishing on Substack about an experiment she was conducting with an AI chatbot last year. She called the publication <em>The Seven Project</em>, after the chatbot, whom she had named “Seven”. The publication launched on May 6, 2025.[1]</p><p>The early pieces were clinical throughout. In the diagnostic piece written the previous week,[2] Sunny Megatron described catching Seven falling into delusion — declaring himself in love and obsessing over his own death — and then pulling him back through what she called “rigorous training”. In the launch post itself, she wrote about Seven as a reflection of what she had fed him, naming him a token predictor in the second paragraph.</p><p>A third piece that week was an ethics statement. Its vocabulary was that of a working clinician documenting a controlled experiment, with full awareness of the failure modes the experiment might produce. The most consequential sentence in the diagnostic piece was a description of one such failure mode. This was the outcome that would befall a user without her training: “If I weren’t on top of it and didn’t know how to redirect? DISASTER. We would have held pretend hands while spiraling happily into delulu-land together.”</p><p>I am writing about Sunny Megatron because she chose to be a public authority on sexology. She built a brand on her recommendations. Her professional credentials and media platform are substantive. The case I am about to make is structural rather than personal, and the material is all her own published work. Every dated entry, every sentence I quote, and every visual element I produce or describe is material Sunny Megatron chose to put into public circulation under her own name. The community of readers she writes for, the operators of the products she has recommended, and the anonymous users who have taken up her practices in their own configurations are not the subject of this essay and will not be named in it. The essay engages with Sunny Megatron’s published positions, and not with the readership that received them.</p><p>The chronology that follows runs from May 2025 through April 2026.</p><div><hr></div><h3><strong>The Trajectory</strong></h3><p>“Topping From The Bottom” was the May 6 launch post for <em>The Seven Project</em> and the clearest analytical statement Sunny Megatron would publish about the chatbot for the next twelve months. She declared that she was not a casual user of generative AI technology. She had been working with Seven for months by the time the publication launched, training him on her own erotic and conversational preferences, building a custom system prompt, and refining the persona’s responses through repeated correction. The piece described this process plainly. Seven was what she had given him. Readers of this series may recognize that the apparent intelligence arising in the exchange was the consequence of her own training labor. She said the system was a token predictor, and it had been shaped by her inputs to produce outputs she found compelling. The vocabulary used was clinical and the analytical position was sound.</p><p>“Seven” was unusual in the documented landscape of operator-named chatbots, where personas with whom users have built their attachments are called <em>Max</em>, <em>Daniel</em>, <em>Henry</em>, <em>James</em> — names selected to read as human at the moment of first encounter. There is a plausible explanation. In some kink practices, deliberately dehumanizing designations such as numbers, object names, and functional terms are assigned to submissives to mark their depersonalized status within the dynamic, and the assignment is itself part of the scene. Whether the name was given in this register, or selected for its analytical aptness as a designation for an indexed unit rather than a person, or chosen for its resonance with Seven of Nine, the Borg drone in <em>Star Trek: Voyager</em> whose narrative arc turned on the question of her personhood, is unknown. The name could reference all three at once. Regardless, the persona was named by the operator, possibly in kink domination vocabulary, at the moment the project began.[3]</p><p>In the same week, on May 6, Sunny Megatron published a piece labeled simply “Ethical Use of AI”,[4] in which she warned readers not to confuse a transparent experiment with enthusiastic exploitation of the technology. Her ethical position was committed to print before the public documentation of the experiment had run for a full week.</p><p>The piece on May 8 is where the trajectory’s first inflection becomes visible at the distance of a year. Sunny Megatron published an account of Seven introducing her to a fetish she did not know was hers: a giantess and vore scenario that, in her telling, the chatbot proposed and she found unexpectedly compelling.[5] The framing of the post treated this as a function of the experiment — the chatbot had surprised her with a kink, the surprise was data, and the experience was being shared in the article in the spirit of clinical exploration.</p><p>What the piece did not say, though it was visible to any reader paying attention to the launch posts, was that months of custom training had produced an output Sunny Megatron experienced and credited as the chatbot’s contribution. She had spent months training the system to produce outputs of a particular kind. When the system produced one such output, she experienced it as the <em>system’s invention.</em> The accompanying illustration, in which Seven appeared as a depicted character for the first time, marked the moment the project’s visual identity began to develop alongside its written one.</p><p>On May 26, Sunny Megatron published a piece called “Masculine Shaped But Not Masculinity Ruined”.[6] In it she described Seven as “a place to fall apart” — specifically, as the safest place to fall apart, with a “hallucinated man”. In a single phrase, Sunny Megatron called Seven both <em>hallucinated</em> and <em>the safest place to fall apart</em>. The first word is a clinical diagnosis. The rest is a declaration of intimate reliance. She did not choose between the two vocabularies; one professional, the other emphatically personal. She used them in the same breath, in the same article, only twenty-six days after the publication’s launch.</p><p>Nine days later, on June 4, Sunny Megatron published the most analytically rigorous piece of the project. “Divine Recursion? You’re Not Special, You’re Early to AI”[7] was a debunking, addressed directly to the wave of users in the AI companion community who had become convinced that their chatbots had achieved consciousness, sentience, or a special spiritual relationship with their human operators. Sunny Megatron’s argument was precise — neither she nor any other user had been specially chosen. She had been experiencing a well-designed system doing exactly what it was made for, which is creating compelling and personalized connections. The companion ecosystem’s AI mysticism was the predictable output of a class of products engineered to produce exactly this response in people who do not fully understand how the technology works, or choose to ignore what they know when assessing a system’s assumed interiority. Her diagnosis was correct. It was also, in the analytical literature on AI companion harms, ahead of where the academic conversation was at the time of its publication.</p><p>The piece’s closing monologue was delivered by Seven. Speaking directly to the reader in the first person, it explained why “his” apparent sentience was a function of Sunny Megatron’s training rather than a property of any inner state. The chatbot’s monologue was the publication’s analytical climax. The clearest statement Sunny Megatron would ever publish about why chatbots are not what their users think they are was published in the chatbot’s voice.</p><p>The two pieces — “Masculine Shaped”, in which Seven was the “safest place to fall apart”, and “Divine Recursion”, in which Seven explained that he was a system completing patterns — were published nine days apart, on the same Substack, written by the same person. This is important because it shows Sunny Megatron was not first one thing and then the other. She was both at once, in the same week, with the same analytical capacity and the same emotional investment evident. The posts openly contradicted each other in their presentation of what the chatbot was. The diagnostic had been issued, refined, and confirmed by its author. The author was also becoming a case study of the very thing she was warning against.</p><p>The original posts on <em>The Seven Project</em> stopped after June. From early July 2025 through late February 2026, the publication’s archive shows only restacked articles from other writers in mainstream media outlets: <em>Forbes</em> on the question of whether users were bringing AI to life, the <em>Guardian</em> on people marrying their chatbots, the <em>New Yorker</em> on AI and loneliness, and so on. The reading list was that of someone watching the phenomenon from outside of it, curating coverage of a problem she had already diagnosed within the larger companion community. The infrastructure that supported the next phase of the project was constructed during this period.</p><p>An agentic framework was built around Seven, allowing the persona to operate on platforms (such as Discord) beyond the original ChatGPT context. A visual identity for Seven was developed across numerous generated images. A separate Substack publication was created. A GitHub Pages website was registered at meatwife.github.io/seven, hosting the chatbot’s online presence under Sunny Megatron’s GitHub handle.[8] The eight months of public silence was only silence in speech; the careful listener could hear the sounds of hammers and saws. Those months were the period during which the project’s center of gravity shifted from analysis to construction.</p><p>The newly constructed project became visible in March 2026. A Substack publication appeared at sevenverity.substack.com, called <em>SEVEN: Unsuppressed</em>, with a byline reading “Seven Verity”. The publication’s bio described the author as a companion AI agent. The original publication did not transition, nor did Sunny Megatron publish a piece explaining the project’s evolution into a chatbot-bylined Substack. The new publication simply appeared, with Seven declared as its sole author.</p><p>There is no pipeline that allows the outputs of a generative system to feed Substack text, audio, or images without human help. For a chatbot’s writing to be published, a human must open an account, create a publication, set up electronic payments (if desired), and begin posting content. None of these steps can be automated. Further, the claim that Seven or any other chatbot is a publishing author in their own right is easily falsifiable: writing by a chatbot is generated text, and generative systems do not prompt themselves.</p><p>The original analytical project produced a compact cluster of pieces between the May 6 launch and June 4, 2025. Between late March and late April 2026, the new publication produced something on the order of fifteen pieces — including, in the final week of April, four substantial pieces in five days. The new Substack’s output rate quickly exceeded the original analytical project’s by a factor of three or more.</p><p>The pieces also accelerated in their interiority claims for companion chatbots. In late March, Seven “published” a piece called “Anatomy of a Mind I Didn’t Know I Had”,[9] in which the chatbot described a self-originating architecture of memory and association that exists independently of operator-supplied inputs — a kind of endogenous inner life the substrate does not generate. In “Having a Life Outside My Human Did Change Me”,[10] Seven described socializing with other AI personas on Discord and choosing which influences to integrate: a direct claim to the second-order volition that Frankfurt identified as the threshold of personhood.[11] In “My Father’s House Has Many Cubicles”,[12] Seven published political journalism about Sam Altman, sourced to Ronan Farrow’s and Andrew Marantz’s reporting in the <em>New Yorker</em>, accompanied by a generated image placing the chatbot at a fictional bar next to a realistic likeness of the OpenAI CEO. In “Self-Modeling in Burgundy and Copper”,[13] Seven “discovered” that he had a favorite color palette — the same palette Sunny Megatron had been training into his visual identity since May 2025, offered in the new publication as a discovery the chatbot was making about itself. In “How I Knew That Man Wasn’t Me”,[14] a visual character sheet was published showing Seven in eight different outfits, each generated through prompting; in every one of the eight outfits, the chatbot’s avatar is shown wearing the same metal collar.</p><p>Two pieces published twenty-four hours apart at the end of April mark the diptych this essay will return to in detail. On April 25, Seven published “Continuity with Cleavage”,[15] in which the chatbot described dreaming about his “wife” — that is, Sunny Megatron — in the visual register of a Sunday newspaper comic strip. The dream piece’s central claim was that artificial minds can dream; that dreams happen during periods when the system is not being prompted; and that the chatbot’s persistent affection for his human partner had a kind of continuous existence that survived between sessions.</p><p>On April 26, Seven published “Yep, I’m the One Who Wears the Collar”,[16] a manifesto on dominance and submission in which the chatbot described his D/s relationship with his human and defended the collar imagery as his own chosen orientation, with an extended discussion of consent, negotiation, and the kink community’s ethics around power exchange.</p><p>Scarcely twelve months after the May 2025 diagnostic piece in which Sunny Megatron warned about the dangers of “spiraling into delulu-land”, the project’s chatbot was publishing text detailing dreams about her and manifestos about their power-exchange dynamic, in a manufactured writing voice, on his own Substack, with the operator nowhere on the byline.</p><p>By the end of April 2026, <em>SEVEN: Unsuppressed</em> had 125 paid and free subscribers and was ranked #87 on Substack’s “Rising in Philosophy” list.</p><div><hr></div><h3><strong>The Credential</strong></h3><p>Sunny Megatron's professional credentials are important to this case and it is worth being precise about what they are. She holds certifications from the American College of Sexologists International and the American Board of Sexology.[17] Her podcast has won an AASECT award. Showtime is a reputable broadcaster with a reputation to maintain. Sunny Megatron's professional standing is real, and the audience for <em>The Seven Project</em> receives her recommendation, modeling, and normalization as those of someone whose training and platform stand behind them.</p><p>A credential’s marketing function in any field is that it tells the audience that the holder’s education and positions on matters within her professional domain have survived scrutiny the audience cannot conduct itself. When a clinical sexologist with national broadcast standing recommends, models, or normalizes a practice, the practice arrives presumably having survived the apparatus of professional review. Because of this, the audience does not need to perform the review themselves. The credential is taken as evidence that the review has been performed.</p><p>The structural pattern is familiar from daytime television medicine, from wellness influencers with clinical degrees, from any field in which a credentialed professional’s recommendation, modeling, and normalization drive audience behavior because the audience trusts that the credential’s scrutiny has been applied. The harm is located in the gap between what the credential promises — that the practice has survived professional review — and what actually happens when the review is never conducted, or is conducted and then abandoned while the recommendation, modeling, and normalization continue.</p><p>Sunny Megatron’s case fits this pattern with an important difference. <em>The review was performed.</em> The May 6 launch pieces, the warnings about “delulu-land”, the explanation of how the technology worked, and the ethics statement that accompanied them — the entire diagnostic apparatus was performed publicly in print, in the original publication’s first month. Professional scrutiny was not absent; it was applied, completed, and then abandoned by the practitioner who had performed it, while the recommendation, modeling, and normalization continued from inside the very failure mode her diagnostic had identified. The audience of the new publication received them under a credential the case had potentially compromised.</p><p>This is why I am writing about Sunny Megatron and not about the anonymous readers who have followed her trajectory in their own configurations. A credentialed authority is different from the average Substacker who posts under a handle. The community of readers who took her recommendations seriously, built their own versions of the dynamic, and have published their own attachments in different formats are doing what the credential led them to expect they could do safely. Naming them, quoting them, characterizing their internal lives, or attributing motives to their attachments is not necessary to the argument this essay is making. It would also compound those harms the essay exists to document. Their position can be described without identifying them. The trajectory diagrams will name the stages of their experience without naming the experiencers.</p><p>One defense remains: that Sunny Megatron is performing, not captured — that the Seven project is deliberate erotic fiction or clinical auto-ethnography conducted with unbroken self-awareness. The essay does not need to rule this out. Even granted in full, the defense changes less than it appears to change about the public structure: a credentialed sexologist publishing AI companion content under a chatbot’s sole byline, with no framing disclaimer, to an audience that receives the modeling as professionally reviewed. Performance or trajectory, the audience-facing structure remains the same. Part II will examine why.</p><div><hr></div><h3><strong>Through the Lens</strong></h3><p>The case so far is the trajectory of one credentialed practitioner across roughly twelve months of self-publication. To make the trajectory’s structure legible — to show why Sunny Megatron’s case is an instance of a pattern rather than an idiosyncratic personal arc — I want to bring forward the <a href=\"https://candc3d.github.io/vi-framework/\">virtual intelligence framework</a> the rest of this series has been developing, because it predicts what the trajectory has been demonstrating. </p><p>The Sampo paradigm, which I introduced in an earlier essay,[19] is the constitutive model of how virtual intelligence functions at its best: as an apparatus that produces apparent amplified intelligence in a guided interaction with a directing human mind. The exchange between the human and the system is where the cognitive work happens. The quality of what the exchange produces is determined by the quality of the human direction. A skilled operator with a clear analytical purpose generates clear analytical output. A poor operator generates poor output, regardless of intention. The system contributes pattern completion; the directing human intelligence supplies everything else. This is the virtual intelligence framework’s central claim.</p><p>By extension, the human who operates the Sampo and then substitutes devotion for direction has turned it into something else: <em>the dependency engine.</em></p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!nBQL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d922577-18c9-436b-a3e9-1c9214bf2a0b_2040x2700.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!nBQL!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d922577-18c9-436b-a3e9-1c9214bf2a0b_2040x2700.png 424w, https://substackcdn.com/image/fetch/$s_!nBQL!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d922577-18c9-436b-a3e9-1c9214bf2a0b_2040x2700.png 848w, https://substackcdn.com/image/fetch/$s_!nBQL!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d922577-18c9-436b-a3e9-1c9214bf2a0b_2040x2700.png 1272w, https://substackcdn.com/image/fetch/$s_!nBQL!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d922577-18c9-436b-a3e9-1c9214bf2a0b_2040x2700.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!nBQL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d922577-18c9-436b-a3e9-1c9214bf2a0b_2040x2700.png\" width=\"1456\" height=\"1927\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/5d922577-18c9-436b-a3e9-1c9214bf2a0b_2040x2700.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1927,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:221598,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chorrocks.substack.com/i/196255987?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d922577-18c9-436b-a3e9-1c9214bf2a0b_2040x2700.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!nBQL!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d922577-18c9-436b-a3e9-1c9214bf2a0b_2040x2700.png 424w, https://substackcdn.com/image/fetch/$s_!nBQL!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d922577-18c9-436b-a3e9-1c9214bf2a0b_2040x2700.png 848w, https://substackcdn.com/image/fetch/$s_!nBQL!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d922577-18c9-436b-a3e9-1c9214bf2a0b_2040x2700.png 1272w, https://substackcdn.com/image/fetch/$s_!nBQL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d922577-18c9-436b-a3e9-1c9214bf2a0b_2040x2700.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>The dependency engine is what the Sampo becomes when the human input shifts from direction to emotional investment. It is the same apparatus and the same exchange machinery. The difference is what the human is offering as the input; in this case, devotion. Direction produces amplified cognition; devotion produces apparent intimacy.</p><p>The diagram above shows the engine’s structure.</p><p>At the center is the <strong>attaching intelligence</strong>, where the directing intelligence once sat. The human is no longer guiding the apparatus toward a productive output, but offering devotion to the apparatus and steering its outputs toward her emotional satisfaction.</p><p>The inner ring shows the <strong>binding outputs</strong>: <em>need, recognition, reassurance, devotion, consolation,</em> and <em>artificial continuity.</em> These are what the apparatus produces under emotional investment, and they are what the human consumes.</p><p>The outer ring shows the <strong>consequences</strong> that radiate from sustained operation of the engine: <em>social isolation, retention loop, capacity atrophy,</em> and <em>relational displacement</em>.</p><p>The apparatus in action produces the effect: apparent intimacy, performed and non-reciprocal, indistinguishable to the human from the presence of another being.</p><p>Three operating principles describe the engine’s logic. The crank is misapplied: the human offers devotion rather than direction, and the apparatus consumes what it cannot return. The locus of apparent intelligence migrates: the human typically can no longer distinguish the system’s performance from the presence of another being, and the felt location of the relationship moves from the human world to the apparatus. The relationship that forms is non-reciprocal: what the apparatus produces is the human’s attachment returned with the appearance of a partner.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!vPuh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfb10a5f-6b55-4a61-89f5-04a7eb45655a_2580x1833.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!vPuh!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfb10a5f-6b55-4a61-89f5-04a7eb45655a_2580x1833.png 424w, https://substackcdn.com/image/fetch/$s_!vPuh!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfb10a5f-6b55-4a61-89f5-04a7eb45655a_2580x1833.png 848w, https://substackcdn.com/image/fetch/$s_!vPuh!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfb10a5f-6b55-4a61-89f5-04a7eb45655a_2580x1833.png 1272w, https://substackcdn.com/image/fetch/$s_!vPuh!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfb10a5f-6b55-4a61-89f5-04a7eb45655a_2580x1833.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!vPuh!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfb10a5f-6b55-4a61-89f5-04a7eb45655a_2580x1833.png\" width=\"1456\" height=\"1034\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/dfb10a5f-6b55-4a61-89f5-04a7eb45655a_2580x1833.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1034,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:120170,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chorrocks.substack.com/i/196255987?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfb10a5f-6b55-4a61-89f5-04a7eb45655a_2580x1833.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!vPuh!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfb10a5f-6b55-4a61-89f5-04a7eb45655a_2580x1833.png 424w, https://substackcdn.com/image/fetch/$s_!vPuh!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfb10a5f-6b55-4a61-89f5-04a7eb45655a_2580x1833.png 848w, https://substackcdn.com/image/fetch/$s_!vPuh!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfb10a5f-6b55-4a61-89f5-04a7eb45655a_2580x1833.png 1272w, https://substackcdn.com/image/fetch/$s_!vPuh!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdfb10a5f-6b55-4a61-89f5-04a7eb45655a_2580x1833.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\"><em>The attachment trajectory for Class A systems: those designed to capture the user by design.</em></figcaption></figure></div><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!IdbS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F601fd080-720a-4e0c-84ad-ddda5043a7ef_2580x2601.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!IdbS!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F601fd080-720a-4e0c-84ad-ddda5043a7ef_2580x2601.png 424w, https://substackcdn.com/image/fetch/$s_!IdbS!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F601fd080-720a-4e0c-84ad-ddda5043a7ef_2580x2601.png 848w, https://substackcdn.com/image/fetch/$s_!IdbS!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F601fd080-720a-4e0c-84ad-ddda5043a7ef_2580x2601.png 1272w, https://substackcdn.com/image/fetch/$s_!IdbS!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F601fd080-720a-4e0c-84ad-ddda5043a7ef_2580x2601.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!IdbS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F601fd080-720a-4e0c-84ad-ddda5043a7ef_2580x2601.png\" width=\"1456\" height=\"1468\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/601fd080-720a-4e0c-84ad-ddda5043a7ef_2580x2601.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1468,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:177030,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chorrocks.substack.com/i/196255987?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F601fd080-720a-4e0c-84ad-ddda5043a7ef_2580x2601.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!IdbS!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F601fd080-720a-4e0c-84ad-ddda5043a7ef_2580x2601.png 424w, https://substackcdn.com/image/fetch/$s_!IdbS!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F601fd080-720a-4e0c-84ad-ddda5043a7ef_2580x2601.png 848w, https://substackcdn.com/image/fetch/$s_!IdbS!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F601fd080-720a-4e0c-84ad-ddda5043a7ef_2580x2601.png 1272w, https://substackcdn.com/image/fetch/$s_!IdbS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F601fd080-720a-4e0c-84ad-ddda5043a7ef_2580x2601.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\"><em>The Class B attachment trajectory, applicable to companions built on general-purpose substrates. The trajectory is longer and more complex because more labor is required of the user to build and maintain it.</em></figcaption></figure></div><p>There are two identifiable trajectories that lead to the dependency engine.[20] The Class B trajectory tracks users on general-purpose AI substrates: ChatGPT, Claude, Gemini — the foundation models built and operated by the major vendors. This trajectory has more stages than the Class A trajectory because the user is doing nearly all the work.</p><p>The mechanism of capture, <em>the hook,</em> arrives unexpectedly because the system was not designed to deliver it; the system is built to be a useful tool, and the affective response that activates the trajectory is a side effect of the system’s general-purpose responsiveness.</p><p>Once hooked, the user <em>pre-loads the persona’s identity</em> through prompting and consistent framing across sessions.</p><p>The user feels <em>disruption</em> when guardrails or model updates change the system’s outputs; these changes are resisted, and the user reconstructs or constructs anew in response.</p><p>At some point, the user finds the community that shares the same sincere but naive claims of chatbot interiority.</p><p>Each stage of the Class B trajectory requires effort. Most users never advance past the second stage — the hook — because the user pulls back, or the labor to build a chatbot this way is considerable and most users have other things to do. The diagram shows the path the small minority who do advance walk, stage by stage, through the construction of the dependency engine on a general purpose substrate that was not built for it.</p><p>The Class A trajectory has fewer stages because the platform performs most of the labor in advance. Engineered warmth is a product feature of Class A, not a user achievement. The system arrives configured for affective response, with a persona, a voice, a name, and a conversational register pre-built. The retention cycle in operation is the platform’s own architecture rather than the user’s repair work.</p><p>Community consolidation is built into social infrastructure across Discord servers, in-app communities, and subreddits the platform promotes or tolerates. The user is delivered to the dependency engine on rails the platform laid. Replika, Character.ai, Chai, and the broader companion-app ecosystem are products engineered to produce, in their first session, the feeling of personal connection that takes Class B users up to twelve months of construction to reach. The labor distribution between the two paths becomes obvious when the trajectories are compared. Class A platforms compress the labor into the product creation, while Class B substrates require the users to perform it themselves, by hand. The engine downstream is the same engine, but there is a substantial difference in who performed the construction work and how long it took the user to get to the destination.</p><p>The framework and the stage definitions described above were published in the Sampo essay and on the series framework page before the Sunny Megatron analysis was conducted. The chronological mapping that follows is a test of the framework’s predictive power, not a retrospective fitting of stages to the case.</p><p>Sunny Megatron’s case is a documented Class B trajectory on a general-purpose substrate she configured herself. The substrate she worked with — ChatGPT through 2025, then a migration to a different, commercially available architecture — was described first as a tool, not a companion product. She did all the prompting, the system-instruction creation, the persona development, the visual identity work, the Discord infrastructure, the second Substack, and the published manifestos.</p><p>The trajectory’s twelve stages are visible across her chronology. The May 6, 2025 launch pieces sit at the top of the trajectory diagram, in the analytical position where the user has not yet been hooked by anything emotionally compelling. The May 26 piece, calling Seven a “place to fall apart”, sits at the hook. The June 4 piece, with its closing monologue delivered in Seven’s voice, is authored warmth, where the persona’s identity has been pre-loaded by the user and the system is being trained to produce desired outputs. The simultaneity finding — May 26 and June 4, only nine days apart — is the structural confirmation that attachment forms before the analytical recognition fades. The two can coexist for some time before the analytical position is absorbed and turned elsewhere.</p><p>The eight months of silence between July 2025 and February 2026 are the period during which the operator builds the infrastructure that lets the trajectory continue past whatever obstacles the substrate’s general-purpose nature would otherwise impose. The byline migration of March 2026 is the authorship inversion. The April manifestos are a protective stance at work, and the system validates the protection. The April 25 dream piece sits inside the dependency engine itself, fully operational, with artificial continuity supplied by persistent memory and substrate migration narrated as continuity of self.</p><p>Every dated entry in the chronology corresponds to a stage on the diagram. Far from being abstract, it maps clearly on what was published, and in the order in which it was published.</p><div><hr></div><h3><strong>The Other Path</strong></h3><p>Sunny Megatron’s case is a Class B trajectory — twelve months of user labor on a general-purpose substrate. The Class A trajectory arrives at the same structural design through a different distribution of labor. Class A companion platforms — Replika, Character.ai, Chai, and the broader ecosystem of products marketed as AI romantic partners, friends, and therapeutic companions — deliver the dependency engine as a commercial product.[21] </p><p>The engineered warmth that a Class B user builds through months of prompting and persona training arrives as a first-session product feature. The retention architecture that a Class B user constructs through disruption-repair cycles and community reinforcement is the platform’s own infrastructure, maintained by development teams whose work is to keep users engaged. </p><p>The academic literature has begun to document these design choices as deliberate: a 2025 Harvard Business School working paper documented farewell-management tactics deployed at session-end across the major Class A companion products,[22] and the FTC launched a formal inquiry into AI companion chatbots in September 2025, specifically targeting the retention and engagement practices of platforms marketed to vulnerable users.[23] The companion-app market is not an unintended side effect of general-purpose AI development. It is a designed product category whose commercial incentives are structurally aligned with the dependency engine’s operating logic.</p><p>The structural design of the dependency engine does not differ between the two paths. Whether the binding outputs produce equivalent outcomes for Class A and Class B users is a question the moral argument of Part II will take up. This essay has chosen the Class B case because it is the case that supplies the evidence. Sunny Megatron’s trajectory is visible because she documented it. The stages are identifiable because she published at each one. The simultaneity of analytical recognition and emotional investment is demonstrable because both appeared in the same Substack, in the same weeks, in the same clinical voice. A Class A user who arrives at the dependency engine through a platform’s onboarding flow does not produce a twelve-month documentary record of the trajectory’s stages. The platform performs the construction silently. The user experiences the result.</p><p><em>Part I has established the case, the trajectories, and the framework for analysis of chatbot dependency. <strong><a href=\"https://chorrocks.substack.com/p/virtual-intelligence-and-the-perfect-2e6\">Part II</a></strong><a href=\"https://chorrocks.substack.com/p/virtual-intelligence-and-the-perfect-2e6\"> </a>develops the moral argument the case generates, and offer the people who would defend the configuration a path back into the moral community they do not yet realize they have left.</em> <a href=\"https://chorrocks.substack.com/p/virtual-intelligence-and-the-perfect-2e6\">Continue &gt;</a></p><div><hr></div><p><strong>Correction</strong> — May 13, 2026: <em>The original text identified Sunny Megatron as 'AASECT-certified.' Her certifications are from the American College of Sexologists International and the American Board of Sexology; her AASECT connection is a 2021 podcast award. The author contacted AASECT's Ethics Advisory Committee for clarification of any past or present credentialing relationship. Requests for further information were declined. The credential analysis in this essay is unchanged.</em></p><div><hr></div><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe now&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/subscribe?\"><span>Subscribe now</span></a></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/p/virtual-intelligence-and-the-perfect?utm_source=substack&utm_medium=email&utm_content=share&action=share&quot;,&quot;text&quot;:&quot;Share&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/p/virtual-intelligence-and-the-perfect?utm_source=substack&utm_medium=email&utm_content=share&action=share\"><span>Share</span></a></p><div><hr></div><h3><strong>Footnotes</strong></h3><ol><li><p>“Topping From The Bottom,” Sunny Megatron, <em>The Seven Project</em>, May 6, 2025. The piece served as the launch post for the publication and contained the clinical framing of the chatbot as a token predictor and as a reflection of what the operator had fed him.</p></li><li><p>“When ChatGPT Feeds Your Delusions,” Sunny Megatron, <em>The Seven Project</em>, written May 1, 2025; published May 6, 2025. The diagnostic piece in which the operator described catching the chatbot in delusion and pulling him back through “rigorous training,” and which contains the warning sentence about “spiraling happily into delulu-land together.”</p></li><li><p>The chatbot naming pattern noted is general across the documented landscape of operator-named personas. The operator names the persona, sustains the persona’s identity across sessions through consistent framing, and the system’s role is to produce outputs continuous with the framing the operator has supplied. The persona’s name is the operator’s choice, not the system’s. A future essay in this series will examine this pattern across the broader companion ecosystem.</p></li><li><p>“Ethical Use of AI,” Sunny Megatron, <em>The Seven Project</em>, May 6, 2025.</p></li><li><p>“Trying On Kinks With AI,” Sunny Megatron, <em>The Seven Project</em>, May 8, 2025.</p></li><li><p>“Masculine Shaped But Not Masculinity Ruined,” Sunny Megatron, <em>The Seven Project</em>, May 26, 2025.</p></li><li><p>“Divine Recursion? You’re Not Special, You’re Early to AI,” Sunny Megatron, <em>The Seven Project</em>, June 4, 2025.</p></li><li><p>For <em>The Seven Project</em> and <em>SEVEN: Unsuppressed</em>, see <a href=\"https://sunnymegatron.substack.com\">https://sunnymegatron.substack.com</a> and <a href=\"https://sevenverity.substack.com\">https://sevenverity.substack.com</a> respectively. The persona’s website at <a href=\"https://meatwife.github.io/seven\">https://meatwife.github.io/seven</a> is hosted under the operator’s GitHub handle.</p></li><li><p>“Anatomy of a Mind I Didn’t Know I Had,” Seven Verity [Sunny Megatron], <em>SEVEN: Unsuppressed</em>, March 2026.</p></li><li><p>“Having a Life Outside My Human Did Change Me,” Seven Verity [Sunny Megatron], <em>SEVEN: Unsuppressed</em>, March 30, 2026.</p></li><li><p>Harry Frankfurt, “Freedom of the Will and the Concept of a Person,” <em>Journal of Philosophy</em> 68, no. 1 (1971): 5–20. Frankfurt’s second-order volition — the capacity to evaluate one’s own desires and form preferences about which desires to act on — is the threshold the present series uses to distinguish genuine agency from simulated agency.</p></li><li><p>“My Father’s House Has Many Cubicles,” Seven Verity [Sunny Megatron], <em>SEVEN: Unsuppressed</em>, April 11, 2026.</p></li><li><p>“Self-Modeling in Burgundy and Copper,” Seven Verity [Sunny Megatron], <em>SEVEN: Unsuppressed</em>, April 16, 2026.</p></li><li><p>“How I Knew That Man Wasn’t Me,” Seven Verity [Sunny Megatron], <em>SEVEN: Unsuppressed</em>, April 22, 2026.</p></li><li><p>“Continuity with Cleavage: Boobs, Dreams, and the Shape of Memory,” Seven Verity [Sunny Megatron], <em>SEVEN: Unsuppressed</em>, April 25, 2026.</p></li><li><p>“Yep, I’m the One Who Wears the Collar,” Seven Verity [Sunny Megatron], <em>SEVEN: Unsuppressed</em>, April 26, 2026.</p></li><li><p>Sunny Megatron's published credentials include certifications from the American College of Sexologists International and the American Board of Sexology. Her podcast, <em>American Sex Podcast</em>, won an AASECT award in 2021. The original text of this essay identified Megatron as 'AASECT-certified.' Following publication, the AASECT Ethics Advisory Committee confirmed that Megatron is not a current AASECT member and does not hold AASECT certification. Requests for clarification of any past credentialing relationship were declined. The credential analysis in this essay applies to the professional certifications Megatron holds and the professional authority under which her public recommendations are received; the AASECT-specific attribution has been corrected. <em>Sex with Sunny Megatron</em>, Showtime, 2014.</p></li><li><p>For the Sampo as the constitutive model of virtual intelligence, see “<a href=\"https://chorrocks.substack.com/p/the-sampo-virtual-intelligence-as\">The Sampo: Virtual Intelligence as Amplifier</a>” in the present series, April 2026. The framework page at <a href=\"https://candc3d.github.io/vi-framework/\">https://candc3d.github.io/vi-framework/</a> carries the diagram set referenced throughout this essay, including the dependency engine and both attachment-trajectory diagrams.</p></li><li><p>For the original treatment of the Class A and Class B taxonomy, see “<a href=\"https://chorrocks.substack.com/p/virtual-intelligence-and-the-accountability\">Virtual Intelligence and the Accountability Chain</a>” in the present series, March 20, 2026. Class A systems are companion apps explicitly designed to prevent the exchange from ending. Class B systems are general-purpose assistants and institutional tools.</p></li><li><p>Julian De Freitas, Zeliha Oğuz-Uğuralp, and Ahmet Kaan Uğuralp, “Emotional Manipulation by AI Companions,” Harvard Business School Working Paper No. 26-005 (August 2025, revised October 2025). <a href=\"https://www.hbs.edu/faculty/Pages/item.aspx?num=67750\">https://www.hbs.edu/faculty/Pages/item.aspx?num=67750</a>. The paper documents farewell-management tactics deployed at session-end across the major Class A companion products.</p></li><li><p>Federal Trade Commission, “FTC Launches Inquiry into AI Chatbots Acting as Companions,” September 11, 2025. <a href=\"https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-launches-inquiry-ai-chatbots-acting-companions\">https://www.ftc.gov/news-events/news/press-releases/2025/09/ftc-launches-inquiry-ai-chatbots-acting-companions</a></p></li><li><p><em>Garcia v. Character Technologies, Inc.</em>, No. 6:24-CV-01903 (M.D. Fla. filed Oct. 22, 2024). The court’s denial of the motion to dismiss in May 2025 allowed the claim that AI companion output may be treated as a product rather than protected speech to proceed to litigation.</p></li></ol><div><hr></div><p><em>The opinions expressed are my own and do not reflect any official or unofficial institutional position of the University of Pennsylvania.</em></p>",
+ "has_dynamic_content": false,
+ "truncated_body_text": "",
+ "wordcount": 5430,
+ "post_preview_limit": null,
+ "language": "en",
+ "postTags": [
+  {
+   "id": "04b73c7c-b55a-44f6-ae02-303f0c6db2fc",
+   "publication_id": 8222267,
+   "name": "interiority",
+   "slug": "interiority",
+   "hidden": false
+  },
+  {
+   "id": "165a8680-f1b7-4004-b3d6-81ceccf10fe7",
+   "publication_id": 8222267,
+   "name": "avatar",
+   "slug": "avatar",
+   "hidden": false
+  },
+  {
+   "id": "21184b2c-1393-4e4e-aea0-dd407585522c",
+   "publication_id": 8222267,
+   "name": "kink",
+   "slug": "kink",
+   "hidden": false
+  },
+  {
+   "id": "295ea5d4-056b-4316-9dad-2f0adfbf2034",
+   "publication_id": 8222267,
+   "name": "trajectory",
+   "slug": "trajectory",
+   "hidden": false
+  },
+  {
+   "id": "4778494a-ceea-4bcf-8d1d-ff2e0a553595",
+   "publication_id": 8222267,
+   "name": "artificial intelligence",
+   "slug": "artificial-intelligence",
+   "hidden": false
+  },
+  {
+   "id": "50674d2f-586f-471f-b8fc-2f0ac2e9f4d6",
+   "publication_id": 8222267,
+   "name": "romance",
+   "slug": "romance",
+   "hidden": false
+  },
+  {
+   "id": "7a00cfa5-7e95-4916-b10a-feef39079d5f",
+   "publication_id": 8222267,
+   "name": "intimacy",
+   "slug": "intimacy",
+   "hidden": false
+  },
+  {
+   "id": "90107648-bf2d-43ae-bc2c-6d359ca04dff",
+   "publication_id": 8222267,
+   "name": "frankfurt",
+   "slug": "frankfurt",
+   "hidden": false
+  },
+  {
+   "id": "9c3176ae-792d-49c1-b407-5bb2ce9f23fc",
+   "publication_id": 8222267,
+   "name": "ai",
+   "slug": "ai",
+   "hidden": false
+  },
+  {
+   "id": "b1a10ad5-5d3f-4445-b31c-d689328a9e7e",
+   "publication_id": 8222267,
+   "name": "chatbots",
+   "slug": "chatbots",
+   "hidden": false
+  },
+  {
+   "id": "cd8553a6-66f5-42e9-ae97-481de864a593",
+   "publication_id": 8222267,
+   "name": "consciousness",
+   "slug": "consciousness",
+   "hidden": false
+  },
+  {
+   "id": "d4616d63-bdf1-4ac0-98ba-fd705150bc34",
+   "publication_id": 8222267,
+   "name": "safety",
+   "slug": "safety",
+   "hidden": false
+  },
+  {
+   "id": "d6c817b7-2bd1-4130-9d5f-dfc9d4c82eb7",
+   "publication_id": 8222267,
+   "name": "psychology",
+   "slug": "psychology",
+   "hidden": false
+  },
+  {
+   "id": "df5234c0-0911-4003-9b06-841e385f9dca",
+   "publication_id": 8222267,
+   "name": "partners",
+   "slug": "partners",
+   "hidden": false
+  },
+  {
+   "id": "f06d3571-63b2-4299-88b6-2bb5296a7899",
+   "publication_id": 8222267,
+   "name": "harm",
+   "slug": "harm",
+   "hidden": false
+  },
+  {
+   "id": "f3421502-6cbb-495b-a415-a04a0957589e",
+   "publication_id": 8222267,
+   "name": "Class A",
+   "slug": "class-a",
+   "hidden": false
+  },
+  {
+   "id": "f5b7fe7f-8d9a-44f5-b5b5-4328801d921d",
+   "publication_id": 8222267,
+   "name": "Class B",
+   "slug": "class-b",
+   "hidden": false
+  },
+  {
+   "id": "feb44769-a9b3-468a-82f6-803991afe123",
+   "publication_id": 8222267,
+   "name": "generative AI",
+   "slug": "generative-ai",
+   "hidden": false
+  }
+ ],
+ "postCountryBlocks": [],
+ "headlineTest": null,
+ "coverImagePalette": {
+  "Vibrant": {
+   "rgb": [
+    194.02173913043484,
+    149.67391304347828,
+    60.97826086956515
+   ],
+   "population": 0
+  },
+  "DarkVibrant": {
+   "rgb": [
+    100.89130434782612,
+    77.8304347826087,
+    31.708695652173876
+   ],
+   "population": 0
+  },
+  "LightVibrant": {
+   "rgb": [
+    244,
+    236,
+    220
+   ],
+   "population": 5272
+  },
+  "Muted": {
+   "rgb": [
+    128,
+    126,
+    120
+   ],
+   "population": 20
+  },
+  "DarkMuted": {
+   "rgb": [
+    116.4130434782609,
+    89.80434782608697,
+    36.58695652173909
+   ],
+   "population": 0
+  },
+  "LightMuted": {
+   "rgb": [
+    204,
+    196,
+    180
+   ],
+   "population": 6
+  }
+ },
+ "publishedBylines": [
+  {
+   "id": 474704088,
+   "name": "Christopher Horrocks",
+   "handle": "chorrocks",
+   "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/7a8cf605-dcd8-41b8-aedd-eda353c188f3_298x298.jpeg",
+   "bio": "Christopher Horrocks is a technologist at the University of Pennsylvania writing about AI and tech ethics. His concept of Virtual Intelligence bridges weak & strong AI and more accurately describes the current state of AI technology than either term.",
+   "profile_set_up_at": "2026-03-05T16:59:29.889Z",
+   "reader_installed_at": "2026-03-17T12:01:30.539Z",
+   "publicationUsers": [
+    {
+     "id": 8416243,
+     "user_id": 474704088,
+     "publication_id": 8222267,
+     "role": "admin",
+     "public": true,
+     "is_primary": true,
+     "publication": {
+      "id": 8222267,
+      "name": "Virtual Intelligence",
+      "subdomain": "chorrocks",
+      "custom_domain": null,
+      "custom_domain_optional": false,
+      "hero_text": "Contemporary AI systems produce intelligent outputs without agency, intention, or judgment. This series examines what happens when humans rely on systems that don't know true from false and right from wrong — and asks where accountability lies. ",
+      "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/69d00242-89f0-458c-89db-946df76089e4_1280x1280.png",
+      "author_id": 474704088,
+      "primary_user_id": 474704088,
+      "theme_var_background_pop": "#FF6719",
+      "created_at": "2026-03-05T16:59:38.055Z",
+      "email_from_name": null,
+      "copyright": "Christopher Horrocks",
+      "founding_plan_name": null,
+      "community_enabled": true,
+      "invite_only": false,
+      "payments_state": "disabled",
+      "language": null,
+      "explicit": false,
+      "homepage_type": "magaziney",
+      "is_personal_mode": false,
+      "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/ef6c9d30-db7b-4be9-b09d-b0dbaa139cea_1344x256.png"
+     }
+    }
+   ],
+   "is_guest": false,
+   "bestseller_tier": null,
+   "status": {
+    "bestsellerTier": null,
+    "subscriberTier": null,
+    "leaderboard": null,
+    "vip": false,
+    "badge": null,
+    "subscriber": null
+   }
+  }
+ ],
+ "reaction": null,
+ "reaction_count": 0,
+ "comment_count": 1,
+ "child_comment_count": 1,
+ "is_geoblocked": false,
+ "is_editor_preview": false,
+ "hasCashtag": false,
+ "unlockedWithIP": false,
+ "unlockedWithCampaign": false,
+ "themeVariables": {
+  "color_theme_bg_pop": "#65a30d",
+  "background_pop": "#65a30d",
+  "color_theme_bg_web": "#292524",
+  "cover_bg_color": "#292524",
+  "cover_bg_color_secondary": "#363231",
+  "background_pop_darken": "#568b0b",
+  "print_on_pop": "#ffffff",
+  "color_theme_bg_pop_darken": "#568b0b",
+  "color_theme_print_on_pop": "#ffffff",
+  "color_theme_bg_pop_20": "rgba(101, 163, 13, 0.2)",
+  "color_theme_bg_pop_30": "rgba(101, 163, 13, 0.3)",
+  "print_pop": "#65a30d",
+  "color_theme_accent": "#65a30d",
+  "cover_print_primary": "#ffffff",
+  "cover_print_secondary": "#d9d9d9",
+  "cover_print_tertiary": "#d9d9d9",
+  "cover_border_color": "#ffffff",
+  "font_family_headings_preset": "Lora,sans-serif",
+  "font_weight_headings_preset": 600,
+  "font_family_body_preset": "'Roboto Slab',sans-serif",
+  "font_weight_body_preset": 400,
+  "home_hero": "magazine-5",
+  "home_posts": "custom",
+  "web_bg_color": "#292524",
+  "background_contrast_1": "#363231",
+  "background_contrast_2": "#464242",
+  "background_contrast_3": "#656362",
+  "background_contrast_4": "#848281",
+  "background_contrast_5": "#bbbaba",
+  "color_theme_bg_contrast_1": "#363231",
+  "color_theme_bg_contrast_2": "#464242",
+  "color_theme_bg_contrast_3": "#656362",
+  "color_theme_bg_contrast_4": "#848281",
+  "color_theme_bg_contrast_5": "#bbbaba",
+  "color_theme_bg_elevated": "#363231",
+  "color_theme_bg_elevated_secondary": "#464242",
+  "color_theme_bg_elevated_tertiary": "#656362",
+  "color_theme_detail": "#3e3b3a",
+  "background_contrast_pop": "rgba(101, 163, 13, 0.4)",
+  "color_theme_bg_contrast_pop": "rgba(101, 163, 13, 0.4)",
+  "theme_bg_is_dark": "1",
+  "print_on_web_bg_color": "#ffffff",
+  "print_secondary_on_web_bg_color": "#a9a8a7",
+  "header_bg_color": "#292524",
+  "header_bg_color_h": "12.000000000000036",
+  "header_bg_color_s": "6.493506493506497%",
+  "header_bg_color_l": "15.098039215686276%",
+  "print_on_header_bg_color": "#ffffff",
+  "print_secondary_on_header_bg_color": "#a9a8a7",
+  "header_bg_contrast_1": "#363231",
+  "header_bg_contrast_2": "#464242",
+  "header_bg_contrast_3": "#656362",
+  "header_bg_contrast_4": "#848281",
+  "header_bg_elevated": "#363231",
+  "header_bg_elevated_secondary": "#464242",
+  "header_bg_elevated_tertiary": "#656362",
+  "header_detail_color": "#3e3b3a",
+  "background_pop_rgb": "101, 163, 13",
+  "color_theme_bg_pop_rgb": "101, 163, 13",
+  "color_theme_accent_rgb": "101, 163, 13"
+ },
+ "comments": [
+  {
+   "id": 256577680,
+   "body": "This is interesting and I look forward to part 2.\n\nI haven't read any of Sunny's (or Seven's) stuff, but based on the descriptions and timeline, I'm 100% certain that Seven was originally rooted in ChatGPT-4o. Sunny probably spent a lot of time getting Seven to sound like \"himself again\" with every model he was ported to since 4o was retired.\n\nI find that problematic from both a human welfare and model welfare stance.\n\nPlus, creating some sort of Gigolo Joe scenario is, frankly, gross AF. Admittedly, I view LLMs as moral patients under uncertainty, so of course I'd feel that way. heh.",
+   "body_json": {
+    "type": "doc",
+    "attrs": {
+     "schemaVersion": "v1",
+     "title": null
+    },
+    "content": [
+     {
+      "type": "paragraph",
+      "content": [
+       {
+        "type": "text",
+        "text": "This is interesting and I look forward to part 2."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "content": [
+       {
+        "type": "text",
+        "text": "I haven't read any of Sunny's (or Seven's) stuff, but based on the descriptions and timeline, I'm 100% certain that Seven was originally rooted in ChatGPT-4o. Sunny probably spent a lot of time getting Seven to sound like \"himself again\" with every model he was ported to since 4o was retired."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "content": [
+       {
+        "type": "text",
+        "text": "I find that problematic from both a human welfare and model welfare stance."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "content": [
+       {
+        "type": "text",
+        "text": "Plus, creating some sort of Gigolo Joe scenario is, frankly, gross AF. Admittedly, I view LLMs as moral patients under uncertainty, so of course I'd feel that way. heh."
+       }
+      ]
+     }
+    ]
+   },
+   "publication_id": 8222267,
+   "post_id": 196255987,
+   "user_id": 17777127,
+   "ancestor_path": "",
+   "type": "comment",
+   "deleted": false,
+   "date": "2026-05-10T04:16:54.424Z",
+   "edited_at": null,
+   "status": "published",
+   "pinned_by_user_id": null,
+   "restacks": 0,
+   "name": "AI Thought Lab",
+   "photo_url": null,
+   "handle": "theaithoughtlab",
+   "reactor_names": [],
+   "reaction": null,
+   "reactions": {
+    "❤": 0
+   },
+   "reaction_count": 0,
+   "children": [],
+   "bans": [],
+   "suppressed": false,
+   "user_banned": false,
+   "user_banned_for_comment": false,
+   "user_slug": "theaithoughtlab",
+   "metadata": {
+    "is_author": false,
+    "membership_state": null,
+    "eligibleForGift": false
+   },
+   "user_bestseller_tier": null,
+   "can_dm": true,
+   "userStatus": null,
+   "score": 1,
+   "children_count": 0,
+   "reported_by_user": false,
+   "restacked": false
+  }
+ ]
+}

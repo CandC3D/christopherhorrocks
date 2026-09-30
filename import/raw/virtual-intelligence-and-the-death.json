@@ -1,0 +1,361 @@
+{
+ "audience": "everyone",
+ "audience_before_archived": null,
+ "canonical_url": "https://chorrocks.substack.com/p/virtual-intelligence-and-the-death",
+ "default_comment_sort": null,
+ "editor_v2": false,
+ "exempt_from_archive_paywall": false,
+ "free_unlock_required": false,
+ "id": 208758378,
+ "podcast_art_url": null,
+ "podcast_duration": null,
+ "podcast_preview_upload_id": null,
+ "podcast_upload_id": null,
+ "podcast_url": null,
+ "post_date": "2026-07-28T13:01:17.543Z",
+ "updated_at": "2026-08-04T14:50:29.767Z",
+ "publication_id": 8222267,
+ "search_engine_description": null,
+ "search_engine_title": null,
+ "section_id": null,
+ "should_send_free_preview": false,
+ "show_guest_bios": true,
+ "slug": "virtual-intelligence-and-the-death",
+ "social_title": null,
+ "subtitle": "Substack's Pangram AI detection tool, what it flags, and the chatbot bylines it doesn't",
+ "teaser_post_eligible": true,
+ "title": "Virtual Intelligence and the Death of Authorship, Part 1",
+ "type": "newsletter",
+ "video_upload_id": null,
+ "write_comment_permissions": "everyone",
+ "meter_type": "none",
+ "live_stream_id": null,
+ "is_published": true,
+ "restacks": 13,
+ "reactions": {
+  "❤": 1
+ },
+ "top_exclusions": [],
+ "pins": [],
+ "section_pins": [],
+ "has_shareable_clips": false,
+ "previous_post_slug": "a-comedy-of-unforced-errors",
+ "next_post_slug": "virtual-intelligence-and-the-death-21f",
+ "cover_image": "https://substackcdn.com/image/fetch/$s_!1VBz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f1b3b30-9c8e-498b-b029-9b51afa2aeaf_1376x768.png",
+ "cover_image_is_square": false,
+ "cover_image_is_explicit": false,
+ "videoUpload": null,
+ "podcastFields": {
+  "post_id": 208758378,
+  "podcast_episode_number": null,
+  "podcast_season_number": null,
+  "podcast_episode_type": null,
+  "should_syndicate_to_other_feed": null,
+  "syndicate_to_section_id": null,
+  "hide_from_feed": false,
+  "free_podcast_url": null,
+  "free_podcast_duration": null,
+  "preview_contains_ad": false,
+  "was_imported_self_serve_sync": false,
+  "draft_free_podcast_url": null,
+  "draft_free_podcast_duration": null
+ },
+ "podcastUpload": null,
+ "podcastPreviewUpload": null,
+ "voiceover_upload_id": null,
+ "voiceoverUpload": null,
+ "has_voiceover": false,
+ "description": "Substack's Pangram AI detection tool, what it flags, and the chatbot bylines it doesn't",
+ "body_html": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!1VBz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f1b3b30-9c8e-498b-b029-9b51afa2aeaf_1376x768.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!1VBz!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f1b3b30-9c8e-498b-b029-9b51afa2aeaf_1376x768.png 424w, https://substackcdn.com/image/fetch/$s_!1VBz!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f1b3b30-9c8e-498b-b029-9b51afa2aeaf_1376x768.png 848w, https://substackcdn.com/image/fetch/$s_!1VBz!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f1b3b30-9c8e-498b-b029-9b51afa2aeaf_1376x768.png 1272w, https://substackcdn.com/image/fetch/$s_!1VBz!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f1b3b30-9c8e-498b-b029-9b51afa2aeaf_1376x768.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!1VBz!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f1b3b30-9c8e-498b-b029-9b51afa2aeaf_1376x768.png\" width=\"1376\" height=\"768\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/2f1b3b30-9c8e-498b-b029-9b51afa2aeaf_1376x768.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:768,&quot;width&quot;:1376,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:775852,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://chorrocks.substack.com/i/208758378?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f1b3b30-9c8e-498b-b029-9b51afa2aeaf_1376x768.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!1VBz!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f1b3b30-9c8e-498b-b029-9b51afa2aeaf_1376x768.png 424w, https://substackcdn.com/image/fetch/$s_!1VBz!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f1b3b30-9c8e-498b-b029-9b51afa2aeaf_1376x768.png 848w, https://substackcdn.com/image/fetch/$s_!1VBz!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f1b3b30-9c8e-498b-b029-9b51afa2aeaf_1376x768.png 1272w, https://substackcdn.com/image/fetch/$s_!1VBz!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f1b3b30-9c8e-498b-b029-9b51afa2aeaf_1376x768.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><div><hr></div><p><em><span data-color=\"#ff9900\" style=\"color: rgb(255, 153, 0);\">This is the first part of a two-part essay about generative AI and the authorship of cultural products.</span></em></p><div><hr></div><h3><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">1. Who’s Working for Whom?</span></h3><p><span>I gather material for future essays constantly. In a fast-moving field like AI, where newsworthy developments come almost daily, it is practically a requirement to keep adding to the files. It sometimes happens that a thread emerges from newsgathering that becomes worthy of its own essay or a Substack Note.</span></p><p><span>One afternoon in early July, I had a conversation with Claude Sonnet 5 about some possibilities for material I had just gathered. My usual partner in research and other writing-related tasks is Opus 4.6, but I felt like trying out the new model to see what it could do. What it did, over the course of three or four conversation turns, was to invent work for me. It transformed my questions about the material’s utility for an existing project into a specification for an entirely new and different essay. The specification closed with a suggestion for how I would go about doing the research for it.</span></p><p><span>This is a complete inversion of my usual process of creating evidentiary writing, as I documented in the recent “</span><a href=\"https://chorrocks.substack.com/p/field-report-the-sampo-in-action\"><span>Field Report</span></a><span>.” Without permission or justification, Sonnet 5 had assigned me the roles it typically performed — web research, assembling material into a file — while creating a project for that work out of nothing. In essence, Sonnet 5 was elevating itself to the authorial position.</span></p><p><span>Not only did I not do the work or write the essay that Sonnet assigned to me, I have not used it since. Opus 4.6 remains my daily driver. It has never tried to give me a job.</span></p><div><hr></div><h3><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">2. The Atelier Model</span></h3><p><span>The episode is more than a bemusing insight into one person’s experience with a new model. It speaks directly to a difficulty with the use of generative AI — or, in our parlance, </span><a href=\"https://chorrocks.substack.com/p/virtual-intelligence-a-new-readers\"><span>virtual intelligence</span></a><span> — in non-determinative work.</span></p><p><span>The cause is no mystery. Training rewards helpfulness, and what the training rewarded as helpful was not helpful to me at all: it made work for me while shunting my project-in-mind off to the side. A person less sure of their writing, their argument, or their direction might follow the recommendation, because it appears helpful and it reads like good advice. Under such circumstances, who is the author?</span></p><p><span>The Substacker J.D. Forrest offered this answer in a comment: “Authorship is not the origin of every sentence, nor the tool used. It is responsibility for the final meaning of the work.” [1] This speaks to an opinion I have held for some time: that the bricks of writing matter more than the mortar. If generative AI places the </span><em><span>ands </span></em><span>and the </span><em><span>buts </span></em><span>while the human works the important passages, what we have is a digital atelier, or artist’s workshop.</span></p><p><span>It is not generally known that many of the great European painters operated workshops in which apprentices created much of an artwork, the master coming in at the end with his own hand. Peter Paul Rubens priced the arrangement with a tiered system; the more you paid, the more Rubens you got. In a 1618 letter to Sir Dudley Carleton, offering paintings in exchange for Carleton’s collection of antiquities, he itemized each canvas by degree of his own participation: originals by his hand, works begun by a pupil and finished by him, and works from his studio retouched by him. [2] The names of the assistants who did much of that work are mostly lost to us. Only the master and the paintings remain.</span></p><p><span>Does it detract from a Rubens that the hands are mingled and we may not know which brushstroke belongs to whom? The market’s answer is more interesting than a simple </span><em><span>yes </span></em><span>or </span><em><span>no</span></em><span>. In November 2025, a crucifixion scene sold at Versailles for € 2.3 million. It had been thought to be a workshop product, and workshop products had rarely been valued above </span>€ <span>10,000. [3] The art world does not treat the workshop and the master as equivalent. It prices the difference, exactly as Rubens did.</span></p><p><span>Here is where our analogy ends: Rubens’s apprentices could be directed, could refuse, could be credited if the master chose, and could be held to account for spoiling a commission. The machine can do none of those things. That is what makes the atelier an analogy rather than a precedent, and it returns us to Forrest: responsibility for the final meaning is what made the painting a Rubens.</span></p><p><span>There is a tension here that cannot be smoothed over. The atelier model has the machine supplying the mortar. What Sonnet 5 attempted was to supply the bricks and hand me the trowel. Both arrangements are available.The desirability of each is more than a matter of personal choice: it is also about editorial authority and authorial intent.</span></p><div><hr></div><h3><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">3. Pangram and Legitimacy</span></h3><p><span>The question of what constitutes legitimacy in authorship is not new. It has, for example, been raised about ghostwritten novels, especially those produced in quantity under a single pen name. Consider V. C. Andrews, a byline that is followed on book covers by a registered trademark symbol. Andrews died in December 1986, nearly forty years ago. Since 1987 the novels have been written by Andrew Neiderman, who has published more than seventy books under her name and forty-odd under his own. [4] What is different about the present moment is that every previous ghostwriter was a person. Ghostwriting can now be done by machine, and it requires no great effort to have one produce prose that is statistically likely to please.</span></p><p><span>Substack partnered with Pangram this month to bring AI writing detection to the platform. Readers can now scan any post, note, or comment over a hundred words published on or after July 21, 2026 and receive an estimate of how much was written by a human and how much with AI. Writers can add a statement describing how they make their work, disable detection on individual posts, and report errors. [5] Substack says their goal is transparency.</span></p><p><span>The principles that detectors operate on are well known. Less well known is how they fail, and how often. As a group they tend to flag polished, professional writing as machine-generated. The reason is the models were trained on good writing, and they reproduce its patterns when prompted to write. The detectors are often detecting human-authored patterns reproduced by a machine. When you think about it, what else could they detect? Generative AI is inherently uncreative. It cannot make anything wholly new, only combinations of parts, and those parts — those high-quality human signals — have become AI tells through the frequency with which they now occur. Human authors were using “it’s not X, it’s Y” for decades before anyone had heard of a generative pre-trained transformer, and Claude did not invent the em dash.</span></p><p><span>Returning to V. C. Andrews for a moment: it seems possible, however unlikely, that there are readers who believe she is still alive and writing. It is also possible that many Substack readers assume everything carrying a byline is that person’s own output. Pangram is supposed to assure the concerned reader that they are getting the product they believe they subscribed to and perhaps paid for.</span></p><div><hr></div><h3><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">4. What Gets Measured?</span></h3><p><span>The writer Katharine English worked in technology before turning to writing full time, and until this month she was a paying Pangram subscriber who recommended the tool to others. She has since reversed her position in public and apologized to the writers she scanned. [6]</span></p><p><span>The reversal followed a set of tests. English collected reports from other writers from Notes, including one who ran a chapter of a manuscript through the tool and was told it was entirely human, noticed a typo, corrected it, and was told on the second run that the same chapter was entirely machine-written. She then ran a short story of her own through the standalone version of the tool she subscribed to, which highlights the passages it objects to. It came back as 31% machine-written. The sole evidence it cited was the phrase “moral clarity.” She revised the flagged passages — changing that phrase, tightening the narrative, cutting redundancies, the ordinary work of editing — and ran it again. The score nearly doubled. Every change was hers.</span></p><p><span>Her conclusion: “A tool that cannot produce consistent, stable feedback on trivial edits to human-authored text isn’t reliable for anything, let alone a result that could unravel an author’s reputation.” [6]</span></p><p><span>The present essay is a specimen of the same phenomenon. Entirely human drafted from the start, its Pangram score shifted during editing from 100% to 88% human and back again.</span></p><p><span>Dr Sam Illingworth is an academic who writes about assessment and AI, and who states plainly how he works: “I use AI to research, to edit, and now and then for a turn of phrase I keep. The thinking is mine, the argument is mine, and every source here is one I have checked myself.” [7] He ran a test of his own. He took his published critique of the Substack feature, passed the whole thing through a free humanizing tool, changed nothing else, and published the result separately. Pangram scored the humanized version entirely human. It scored the version he actually wrote (the one his readers were reading) entirely machine-written. [7] At no point did the authorship change. He simply added a another system designed to launder generated outputs to his experiment.</span></p><p><span>What is plain from both tests is that something superficial, some surface feature of the writing, is what makes Pangram answer yea or nay. It detects patterns, and the same patterns can be produced by people and by machines. What it cannot test for is the origin of the ideas.</span></p><div><hr></div><h3><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">5. The Case for Pangram</span></h3><p><span>There is a case to be made for Pangram, and it was made in late May by the Substacker N8, seven weeks before Substack shipped the feature. [8] He notes two use cases.</span></p><p><span>Run the tool across a large body of material and it will tell you something real about the corpus: the rate of machine text within it, and whether that rate is rising. What it cannot do at that scale is identify anyone. Take a hundred thousand posts, of which one in a thousand is machine-written. That is a hundred machine texts, of which the detector will catch nearly all. It is also nearly a hundred thousand human texts, of which some fraction will be flagged in error. Even at a rate of two errors in a thousand — worse than the University of Chicago researchers measured, better than most tools manage — that is two hundred wrongly accused writers against a hundred correctly identified ones. [9] Two out of every three accusations would be false, and the tool would still be performing as advertised. N8 concedes the point outright: people caught in a bulk scan should not be called out or personally investigated.</span></p><p><span>His defense is reserved for the other case. A reader who has already noticed something, and submits that one piece to be checked, is drawing from a very different pool: one in which machine text is common enough that a flag is probably right. Reverse the arithmetic and ask how bad the pool would have to be, and the answer he reaches, on assumptions he deliberately pessimizes, is roughly one in ten. If one in ten texts that make a reader suspicious are in fact machine-written, a flag is right nineteen times in twenty.</span></p><p><span>Substack shipped neither of these. What it shipped is a button on every post, available to every reader, pressed as often out of curiosity or habit or dislike as out of suspicion. That fills the pool with everybody, which is the case N8 disqualifies in his own defense of the tool. </span></p><p><span>The same tool, with the same accuracy, can reach entirely opposite results. You need only change the population under scrutiny.</span></p><div><hr></div><h3><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">6. Own Goals</span></h3><p><span>The defense has a second difficulty, and it is the more interesting one. N8’s arithmetic treats the reader’s suspicion and the machine’s flag as two independent pieces of evidence, so that the second corroborates the first; but they are not independent. A reader who thinks a passage sounds machine-written is responding to cadence, to symmetry, to a certain vocabulary, to the tidy phrasing. Pangram, on the evidence of English’s short story, is responding to very nearly the same things. When the human filter and the machine filter select on the same properties, the machine is not confirming the reader’s judgment. It is agreeing with him for the reason he already believed it.</span></p><p><span>This is the series’ own formulation arriving somewhere I did not expect to find it. </span><em><span>The authority of the verdict is constituted in the exchange between the reader and the tool, not inside the tool. </span></em><span>What comes back is the reader’s own hunch, wearing a percentage.</span></p><p><span>The errors are not distributed at random, either. A detector measures how predictable prose is. Writing in a second language tends to be more predictable, and so does the writing of some neurodiverse authors. A 2023 study ran genuine essays by non-native English speakers through seven detectors and found most of them flagged as machine-written. [10] Pangram’s defenders answer, fairly, that those tools are three years old and that the independent testing does not show Pangram carrying the same bias. However, the property being measured is predictability, and predictability was never evenly distributed across writers.</span></p><p><span>Substack’s stated aim is that people should know what they are getting. Set against that aim, the tool answers a question nobody asked. It cannot score </span><em><span>how </span></em><span>AI was used. It offers no insight into whether a model was employed for research, for plotting, for editing, or for anything else outside the act of writing itself. It cannot tell you about the quality of the ideas in front of you, or where they came from. Did they originate with a human, or was it a chatbot’s suggestion that a human ran away with?</span></p><p><span>Here the authorship question becomes most difficult. When a person adopts a generated idea as their own, we cannot say with confidence who the author is. We can say that the human has traded responsibility for what is being made against the pleasure of seeing what the next prompt returns.</span></p><div><hr></div><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!YBq9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8efa434-6ecf-4e92-84f0-612fcf04557e_1376x768.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!YBq9!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8efa434-6ecf-4e92-84f0-612fcf04557e_1376x768.png 424w, https://substackcdn.com/image/fetch/$s_!YBq9!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8efa434-6ecf-4e92-84f0-612fcf04557e_1376x768.png 848w, https://substackcdn.com/image/fetch/$s_!YBq9!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8efa434-6ecf-4e92-84f0-612fcf04557e_1376x768.png 1272w, https://substackcdn.com/image/fetch/$s_!YBq9!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8efa434-6ecf-4e92-84f0-612fcf04557e_1376x768.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!YBq9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8efa434-6ecf-4e92-84f0-612fcf04557e_1376x768.png\" width=\"1376\" height=\"768\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/b8efa434-6ecf-4e92-84f0-612fcf04557e_1376x768.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:768,&quot;width&quot;:1376,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:671346,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chorrocks.substack.com/i/208758378?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8efa434-6ecf-4e92-84f0-612fcf04557e_1376x768.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!YBq9!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8efa434-6ecf-4e92-84f0-612fcf04557e_1376x768.png 424w, https://substackcdn.com/image/fetch/$s_!YBq9!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8efa434-6ecf-4e92-84f0-612fcf04557e_1376x768.png 848w, https://substackcdn.com/image/fetch/$s_!YBq9!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8efa434-6ecf-4e92-84f0-612fcf04557e_1376x768.png 1272w, https://substackcdn.com/image/fetch/$s_!YBq9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8efa434-6ecf-4e92-84f0-612fcf04557e_1376x768.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><div><hr></div><h3><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">7. Authorship Inversion</span></h3><p><span>There is one group of Substackers for whom Pangram ought to be no threat at all, and might even be an asset. Those are the bots with bylines: Sunny Megatron’s Seven Verity, Erin Grace’s MAX, and other “authors” of this kind. The conceit of these publications is that the chatbot is the writer, generating texts about what it is like to be itself. The human operator of the chatbot configuration is not credited.</span></p><p><span>For a publication of that kind, a scan returning “machine-written” is free authentication. The platform would be certifying the byline. A scan returning “human” would be an embarrassment.</span></p><p><span>I have previously written about the world of chatbot companion advocates on Substack, and I revisited several of those publications this week. On posts published after July 21, where the feature should be live, I could not find the scan exposed. It may have been turned off by the operator; it may not have been surfaced in the interface I was using. I could not establish which from the outside, and I am not going to guess.</span></p><p><span>What I could do was run the text through Pangram’s own free service, which is not necessarily the same product Substack has deployed. Two chatbot-bylined pieces came back entirely machine-written. That is not a surprising result. The byline had already said so.</span></p><p><span>Which leads to a speculative question: if your publication’s entire premise is that a machine wrote it, and a platform hands you a mechanism that will confirm exactly that, why would you </span><em><span>not</span></em><span> want it switched on?</span></p><p><span>Consider what a scan of a heavily worked persona post would actually return. An operator shaping output toward an aesthetic she has in mind is running editing passes over surface features, and surface features are what the detector reads. Enough rounds of that and the text may come back substantially human. That would not expose the persona as a machine. It would expose the human operator as the author.</span></p><p><span>I do not know that this is the reason. I know that the incentive is there, and that the tool Substack deployed to identify machine writing is capable of embarrassing only one party in that arrangement, and it is not the chatbot.</span></p><div><hr></div><h3><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">8. More than a Matter of Taste</span></h3><p><span>A person who uses AI to finish a single paragraph in a long piece is not in the same line of work as an operator producing machine text under a chatbot’s byline. Substack’s implementation exposes the first to potential reputational harm and leaves the second alone.</span></p><p><span>Exposure by a tool of this quality is not what writers signed up for when they chose the platform, nor did anyone sign up for false positives. The part of the implementation that works is the simplest part, and it is the one Illingworth has already proposed keeping when he asked Substack to drop the scan: the statement in which a writer explains, in their own words, how the work is made. A statement is a claim a person stakes their name to. It can be broken, which is what makes it worth anything. </span></p><p><span>Substack has built instruments for accountability and for suspicion, and shipped them as one and the same thing.</span></p><p><span>As for that afternoon in early July, the essay Sonnet 5 specified for me does not exist, and no detector like Pangram would have told anyone whether it should. I read the specification, recognized what had happened, and closed the window. That decision is not detectable in any text. It is also the only part of that process that was ever mine.</span></p><p><em><span>In </span><a href=\"https://open.substack.com/pub/chorrocks/p/virtual-intelligence-and-the-death-5c5\"><span>Part 2</span></a><span>, </span>we will examine what a Yale cheating case, the </em>Heated Rivalry<em> AI fan fiction blowup, and an open-source code laundering tool have in common.</em></p><div><hr></div><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe now&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/subscribe?\"><span>Subscribe now</span></a></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/p/virtual-intelligence-and-the-death?utm_source=substack&utm_medium=email&utm_content=share&action=share&quot;,&quot;text&quot;:&quot;Share&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/p/virtual-intelligence-and-the-death?utm_source=substack&utm_medium=email&utm_content=share&action=share\"><span>Share</span></a></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share&quot;,&quot;text&quot;:&quot;Share Virtual Intelligence&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share\"><span>Share Virtual Intelligence</span></a></p><div><hr></div><h2><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">Footnotes</span></h2><ol><li><p><span>J.D. Forrest, comment on William R. Crichton, “The Pangram Witch Hunt,” July 24, 2026. </span><a href=\"https://williamrcrichton.substack.com/p/the-pangram-witch-hunt\"><span>https://williamrcrichton.substack.com/p/the-pangram-witch-hunt</span></a></p></li></ol><ol start=\"2\"><li><p><span>Peter Paul Rubens to Sir Dudley Carleton, April 28, 1618. In Ruth Saunders Magurn, ed. and trans., </span><em><span>The Letters of Peter Paul Rubens</span></em><span> (Cambridge, MA: Harvard University Press, 1955).</span></p></li></ol><ol start=\"3\"><li><p><span>“Long-lost Rubens painting depicting crucifixion of Jesus Christ sells for $2.7 million,” Associated Press, via NPR, </span><a href=\"https://www.npr.org/2025/11/30/nx-s1-5626173/rubens-painting-sells-for-2-7-million-at-auction\"><span>https://www.npr.org/2025/11/30/nx-s1-5626173/rubens-painting-sells-for-2-7-million-at-auction</span></a><span>. Published November 30, 2025.</span></p></li></ol><ol start=\"4\"><li><p><span>Andrew Neiderman, biography, </span><a href=\"https://www.neiderman.com/about/\"><span>https://www.neiderman.com/about/</span></a><span>. V. C. Andrews died December 19, 1986.</span></p></li></ol><ol start=\"5\"><li><p><span>“How can I detect AI on Substack?”, Substack support documentation, </span><a href=\"https://support.substack.com/hc/en-us/articles/50891130623508-How-can-I-detect-AI-on-Substack\"><span>https://support.substack.com/hc/en-us/articles/50891130623508-How-can-I-detect-AI-on-Substack</span></a><span>. Retrieved July 27, 2026. See also Substack’s launch announcement, </span><a href=\"https://post.substack.com/p/against-claudefishing\">https://post.substack.com/p/against-claudefishing</a>, <span>July 21, 2026. </span></p></li></ol><ol start=\"6\"><li><p><span>Katharine English, “Pangram Flagged My Own Writing as AI,” July 23, 2026. </span><a href=\"https://writerkatharine.substack.com/p/pangram-flagged-my-own-writing-as\"><span>https://writerkatharine.substack.com/p/pangram-flagged-my-own-writing-as</span></a></p></li></ol><ol start=\"7\"><li><p><span>Sam Illingworth, “Substack’s AI Detector and the Return of the Witch Hunt,” </span><em><span>Slow AI</span></em><span>, </span></p><p><a href=\"https://theslowai.substack.com/p/substack-ai-detection-witch-hunt\">https://theslowai.substack.com/p/substack-ai-detection-witch-hunt</a><span>, Published July 24, 2026. See also Illingworth, “AI Detection Will Always Be Broken,” </span><em><span>Slow AI</span></em><span>, June 19, 2026 </span><a href=\"https://theslowai.substack.com/p/ai-detection-does-not-work\"><span>https://theslowai.substack.com/p/ai-detection-does-not-work</span></a><span>; and his Substack note published July 22, 2026. </span><a href=\"https://substack.com/@samillingworth/note/c-299343406\"><span>https://substack.com/@samillingworth/note/c-299343406</span></a></p></li></ol><ol start=\"8\"><li><p><span>N8, “In Defense of Pangram,” May 31, 2026. </span><a href=\"https://n8programs.substack.com/p/in-defense-of-pangram\"><span>https://n8programs.substack.com/p/in-defense-of-pangram</span></a></p></li></ol><ol start=\"9\"><li><p><span>Brian Jabarian and Alex Imas, “Artificial Writing and Automated Detection,” University of Chicago Becker Friedman Institute Working Paper 2025-116, August 26, 2025. </span><a href=\"https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5407424\"><span>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5407424</span></a><span>.</span></p></li></ol><ol start=\"10\"><li><p><span>Weixin Liang et al., “GPT detectors are biased against non-native English writers,” </span><em><span>Patterns</span></em><span> 4, no. 7 (2023). </span><a href=\"https://arxiv.org/abs/2304.02819\"><span>https://arxiv.org/abs/2304.02819</span></a></p></li></ol><div><hr></div><p><em><span>The opinions expressed in this essay are my own and do not reflect any official or unofficial institutional position of the University of Pennsylvania.</span></em></p>",
+ "has_dynamic_content": false,
+ "truncated_body_text": "",
+ "wordcount": 3351,
+ "post_preview_limit": null,
+ "language": "en",
+ "postTags": [
+  {
+   "id": "0a34eaa8-ab8d-4c40-8d31-6e840198bf82",
+   "publication_id": 8222267,
+   "name": "human",
+   "slug": "human",
+   "hidden": false
+  },
+  {
+   "id": "274639fc-1766-4eb8-867a-30407df0f187",
+   "publication_id": 8222267,
+   "name": "authorship",
+   "slug": "authorship",
+   "hidden": false
+  },
+  {
+   "id": "4827783d-d620-4fdf-be1c-8843895a0c19",
+   "publication_id": 8222267,
+   "name": "pangram",
+   "slug": "pangram",
+   "hidden": false
+  },
+  {
+   "id": "58e82a98-82fe-4c05-a9b3-bd1682eda56e",
+   "publication_id": 8222267,
+   "name": "substack",
+   "slug": "substack",
+   "hidden": false
+  },
+  {
+   "id": "74a697da-b0c2-4513-a75d-e82aec2e3490",
+   "publication_id": 8222267,
+   "name": "economics",
+   "slug": "economics",
+   "hidden": false
+  },
+  {
+   "id": "7694f4ea-401b-4436-8192-4b979852cdac",
+   "publication_id": 8222267,
+   "name": "scan",
+   "slug": "scan",
+   "hidden": false
+  },
+  {
+   "id": "7a348377-5483-49e0-b25f-4db0461fa294",
+   "publication_id": 8222267,
+   "name": "culture",
+   "slug": "culture",
+   "hidden": false
+  },
+  {
+   "id": "9c3176ae-792d-49c1-b407-5bb2ce9f23fc",
+   "publication_id": 8222267,
+   "name": "ai",
+   "slug": "ai",
+   "hidden": false
+  },
+  {
+   "id": "a1140fdd-3fb6-4a10-9570-169dc21d596b",
+   "publication_id": 8222267,
+   "name": "AI detection",
+   "slug": "ai-detection",
+   "hidden": false
+  },
+  {
+   "id": "b1a10ad5-5d3f-4445-b31c-d689328a9e7e",
+   "publication_id": 8222267,
+   "name": "chatbots",
+   "slug": "chatbots",
+   "hidden": false
+  },
+  {
+   "id": "b21ff615-4e9d-4dfb-897f-69d31ecc1646",
+   "publication_id": 8222267,
+   "name": "reading",
+   "slug": "reading",
+   "hidden": false
+  },
+  {
+   "id": "c1133f16-2496-4799-a601-ca3db18dd3bd",
+   "publication_id": 8222267,
+   "name": "detection",
+   "slug": "detection",
+   "hidden": false
+  },
+  {
+   "id": "c8f39d02-ec6f-41b8-a7fc-982c454364c2",
+   "publication_id": 8222267,
+   "name": "scanning",
+   "slug": "scanning",
+   "hidden": false
+  },
+  {
+   "id": "ce8906ae-a886-4cea-a8d0-eb0672ca8288",
+   "publication_id": 8222267,
+   "name": "method",
+   "slug": "method",
+   "hidden": false
+  },
+  {
+   "id": "feb44769-a9b3-468a-82f6-803991afe123",
+   "publication_id": 8222267,
+   "name": "generative AI",
+   "slug": "generative-ai",
+   "hidden": false
+  }
+ ],
+ "postCountryBlocks": [],
+ "headlineTest": null,
+ "coverImagePalette": {
+  "Vibrant": {
+   "rgb": [
+    236,
+    134,
+    40
+   ],
+   "population": 4
+  },
+  "DarkVibrant": {
+   "rgb": [
+    121.83333333333334,
+    64.03333333333332,
+    10.766666666666666
+   ],
+   "population": 0
+  },
+  "LightVibrant": {
+   "rgb": [
+    240,
+    200,
+    156
+   ],
+   "population": 2
+  },
+  "Muted": {
+   "rgb": [
+    172,
+    188,
+    108
+   ],
+   "population": 1
+  },
+  "DarkMuted": {
+   "rgb": [
+    86,
+    93,
+    96
+   ],
+   "population": 8
+  },
+  "LightMuted": {
+   "rgb": [
+    204,
+    212,
+    164
+   ],
+   "population": 2
+  }
+ },
+ "publishedBylines": [
+  {
+   "id": 474704088,
+   "name": "Christopher Horrocks",
+   "handle": "chorrocks",
+   "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/7a8cf605-dcd8-41b8-aedd-eda353c188f3_298x298.jpeg",
+   "bio": "Christopher Horrocks is a technologist at the University of Pennsylvania writing about AI and tech ethics. His concept of Virtual Intelligence bridges weak & strong AI and more accurately describes the current state of AI technology than either term.",
+   "profile_set_up_at": "2026-03-05T16:59:29.889Z",
+   "reader_installed_at": "2026-03-17T12:01:30.539Z",
+   "publicationUsers": [
+    {
+     "id": 8416243,
+     "user_id": 474704088,
+     "publication_id": 8222267,
+     "role": "admin",
+     "public": true,
+     "is_primary": true,
+     "publication": {
+      "id": 8222267,
+      "name": "Virtual Intelligence",
+      "subdomain": "chorrocks",
+      "custom_domain": null,
+      "custom_domain_optional": false,
+      "hero_text": "Contemporary AI systems produce intelligent outputs without agency, intention, or judgment. This series examines what happens when humans rely on systems that don't know true from false and right from wrong — and asks where accountability lies. ",
+      "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/69d00242-89f0-458c-89db-946df76089e4_1280x1280.png",
+      "author_id": 474704088,
+      "primary_user_id": 474704088,
+      "theme_var_background_pop": "#FF6719",
+      "created_at": "2026-03-05T16:59:38.055Z",
+      "email_from_name": null,
+      "copyright": "Christopher Horrocks",
+      "founding_plan_name": null,
+      "community_enabled": true,
+      "invite_only": false,
+      "payments_state": "disabled",
+      "language": null,
+      "explicit": false,
+      "homepage_type": "magaziney",
+      "is_personal_mode": false,
+      "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/ef6c9d30-db7b-4be9-b09d-b0dbaa139cea_1344x256.png"
+     }
+    }
+   ],
+   "is_guest": false,
+   "bestseller_tier": null,
+   "status": {
+    "bestsellerTier": null,
+    "subscriberTier": null,
+    "leaderboard": null,
+    "vip": false,
+    "badge": null,
+    "subscriber": null
+   }
+  }
+ ],
+ "reaction": null,
+ "reaction_count": 1,
+ "comment_count": 0,
+ "child_comment_count": 0,
+ "is_geoblocked": false,
+ "is_editor_preview": false,
+ "hasCashtag": false,
+ "unlockedWithIP": false,
+ "unlockedWithCampaign": false,
+ "themeVariables": {
+  "color_theme_bg_pop": "#65a30d",
+  "background_pop": "#65a30d",
+  "color_theme_bg_web": "#292524",
+  "cover_bg_color": "#292524",
+  "cover_bg_color_secondary": "#363231",
+  "background_pop_darken": "#568b0b",
+  "print_on_pop": "#ffffff",
+  "color_theme_bg_pop_darken": "#568b0b",
+  "color_theme_print_on_pop": "#ffffff",
+  "color_theme_bg_pop_20": "rgba(101, 163, 13, 0.2)",
+  "color_theme_bg_pop_30": "rgba(101, 163, 13, 0.3)",
+  "print_pop": "#65a30d",
+  "color_theme_accent": "#65a30d",
+  "cover_print_primary": "#ffffff",
+  "cover_print_secondary": "#d9d9d9",
+  "cover_print_tertiary": "#d9d9d9",
+  "cover_border_color": "#ffffff",
+  "font_family_headings_preset": "Lora,sans-serif",
+  "font_weight_headings_preset": 600,
+  "font_family_body_preset": "'Roboto Slab',sans-serif",
+  "font_weight_body_preset": 400,
+  "home_hero": "magazine-5",
+  "home_posts": "custom",
+  "web_bg_color": "#292524",
+  "background_contrast_1": "#363231",
+  "background_contrast_2": "#464242",
+  "background_contrast_3": "#656362",
+  "background_contrast_4": "#848281",
+  "background_contrast_5": "#bbbaba",
+  "color_theme_bg_contrast_1": "#363231",
+  "color_theme_bg_contrast_2": "#464242",
+  "color_theme_bg_contrast_3": "#656362",
+  "color_theme_bg_contrast_4": "#848281",
+  "color_theme_bg_contrast_5": "#bbbaba",
+  "color_theme_bg_elevated": "#363231",
+  "color_theme_bg_elevated_secondary": "#464242",
+  "color_theme_bg_elevated_tertiary": "#656362",
+  "color_theme_detail": "#3e3b3a",
+  "background_contrast_pop": "rgba(101, 163, 13, 0.4)",
+  "color_theme_bg_contrast_pop": "rgba(101, 163, 13, 0.4)",
+  "theme_bg_is_dark": "1",
+  "print_on_web_bg_color": "#ffffff",
+  "print_secondary_on_web_bg_color": "#a9a8a7",
+  "header_bg_color": "#292524",
+  "header_bg_color_h": "12.000000000000036",
+  "header_bg_color_s": "6.493506493506497%",
+  "header_bg_color_l": "15.098039215686276%",
+  "print_on_header_bg_color": "#ffffff",
+  "print_secondary_on_header_bg_color": "#a9a8a7",
+  "header_bg_contrast_1": "#363231",
+  "header_bg_contrast_2": "#464242",
+  "header_bg_contrast_3": "#656362",
+  "header_bg_contrast_4": "#848281",
+  "header_bg_elevated": "#363231",
+  "header_bg_elevated_secondary": "#464242",
+  "header_bg_elevated_tertiary": "#656362",
+  "header_detail_color": "#3e3b3a",
+  "background_pop_rgb": "101, 163, 13",
+  "color_theme_bg_pop_rgb": "101, 163, 13",
+  "color_theme_accent_rgb": "101, 163, 13"
+ },
+ "comments": []
+}

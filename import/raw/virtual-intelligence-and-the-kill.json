@@ -1,0 +1,476 @@
+{
+ "audience": "everyone",
+ "audience_before_archived": null,
+ "canonical_url": "https://chorrocks.substack.com/p/virtual-intelligence-and-the-kill",
+ "default_comment_sort": null,
+ "editor_v2": false,
+ "exempt_from_archive_paywall": false,
+ "free_unlock_required": false,
+ "id": 194654128,
+ "podcast_art_url": null,
+ "podcast_duration": null,
+ "podcast_preview_upload_id": null,
+ "podcast_upload_id": null,
+ "podcast_url": null,
+ "post_date": "2026-04-20T09:58:39.710Z",
+ "updated_at": "2026-05-27T10:56:00.254Z",
+ "publication_id": 8222267,
+ "search_engine_description": null,
+ "search_engine_title": null,
+ "section_id": null,
+ "should_send_free_preview": false,
+ "show_guest_bios": true,
+ "slug": "virtual-intelligence-and-the-kill",
+ "social_title": "Virtual Intelligence and the Kill Chain",
+ "subtitle": "When AI-assisted targeting outpaces the accountability structures designed to govern it",
+ "teaser_post_eligible": true,
+ "title": "Virtual Intelligence and the Kill Chain",
+ "type": "newsletter",
+ "video_upload_id": null,
+ "write_comment_permissions": "everyone",
+ "meter_type": "none",
+ "live_stream_id": null,
+ "is_published": true,
+ "restacks": 4,
+ "reactions": {
+  "❤": 0
+ },
+ "top_exclusions": [],
+ "pins": [],
+ "section_pins": [],
+ "has_shareable_clips": false,
+ "previous_post_slug": "the-sampo-diagnostic",
+ "next_post_slug": "virtual-intelligence-a-new-readers",
+ "cover_image": "https://substackcdn.com/image/fetch/$s_!4rMj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c74aef4-12bd-469a-b171-3e192e4eee17_987x525.png",
+ "cover_image_is_square": false,
+ "cover_image_is_explicit": false,
+ "videoUpload": null,
+ "podcastFields": {
+  "post_id": 194654128,
+  "podcast_episode_number": null,
+  "podcast_season_number": null,
+  "podcast_episode_type": null,
+  "should_syndicate_to_other_feed": null,
+  "syndicate_to_section_id": null,
+  "hide_from_feed": false,
+  "free_podcast_url": null,
+  "free_podcast_duration": null,
+  "preview_contains_ad": false,
+  "was_imported_self_serve_sync": false,
+  "draft_free_podcast_url": null,
+  "draft_free_podcast_duration": null
+ },
+ "podcastUpload": null,
+ "podcastPreviewUpload": null,
+ "voiceover_upload_id": "fb0ebaaa-c83a-4eb9-9f4e-b31121cd0da3",
+ "voiceoverUpload": {
+  "id": "fb0ebaaa-c83a-4eb9-9f4e-b31121cd0da3",
+  "name": "VI8 Kill Chain.mp3",
+  "created_at": "2026-05-27T10:55:06.930Z",
+  "uploaded_at": "2026-05-27T10:55:13.523Z",
+  "publication_id": 8222267,
+  "state": "transcoded",
+  "post_id": 194654128,
+  "user_id": 474704088,
+  "duration": 2168.6335,
+  "height": null,
+  "width": null,
+  "thumbnail_id": 1,
+  "preview_start": null,
+  "preview_duration": null,
+  "media_type": "audio",
+  "primary_file_size": 26023960,
+  "is_mux": false,
+  "mux_asset_id": null,
+  "mux_playback_id": null,
+  "mux_preview_asset_id": null,
+  "mux_preview_playback_id": null,
+  "mux_rendition_quality": null,
+  "mux_preview_rendition_quality": null,
+  "explicit": false,
+  "copyright_infringement": null,
+  "src_media_upload_id": null,
+  "live_stream_id": null
+ },
+ "has_voiceover": true,
+ "description": "When AI-assisted targeting outpaces the accountability structures designed to govern it",
+ "body_html": "<h2>Summary</h2><p>The AI industry’s integration into military targeting has produced a documented acceleration: systems that once required two thousand intelligence analysts now operate with twenty, generating over a thousand targets in twenty-four hours. This essay traces the development of AI-assisted targeting from its precedent in Gaza through its operational deployment in Iran, examines the strongest case for its use, and identifies the structural gap between the capability these systems enable and the accountability architecture designed to govern them. The gap is not theoretical. On February 28, 2026, a missile struck a girls’ elementary school in Minab, Iran, killing more than 160 people, mostly children. The system processed the information it was given exactly as designed. The information was wrong.</p><div><hr></div><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!4rMj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c74aef4-12bd-469a-b171-3e192e4eee17_987x525.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!4rMj!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c74aef4-12bd-469a-b171-3e192e4eee17_987x525.png 424w, https://substackcdn.com/image/fetch/$s_!4rMj!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c74aef4-12bd-469a-b171-3e192e4eee17_987x525.png 848w, https://substackcdn.com/image/fetch/$s_!4rMj!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c74aef4-12bd-469a-b171-3e192e4eee17_987x525.png 1272w, https://substackcdn.com/image/fetch/$s_!4rMj!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c74aef4-12bd-469a-b171-3e192e4eee17_987x525.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!4rMj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c74aef4-12bd-469a-b171-3e192e4eee17_987x525.png\" width=\"987\" height=\"525\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/9c74aef4-12bd-469a-b171-3e192e4eee17_987x525.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:525,&quot;width&quot;:987,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:593220,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://chorrocks.substack.com/i/194654128?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c74aef4-12bd-469a-b171-3e192e4eee17_987x525.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!4rMj!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c74aef4-12bd-469a-b171-3e192e4eee17_987x525.png 424w, https://substackcdn.com/image/fetch/$s_!4rMj!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c74aef4-12bd-469a-b171-3e192e4eee17_987x525.png 848w, https://substackcdn.com/image/fetch/$s_!4rMj!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c74aef4-12bd-469a-b171-3e192e4eee17_987x525.png 1272w, https://substackcdn.com/image/fetch/$s_!4rMj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c74aef4-12bd-469a-b171-3e192e4eee17_987x525.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe now&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/subscribe?\"><span>Subscribe now</span></a></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/p/virtual-intelligence-and-the-kill?utm_source=substack&utm_medium=email&utm_content=share&action=share&quot;,&quot;text&quot;:&quot;Share&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/p/virtual-intelligence-and-the-kill?utm_source=substack&utm_medium=email&utm_content=share&action=share\"><span>Share</span></a></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share&quot;,&quot;text&quot;:&quot;Share Virtual Intelligence&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share\"><span>Share Virtual Intelligence</span></a></p><div><hr></div><h2>I. The Product Demo</h2><p>On March 12, 2026, Palantir Technologies held its ninth annual AIPCON conference. Cameron Stanley, the Department of Defense’s chief digital and AI officer, described how the Maven Smart System had consolidated eight or nine separate targeting systems into a single platform. He called the result “revolutionary” for “closing a kill chain.” [1]</p><p>A Maven operational map of Iran was displayed on screen during Stanley’s presentation. Dozens of red icons marked strike locations from Operation Epic Fury, the United States military campaign launched twelve days earlier. One mark was positioned on an area corresponding to Minab, in southern Iran, where a missile had struck the Shajareh Tayyebeh girls’ elementary school on February 28. More than 160 people were killed. Most of them were children between the ages of 7 and 12. [1]</p><p>The mark appeared on the same map used to brief reporters on the campaign’s strikes.</p><p>Alex Karp, Palantir’s chief executive, opened the event with remarks that left little room for ambiguity about his company’s role. “Once the war starts, we’re not interested in debating how we’re supporting them,” he said. “And that sometimes means that people on the other side don’t go home. And we are very proud of that.” [1]</p><p>The preceding essay in this series documented the Harms Race — the dynamic in which AI companies announce model capabilities through the framing of danger, producing not deterrence but proliferation. [2] This essay follows that dynamic to the domain where its consequences are irreversible. The Harms Race operates through announcements. The kill chain operates through ammunition.</p><p>A kill chain has six steps: Identify the target, Locate it, Filter candidates down to lawful valid targets, Prioritize among them, Assign them to firing units, Fire. [3] Artificial intelligence now performs four of those steps. The two that remain under human control — filtering for legality (3) and authorizing the strike (6) — are the steps on which moral and legal accountability depends. The question this essay asks is whether those two steps can perform their function at the speed the other four now operate.</p><div><hr></div><h2>II. The Precedent</h2><p>The precedent was established before Iran.</p><p>In Gaza, the Israeli Defense Forces deployed two AI systems in the targeting chain. The first, known as the Gospel, automatically reviewed surveillance data and recommended bombing targets to human analysts. Retired IDF Lieutenant General Aviv Kohavi, who led the IDF until 2023, stated that the Gospel could produce one hundred bombing targets per day with real-time recommendations, or up to 73,000 per year. Human analysts, by comparison, had produced approximately fifty targets per year. [4]</p><p>Once a recommendation was accepted, a second system called Fire Factory cut the time to assemble an attack from hours to minutes, calculating munition loads, prioritizing and assigning targets to aircraft and drones, and proposing a schedule. [4] Two AI systems, exposing two points at which accountability could diffuse with human approval nominally in between.</p><p>The second system was Lavender. Developed by Unit 8200 of the Israeli Intelligence Corps, Lavender analyzed surveillance data on nearly the entire population of Gaza (2.3 million people) and assigned each individual a numerical rating expressing the likelihood of being a militant. At its peak, approximately 37,000 Palestinian men were listed as suspected targets. [5]</p><p>In April 2024, investigative journalist Yuval Abraham published testimony from six Israeli intelligence officers with firsthand involvement in Lavender’s deployment. Their accounts, reported by <em>+972 Magazine</em> and corroborated by the Guardian, described a system in which the human role in the targeting chain had been compressed to almost a formality. [5] [6]</p><p>One officer described his function in terms that require no interpretation: “I would invest 20 seconds for each [suspected militant] target at this stage, and do dozens of them every day. I had zero added-value as a human, apart from being a stamp of approval.” [5]</p><p>The sole verification step was confirming the target was male. A known error rate of approximately ten percent was accepted. “Mistakes were treated statistically.” [5]</p><p>A companion program called “Where’s Daddy?” tracked Lavender-identified targets until they returned to their family homes, enabling strikes at night when entire families were present. One officer stated: “The IDF bombed them in homes without hesitation, as a first option. It’s much easier to bomb a family’s home.” [5] For junior operatives, the IDF authorized up to fifteen or twenty civilian deaths per target. For senior commanders, more than one hundred. Junior targets were struck with unguided two-thousand-pound bombs to conserve precision munitions. One officer explained the logic: you don’t want to waste expensive bombs on unimportant people. [5]</p><p>The IDF denied using “an artificial intelligence system that identifies terrorist operatives,” describing Lavender as “simply a database whose purpose is to cross-reference intelligence sources.” [6] The framing is itself significant. When the capabilities were announced, the system was an achievement. When the questions arrived, the system became a database.</p><p>A human was in the loop, but the loop had been compressed to twenty seconds — to the point where the human’s presence was ceremonial.</p><div><hr></div><h2>III. The Machine</h2><p>The systems deployed in Gaza were the precedent. The system deployed in Iran was a kind of spiritual successor product.</p><p>Palantir’s Maven Smart System traces its operational lineage to the campaign against ISIS between 2014 and 2018, where the company developed targeting software for U.S. Special Operations Forces. By the time XVIII Airborne Corps assumed command of the Security Assistance Group-Ukraine in 2022, Palantir had refined its algorithms to process satellite imagery, open-source data, and encrypted communications in support of Ukrainian targeting operations. Anthony King’s analysis in the <em>Journal of Global Security Studies</em> documents this phase in detail: the Corps relied on Palantir’s software to fuse intelligence from multiple classified and unclassified sources, enabling the identification of Russian headquarters and commanders with precision sufficient to wound General Valery Gerasimov in a May 2022 strike. [7]</p><p>The operational transformation occurred at scale. Chad Wahlquist, a Palantir architect, stated at AIPCON that the number of intelligence officers performing targeting for the U.S. military had dropped from approximately two thousand to twenty. [1] The system generated over one thousand targets in the first twenty-four hours of Operation Epic Fury. [8]</p><p>Anthropic’s Claude was integrated into Maven through Palantir’s AI Platform on Amazon Web Services. According to reporting by the <em>Wall Street Journal</em>, subsequently confirmed by CBS News, the <em>Washington Post</em>, and NBC News, Claude was used for intelligence assessments, target identification, and simulating battle scenarios during the Iran campaign. [8] Claude had reportedly been deployed in the capture of Venezuelan President Nicolás Maduro in January 2026. [8]</p><p>The operational timeline is itself a document of the accountability gap. On February 26, 2026, Anthropic CEO Dario Amodei published a public statement on the company’s conflict with the Pentagon. “Anthropic understands that the Department of War, not private companies, makes military decisions,” he wrote. “We have never raised objections to particular military operations nor attempted to limit use of our technology in an <em>ad hoc</em> manner.” [9] Amodei outlined two conditions Anthropic would not accept: mass domestic surveillance of Americans and fully autonomous weapons. Both target identification and prioritization — the functions Claude was performing inside Maven — fell outside both lines.</p><p>The next day, February 27, President Trump directed federal agencies to stop using Anthropic technology. On March 5, the Pentagon formally designated Anthropic a “supply chain risk,” a classification previously reserved for businesses associated with foreign adversaries.</p><p>On February 28, between those two dates, Operation Epic Fury launched. Claude was running inside Maven when the first strikes hit Iran. The Pentagon determined the system could not be removed during active operations and gave Anthropic a six-month phase-out period. [8] [10]</p><p>A company was banned on a Friday. A war began on Saturday. The banned company’s product was processing targeting data for that war and could not be turned off.</p><p>Federal Judge Rita Lin blocked the supply chain risk designation on March 26, calling it “Orwellian” and finding that the Pentagon’s action constituted First Amendment retaliation for Anthropic’s public stance. [10] Claude app downloads surpassed ChatGPT in the iPhone App Store the day after the Pentagon threatened contract termination. [10] A principled stand and commercially advantageous brand positioning can be the same event. The Harms Race, as the preceding essay documented, does not sort these into separate categories.</p><div><hr></div><h2>IV. The Case For AI-Assisted Targeting</h2><p>There is a serious case for AI-assisted targeting. It must be stated at full strength before this essay examines where it goes wrong.</p><p>The case is not primarily about efficiency; it is about operational necessity. In a high-tempo conflict defined by sensor saturation, electronic warfare, and loitering munitions, the decision cycle must close faster than the adversary’s or the firing unit does not survive long enough to act. A system cross-referencing one hundred and seventy-nine data sources simultaneously — no-strike lists, civilian infrastructure databases, geolocation of friendly forces, Rules of Engagement constraints — can fuse information that no unaided human analyst could process in the time available. The relevant comparison is not between AI-mediated review and careful human deliberation. It is between AI-mediated review and the degraded, stressed, time-compressed human decision-making that actually occurs under fire. In that comparison, the proponents of AI-assisted targeting argue, the machine does not replace human judgment. It provides a foundation on which human judgment can operate. Against a peer adversary, proponents add, the alternative to AI-mediated targeting is not slower human review but the inability to close the kill chain before the firing unit itself is destroyed.</p><p>There is a stronger claim still. A system designed with discrepancy detection could, in principle, flag inconsistencies that human reviewers miss — a change in satellite imagery, a mismatch between target coding and open-source data, a school where a military compound used to be. The machine does not get tired. It does not get angry. It does not seek revenge. If strikes will happen regardless — and in a conflict authorized by the commander-in-chief, they will — the relevant question is whether AI-assisted targeting produces fewer civilian casualties than the alternative, not whether it produces zero.</p><p>Jack Shanahan, the founding director of Project Maven and a senior fellow at the Center for a New American Security, stated the principle plainly after the Minab investigation: “Finding the right balance between humans and machines will be a crucial component of future training.” [11]</p><p>On April 13, 2026, on Ukraine’s Arms Makers’ Day, the case received its most vivid demonstration. President Volodymyr Zelenskyy announced that Ukrainian forces had captured a Russian-held position using only unmanned platforms — ground robots and drones — without a single soldier crossing the line of departure. “The occupiers surrendered, and the operation was carried out without infantry and without losses on our side,” Zelenskyy stated. [12]</p><p>No infantry. No medevac. No casualties on the attacking side. The position changed hands, and no human being on the Ukrainian side was ever in danger.</p><p>This was not a demonstration. It happened on a real front line, against real opposition hardened by experience of drone warfare. Zelenskyy reported that robotic systems had completed more than twenty-two thousand frontline missions in three months, entering the most dangerous areas instead of soldiers. [12] For a country fighting a grinding war of attrition against a much larger force, every one of those missions represents human lives preserved. Ukraine can absorb the loss of a robot. It cannot afford to lose battle-ready soldiers.</p><p>The Ukrainian operation demonstrates the potential of unmanned systems to preserve friendly forces’ lives, which is a different moral calculus from the civilian-harm question at the center of this essay. Proponents of AI targeting cite it as evidence of the technology’s promise; the distinction between preserving soldiers and protecting civilians is precisely where the accountability question sharpens. The technology that can capture a position without risking a single soldier’s life is the same category of technology that processed a thousand targets in twenty-four hours. The difference between the two outcomes is not the capability. It is what the capability was pointed at, who controlled it, and whether the structures governing its use were adequate to its speed of execution.</p><p>These arguments are real, and what follows does not dismiss them. What it examines is the distance between what AI-assisted targeting could do in principle and what it did in practice when a thousand targets were processed in twenty-four hours from a database that had not been updated to reflect the conversion of a military building to a girls’ school.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!QEB4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64f0195b-3804-44d5-a840-75e5ff917532_1408x768.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!QEB4!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64f0195b-3804-44d5-a840-75e5ff917532_1408x768.png 424w, https://substackcdn.com/image/fetch/$s_!QEB4!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64f0195b-3804-44d5-a840-75e5ff917532_1408x768.png 848w, https://substackcdn.com/image/fetch/$s_!QEB4!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64f0195b-3804-44d5-a840-75e5ff917532_1408x768.png 1272w, https://substackcdn.com/image/fetch/$s_!QEB4!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64f0195b-3804-44d5-a840-75e5ff917532_1408x768.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!QEB4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64f0195b-3804-44d5-a840-75e5ff917532_1408x768.png\" width=\"1408\" height=\"768\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/64f0195b-3804-44d5-a840-75e5ff917532_1408x768.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:768,&quot;width&quot;:1408,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:996207,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chorrocks.substack.com/i/194654128?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64f0195b-3804-44d5-a840-75e5ff917532_1408x768.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!QEB4!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64f0195b-3804-44d5-a840-75e5ff917532_1408x768.png 424w, https://substackcdn.com/image/fetch/$s_!QEB4!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64f0195b-3804-44d5-a840-75e5ff917532_1408x768.png 848w, https://substackcdn.com/image/fetch/$s_!QEB4!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64f0195b-3804-44d5-a840-75e5ff917532_1408x768.png 1272w, https://substackcdn.com/image/fetch/$s_!QEB4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64f0195b-3804-44d5-a840-75e5ff917532_1408x768.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><div><hr></div><h2>V. Where It Breaks</h2><p>On February 28, 2026, the United States launched Operation Epic Fury against Iran. The military struck approximately one thousand targets in the first twenty-four hours.</p><p>The operational details that follow derive from journalistic reporting based on anonymous official sources; no declassified military records or Pentagon after-action report have confirmed them.</p><p>The Shajareh Tayyebeh girls’ elementary school in Minab was among the targets struck.</p><p>Between one hundred and fifty-six and one hundred and seventy-five people were killed. Most were schoolchildren.</p><p>This essay does not argue that AI-assisted targeting necessarily produces these failures. It argues that under the specific design choices, procurement pressures, and operational tempo of Operation Epic Fury — choices that are not inevitable but are consistent with a broader pattern in current AI-military integration — the outcome was foreseeable and was not prevented.</p><p>In March, <em>Semafor</em> tech editor Reed Albergotti published an investigation into the strike based on accounts from officials familiar with the subsequent inquiry. The finding was not that an AI system had misidentified the school as a military target. The finding was that the Defense Intelligence Agency’s target coding still labeled the school building as part of the adjacent Sayyid al-Shuhada Islamic Revolutionary Guard Corps (IRGC) military compound, even though the building had been converted to civilian use. New walls and a separate entrance were visible in satellite imagery. Publicly available information, including Iranian business listings found by Reuters, identified the building as a school. Human reviewers at multiple stages in the twenty-four to forty-eight hours before the strike failed to flag the discrepancy. [11]</p><p>The <em>Semafor</em> investigation identified the proximate failure. The structural question it raises but does not answer is whether the error would have been caught under different conditions.</p><p>The proximate cause was not artificial intelligence. It was outdated data maintained by humans. An outdated coordinate is an outdated coordinate; at fifty targets per year, a school misclassified as a military compound would still be a school misclassified as a military compound. Human-only targeting cells have made identical errors — the 1999 NATO bombing of the Chinese embassy in Belgrade relied on outdated maps — so speed alone does not explain every such failure. What the architecture removed was the institutional time and skepticism that had previously made such discovery routine. The system was evidently not designed for discrepancy detection, and no structural safeguard existed to catch an error of this kind. That design choice was foreseeable. Its consequences were not hypothetical.</p><p>The <em>Semafor </em>investigation does not close the accountability question. If the data were bad, who was responsible for data quality at the rate of one thousand targets per day?</p><p>On March 11, 2026, nearly every Senate Democrat signed a letter to Defense Secretary Pete Hegseth raising concerns about AI in targeting and reporting 1,245 killed and more than twelve thousand injured as of that date. [13] The following day, one hundred and twenty-one House Democrats, led by Representatives Yassamin Ansari, Sara Jacobs, and Jason Crow, sent a second letter posing ten detailed questions. Question three was direct: “Was artificial intelligence, including the use of Maven Smart System, used to identify the Shajareh Tayyebeh school as a target? If so, did a human verify the accuracy of this target?” [14]</p><p>The three-tier culpability framework I proposed in an earlier essay in this series applies here without modification. [15] Negligence: the Defense Intelligence Agency’s target coding was outdated. Human reviewers at multiple stages failed to catch it. Recklessness: the throughput (one thousand targets per day) exceeded the verification capacity by design, creating a structural condition in which errors of this kind were not anomalies but predictable outcomes. Intentional misconduct would apply if officials knew the site had civilian status or consciously disregarded contrary evidence while authorizing the strike under loosened rules of engagement. The evidence as reported does not establish that third tier for Minab specifically, though the broader policy environment has been characterized by loosened thresholds and dismissed military lawyers. [23]</p><p>The essay does not need to resolve which tier applies. The framework’s purpose is to demonstrate that accountability traces to human decisions at every level, not to the system that processed them.</p><p>The empirical record is consistent with the structural analysis. No controlled experiment exists comparing AI-assisted and human-only targeting on the same target set. The available data do not support the claim that AI integration has reduced civilian casualties. One study published in <em>Frontiers in Public Health</em> found that combatant deaths as a proportion of total fatalities fell from 62.1 percent in 2008–09 to 12.7 percent in operations beginning October 2023, meaning civilians rose from roughly 38 percent to approximately 87 percent of the dead. [16] These figures are contested; the IDF and other organizations publish different numbers, and casualty ratios in urban warfare against an embedded adversary are methodologically difficult to establish. Airwars documented October 2023 alone as producing nearly four times more civilian deaths in a single month than any conflict the organization had tracked since 2014. [17]</p><p>A critical caveat is necessary, and the essay would be dishonest without it. The dramatic increase in civilian casualties coincides with AI adoption, but it also coincides with a permissive policy environment: an administration that had previously pardoned soldiers convicted of war crimes, reports of loosened civilian harm thresholds and dismissed military lawyers, and a command climate in which rules of engagement constraints were relaxed. [23] AI’s independent causal effect cannot be isolated from these decisions. AI did not author the policy. It removed the friction that had previously limited the policy’s consequences. At fifty targets per year, an outdated coordinate in a targeting database is a tragic error. At one thousand per day, it is a systemic failure condition.</p><div><hr></div><h2>VI. The Architect and the Instrument</h2><p>Palantir is named for the “seeing stones” of J. R. R. Tolkien’s Middle-earth. They are devices made for long-distance communication, later corrupted into instruments of surveillance.</p><p>Alex Karp has led the company as chief executive since 2004. His mother, Leah Jaynes Karp, is an African American artist. His father, Robert Karp, is a Jewish clinical pediatrician. Karp grew up in Philadelphia attending civil rights protests with his parents. He studied philosophy at Haverford College and earned a doctorate in neoclassical social theory from Goethe University Frankfurt, where he studied under Jürgen Habermas. He described himself as a socialist. He said that if the far right came to power, he would be among its first victims. [18]</p><p>The trajectory is documented in Michael Steinberger’s 2025 book, <em>The Philosopher in the Valley</em>. Steinberger identifies October 7, 2023, as the pivot point. Before it, Karp believed the Democratic Party's position on immigration was an electoral liability. After it, he came to see immigration itself as a threat to American Jews. His public self-description shifted: in a 2024 interview, he described himself as Jewish without referring to his African American heritage. [19]</p><p>On March 12, 2026, in a CNBC interview at AIPCON — the same event where the Maven targeting map was displayed — Karp stated: “This technology disrupts humanities-trained — largely Democratic — voters, and makes their economic power less. And increases the economic power of vocationally trained, working-class, often male voters.” [20]</p><p>On the same day, at the same event, Karp opened with remarks about the kill chain at the opening of this essay: “Once the war starts, we’re not interested in debating how we’re supporting them. And that sometimes means that people on the other side don’t go home. And we are very proud of that.” [1]</p><p>On America’s military capacity: “What makes America special right now is our lethal capacities. Our ability to fight war.” [20]</p><p>Speaking to shareholders three weeks earlier, on February 17, 2026: “We kill people sometimes.” [21]</p><p>Palantir’s leadership presents battlefield lethality as both a product achievement and a political project. Karp has described his technology’s distributional consequences with a directness unusual among technology executives. The knowledge economy that gave women an edge through higher education is, in Karp’s framing, a casualty of the disruption his technology enables. [22]</p><p>The accountability chain is visible in a single company: from the Minab strike to the twenty operators to the Maven Smart System to Palantir to a chief executive who describes his product as a political instrument while displaying the operational map on which a school appears as a red mark.</p><p>The Anthropic paradox completes the picture. Amodei’s statement of February 26 drew two narrow red lines — no autonomous weapons, no domestic mass surveillance — and affirmed everything else: “We have never raised objections to particular military operations.” [9] The constitutional architecture that governed Claude’s deployment permitted target identification and prioritization. It did not permit the autonomous pulling of a trigger. The distinction may matter legally. It did not matter to the children in Minab.</p><div><hr></div><h2>VII. Close</h2><p>Every step in the kill chain involved a human decision and a machine output. The target selection criteria were human. The data labeling was human. The error tolerance — ten percent in Lavender, outdated coordinates in the DIA database — was a human policy choice. The rules of engagement were human rules, loosened by human officials. The system transformed these inputs into ranked action options. It did not originate the ends, the legal categories, the thresholds, or the strike authority.</p><p>The series of essays to which this one belongs calls these systems <a href=\"https://candc3d.github.io/vi-framework/\">virtual intelligences</a>: technologies whose outputs appear intelligent but which possess no agency, intentionality, or moral accountability of their own. A reader need not accept the full theoretical apparatus to accept the narrower conclusion: in the kill chain as documented, every input that shaped the system’s output was a human product, and every failure traceable to this case was a human failure. The accountability for what the system produces traces entirely to the humans who design it, deploy it, train it, and approve its outputs. The system contributes processing power to the exchange. It does not contribute intention, judgment, or the capacity for moral responsibility. Accountability concentrates on the human because only the human possesses those. The kill chain does not alter this principle. It tests whether the institutional architecture surrounding those humans can bear the weight the principle places on them. That step has been compressed to twenty seconds in Gaza. A thousand targets passed through it in a single day in Iran. In Minab, the architecture could not bear the weight.</p><p>The kill chain has six steps. Artificial intelligence now performs four of them. The two that remain under human control are the two on which legal and moral accountability depends: filtering for legality and authorizing the strike. The human remains in the loop, but the loop has been compressed to the point where the word “remains” does more work than the human does.</p><p>On April 13, 2026, Zelenskyy announced that unmanned systems had captured a Russian position without risking a single Ukrainian life. On the same day, the <a href=\"https://chorrocks.substack.com/p/virtual-intelligence-and-the-harms\">preceding essay in this series</a> documented the mechanism by which AI companies convert danger into deployment. On a map displayed twelve days after a school was struck, the location appeared as a red icon among dozens of others, indistinguishable from a military compound. The system had no opinion about it. The system has no opinion about anything.</p><p>This essay does not argue that artificial intelligence should not be used in warfare. It argues that the accountability structures governing its use have not kept pace with its capabilities, and that this gap has already killed many people. The gap is not a design flaw to be patched. It is the structural condition in which the Harms Race operates. At the scale of one thousand targets per day, an accountability architecture built for fifty per year is not inadequate.</p><p>The red mark is still on the map.</p><div><hr></div><p style=\"text-align: center;\"><em>The opinions expressed are my own and do not reflect any official or unofficial institutional position of the University of Pennsylvania.</em></p><div><hr></div><h2>Footnotes</h2><p><strong>[1] </strong>O’Ryan Johnson, “Pentagon AI chief praises Palantir tech for speeding battlefield strikes,” The Register, <a href=\"https://www.theregister.com/2026/03/13/palantirs_maven_smart_system_iran/\">https://www.theregister.com/2026/03/13/palantirs_maven_smart_system_iran/</a>, March 13, 2026.</p><p><strong>[2] </strong>Christopher Horrocks, “Virtual Intelligence and the Harms Race,” Virtual Intelligence (Substack), <a href=\"https://chorrocks.substack.com/p/virtual-intelligence-and-the-harms\">https://chorrocks.substack.com/p/virtual-intelligence-and-the-harms</a>, April 11, 2026.</p><p><strong>[3] </strong>The six steps of the kill chain — identify, locate, filter, prioritize, assign to firing units, and fire — are standard targeting doctrine. See Christian Brose, <em>The Kill Chain: Defending America in the Future of High-Tech Warfare</em> (New York: Hachette, 2020).</p><p><strong>[4] </strong>Kohavi’s targeting figures (“in the past, we would produce 50 targets in Gaza per year. Now this machine produces 100 targets in a single day”) are drawn from an interview published by Ynetnews, June 30, 2023, and reported in Yuval Abraham, “‘A mass assassination factory’: Inside Israel’s calculated bombing of Gaza,”<em> +972 Magazine, </em><a href=\"https://www.972mag.com/mass-assassination-factory-israel-calculated-bombing-gaza/\">https://www.972mag.com/mass-assassination-factory-israel-calculated-bombing-gaza/</a>, November 30, 2023. Tal Mimran, a lecturer at Hebrew University who has worked for the Israeli government on targeting, provided corroborating estimates to NPR: a group of twenty officers might produce fifty to one hundred targets in three hundred days; the Gospel and its associated systems could suggest around two hundred targets in ten to twelve days. Geoff Brumfiel, “Israel is using an AI system to find targets in Gaza. Experts say it’s just the start,” NPR, <a href=\"https://www.npr.org/2023/12/14/1218643254/\">https://www.npr.org/2023/12/14/1218643254/</a>, December 14, 2023. On Fire Factory: “Israel Using AI Systems to Plan Deadly Military Operations,” Bloomberg, <a href=\"https://www.bloomberg.com/news/articles/2023-07-16/israel-using-ai-systems-to-plan-deadly-military-operations\">https://www.bloomberg.com/news/articles/2023-07-16/israel-using-ai-systems-to-plan-deadly-military-operations</a>, July 16, 2023. Bloomberg described Fire Factory as calculating munition loads, prioritizing and assigning targets to aircraft and drones, and proposing a schedule, in a pre-war article that characterized such AI tools as tailored for a military confrontation and proxy war with Iran.</p><p><strong>[5] </strong>Yuval Abraham, “‘Lavender’: The AI machine directing Israel’s bombing spree in Gaza,” <em>+972 Magazine,</em> <a href=\"https://www.972mag.com/lavender-ai-israeli-army-gaza/\">https://www.972mag.com/lavender-ai-israeli-army-gaza/</a>, April 3, 2024.</p><p><strong>[6] </strong>Bethan McKernan and Harry Davies, “‘The machine did it coldly’: Israel used AI to identify 37,000 Hamas targets,” The Guardian, <a href=\"https://www.theguardian.com/world/2024/apr/03/israel-gaza-ai-database-hamas-airstrikes\">https://www.theguardian.com/world/2024/apr/03/israel-gaza-ai-database-hamas-airstrikes</a>, April 3, 2024.</p><p><strong>[7] </strong>Anthony King, “Digital Targeting: Artificial Intelligence, Data, and Military Intelligence,” <em>Journal of Global Security Studies</em> 9, no. 2 (2024). <a href=\"https://doi.org/10.1093/jogss/ogae009\">https://doi.org/10.1093/jogss/ogae009</a>.</p><p><strong>[8] </strong>The <em>Wall Street Journal</em> first reported Claude’s use in Operation Epic Fury (approximately March 1, 2026; paywalled). For the reporting as confirmed and expanded by secondary sources, see: CBS News, “Anthropic’s Claude AI being used in Iran war by U.S. military, sources say,” March 3, 2026; <em>Washington Post</em>, “Anthropic’s AI tool Claude central to U.S. campaign in Iran, amid a bitter feud,” March 4, 2026; NBC News, “U.S. military is using AI to help plan Iran air attacks, sources say,” March 2026. Admiral Brad Cooper, the U.S. commander leading the war in Iran, confirmed the use of “a variety of advanced AI tools” to process targeting data. See “The Iran war highlights the creeping use of AI in warfare,” Chatham House, <a href=\"https://www.chathamhouse.org/2026/03/iran-war-highlights-creeping-use-ai-warfare\">https://www.chathamhouse.org/2026/03/iran-war-highlights-creeping-use-ai-warfare</a>, March 2026. Note: these operational details derive from journalistic reporting and have not been confirmed by declassified military records or an official Pentagon after-action report.</p><p><strong>[9] </strong>Dario Amodei, “Statement from Dario Amodei on our discussions with the Department of War,” Anthropic, <a href=\"https://www.anthropic.com/news/statement-department-of-war\">https://www.anthropic.com/news/statement-department-of-war</a>, February 26, 2026. Note: Amodei’s use of “Department of War” rather than “Department of Defense” is the company’s deliberate rhetorical choice.</p><p><strong>[10] </strong>On the Anthropic-Pentagon conflict and its commercial aftermath: supply chain risk designation, CNBC, March 5, 2026; Judge Rita Lin ruling, CNBC, March 26, 2026, <a href=\"https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html\">https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html</a>; Claude App Store ranking (a momentary spike, not a sustained shift), TechCrunch, March 1, 2026.</p><p><strong>[11] </strong>Reed Albergotti, “Exclusive: Humans — not AI — are to blame for deadly Iran school strike, sources say,” <em>Semafor</em>, <a href=\"https://www.semafor.com/article/03/18/2026/humans-not-ai-are-to-blame-for-deadly-iran-school-strike-sources-say\">https://www.semafor.com/article/03/18/2026/humans-not-ai-are-to-blame-for-deadly-iran-school-strike-sources-say</a>, March 18, 2026. The investigation is based on accounts from officials familiar with the subsequent inquiry; no declassified records have corroborated the specific findings. Shanahan is quoted in the same article. The throughput analysis that follows in this essay is the author’s, not Albergotti’s.</p><p><strong>[12] </strong>Zelenskyy’s statement on Ukraine’s Arms Makers’ Day, April 13, 2026. See: “Ukraine Says It Captured a Russian Position Using Only Unmanned Systems — A Glimpse of Future Warfare,” The Debrief, <a href=\"https://thedebrief.org/ukraine-says-it-captured-a-russian-position-using-only-unmanned-systems-a-glimpse-of-future-warfare/\">https://thedebrief.org/ukraine-says-it-captured-a-russian-position-using-only-unmanned-systems-a-glimpse-of-future-warfare/</a>, April 14, 2026. Also: Fox News, “Zelenskyy says Ukraine captured Russian position with robot force,” April 14, 2026.</p><p><strong>[13] </strong>Senate letter led by Sen. Elizabeth Warren et al. to Secretary of Defense Pete Hegseth, March 11, 2026. PDF: <a href=\"https://www.warren.senate.gov/imo/media/doc/letter_to_hegseth_on_minab_bombing_civcas_iran.pdf\">https://www.warren.senate.gov/imo/media/doc/letter_to_hegseth_on_minab_bombing_civcas_iran.pdf</a>.</p><p><strong>[14] </strong>House letter led by Reps. Yassamin Ansari, Sara Jacobs, and Jason Crow to Secretary of Defense Pete Hegseth, March 12, 2026. 121 signatories. Press release: <a href=\"https://ansari.house.gov/media/press-releases/03/12/2026/\">https://ansari.house.gov/media/press-releases/03/12/2026/</a>. Letter PDF: <a href=\"https://sarajacobs.house.gov/imo/media/doc/jacobs_ansari_crow_letter_civilian_casualties_iran.pdf\">https://sarajacobs.house.gov/imo/media/doc/jacobs_ansari_crow_letter_civilian_casualties_iran.pdf</a>.</p><p><strong>[15] </strong>Christopher Horrocks, “Virtual Intelligence and the Accountability Chain,” <em>Virtual Intelligence</em> (Substack), <a href=\"https://chorrocks.substack.com/p/virtual-intelligence-and-the-accountability\">https://chorrocks.substack.com/p/virtual-intelligence-and-the-accountability</a>, March 20, 2026.</p><p><strong>[16] </strong>Ayoub, Chemaitelly, and Abu-Raddad, <em>Frontiers in Public Health</em>, 2024 (PMC11231088). The study’s “Index of Killing Civilians” rose from 0.61 in 2008–09 to 7.01 in operations beginning October 2023. The IDF and other organizations publish different figures; casualty ratios in urban warfare against embedded adversaries are methodologically contested.</p><p><strong>[17] </strong>Airwars, Gaza civilian harm data. <a href=\"https://gaza-patterns-harm.airwars.org/\">https://gaza-patterns-harm.airwars.org/</a>. See also Airwars, “The first civilian confirmed killed in an AI-assisted strike,” <a href=\"https://airwars.org/the-first-civilian-confirmed-killed-in-an-ai-assisted-strike/\">https://airwars.org/the-first-civilian-confirmed-killed-in-an-ai-assisted-strike/</a>.</p><p><strong>[18] </strong>On Karp’s background: Michael Steinberger, <em>The Philosopher in the Valley</em> (2025). See also NPR interview with Steve Inskeep, December 30, 2025, <a href=\"https://www.npr.org/2025/12/30/nx-s1-5607021/\">https://www.npr.org/2025/12/30/nx-s1-5607021/</a>. On Karp’s earlier political self-description and vulnerability, see Market Realist, “How Did Alex Karp’s Views Lead Palantir out of the Silicon Valley?”, October 23, 2020.</p><p><strong>[19] </strong>Michael Steinberger, The Philosopher in the Valley (2025), documents Karp's shifting public self-presentation after October 7.</p><p><strong>[20] </strong>Alex Karp, CNBC interview at AIPCON, March 12, 2026. Video clip via Aaron Rupar (@atrupar). Also quoted in: Fortune (Jacqueline Munis), “Palantir CEO says AI ‘will destroy’ humanities jobs,” January 20, 2026 (updated April 2026), <a href=\"https://fortune.com/article/palantir-ceo-alex-karp-ai-humanities-jobs-vocational-training/\">https://fortune.com/article/palantir-ceo-alex-karp-ai-humanities-jobs-vocational-training/</a>.</p><p><strong>[21] </strong>Alex Karp, remarks to shareholders, February 17, 2026. Video clip via @MmisterNobody, X. The full video is available on Palantir’s investor relations page.</p><p><strong>[22] </strong>For the underlying reporting on Karp’s political framing and its implications for higher education and the knowledge economy, see Will Bunch, “Big Tech says the quiet part out loud. They want you to be stupid,” <em>Philadelphia Inquirer</em>, <a href=\"https://www.inquirer.com/opinion/alex-karp-palantir-ai-higher-education-20260315.html\">https://www.inquirer.com/opinion/alex-karp-palantir-ai-higher-education-20260315.html</a>, March 15, 2026. The analytical characterization in the essay text is the author’s.</p><p><strong>[23] </strong>On the policy environment: the broader posture of the administration toward military accountability is documented. President Trump pardoned former Army First Lieutenant Clint Lorance and restored the rank of Navy SEAL Chief Edward Gallagher in November 2019, both of whom had been convicted or disciplined for war crimes. See: “Trump pardons 2 soldiers, restores rank of Navy SEAL in war crimes cases,” NPR, <a href=\"https://www.npr.org/2019/11/15/780029099/\">https://www.npr.org/2019/11/15/780029099/</a>, November 15, 2019. Reports of loosened civilian harm thresholds and dismissed military lawyers during the Iran campaign have appeared in multiple outlets but have not been confirmed by official documentation.</p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe now&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/subscribe?\"><span>Subscribe now</span></a></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/p/virtual-intelligence-and-the-kill?utm_source=substack&utm_medium=email&utm_content=share&action=share&quot;,&quot;text&quot;:&quot;Share&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/p/virtual-intelligence-and-the-kill?utm_source=substack&utm_medium=email&utm_content=share&action=share\"><span>Share</span></a></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share&quot;,&quot;text&quot;:&quot;Share Virtual Intelligence&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share\"><span>Share Virtual Intelligence</span></a></p><p></p>",
+ "has_dynamic_content": false,
+ "truncated_body_text": "Summary",
+ "wordcount": 5506,
+ "post_preview_limit": null,
+ "language": "en",
+ "postTags": [
+  {
+   "id": "03b2a02f-ac84-4c06-be9e-9ad5a44ed375",
+   "publication_id": 8222267,
+   "name": "gaza",
+   "slug": "gaza",
+   "hidden": false
+  },
+  {
+   "id": "121c8b0d-85b9-48d6-929a-40a33f0a52ac",
+   "publication_id": 8222267,
+   "name": "lavender",
+   "slug": "lavender",
+   "hidden": false
+  },
+  {
+   "id": "1e52c38d-7b24-4a9e-b2c0-fa7dd7ac96ef",
+   "publication_id": 8222267,
+   "name": "gospel",
+   "slug": "gospel",
+   "hidden": false
+  },
+  {
+   "id": "244703d3-0ad2-4b5c-bd09-4a418d7c7f7e",
+   "publication_id": 8222267,
+   "name": "amodei",
+   "slug": "amodei",
+   "hidden": false
+  },
+  {
+   "id": "28bbc732-2807-4a66-8833-3945cc65076b",
+   "publication_id": 8222267,
+   "name": "karp",
+   "slug": "karp",
+   "hidden": false
+  },
+  {
+   "id": "2d42aebc-21ef-4285-8443-f8e27f6d25bf",
+   "publication_id": 8222267,
+   "name": "military",
+   "slug": "military",
+   "hidden": false
+  },
+  {
+   "id": "2f669d8d-9f8c-4fe0-b301-302c49e392ab",
+   "publication_id": 8222267,
+   "name": "war",
+   "slug": "war",
+   "hidden": false
+  },
+  {
+   "id": "30e06063-b060-4969-a8bd-e4d63e7a4323",
+   "publication_id": 8222267,
+   "name": "maven",
+   "slug": "maven",
+   "hidden": false
+  },
+  {
+   "id": "33446bbe-2452-489e-ab56-653d30bdddd1",
+   "publication_id": 8222267,
+   "name": "drone",
+   "slug": "drone",
+   "hidden": false
+  },
+  {
+   "id": "42234b3a-c95b-453c-ac08-76df8f760b2e",
+   "publication_id": 8222267,
+   "name": "israel",
+   "slug": "israel",
+   "hidden": false
+  },
+  {
+   "id": "4778494a-ceea-4bcf-8d1d-ff2e0a553595",
+   "publication_id": 8222267,
+   "name": "artificial intelligence",
+   "slug": "artificial-intelligence",
+   "hidden": false
+  },
+  {
+   "id": "47c3b2c7-df30-4ab2-bdea-a1ddd2420e6e",
+   "publication_id": 8222267,
+   "name": "palantir",
+   "slug": "palantir",
+   "hidden": false
+  },
+  {
+   "id": "504d2c8d-7280-41a1-ba23-4dde99ab8e90",
+   "publication_id": 8222267,
+   "name": "defense",
+   "slug": "defense",
+   "hidden": false
+  },
+  {
+   "id": "6eafefa6-623b-40ef-b31f-158a0e2e9eaa",
+   "publication_id": 8222267,
+   "name": "hegseth",
+   "slug": "hegseth",
+   "hidden": false
+  },
+  {
+   "id": "73177fcd-1894-4001-a679-c01f4c68550b",
+   "publication_id": 8222267,
+   "name": "idf",
+   "slug": "idf",
+   "hidden": false
+  },
+  {
+   "id": "73cb2ac5-5ca6-4489-b68c-933ca76d60d2",
+   "publication_id": 8222267,
+   "name": "kill chain",
+   "slug": "kill-chain",
+   "hidden": false
+  },
+  {
+   "id": "75038e2b-e48a-4f98-8f51-8096a5ed2c09",
+   "publication_id": 8222267,
+   "name": "robot",
+   "slug": "robot",
+   "hidden": false
+  },
+  {
+   "id": "9c3176ae-792d-49c1-b407-5bb2ce9f23fc",
+   "publication_id": 8222267,
+   "name": "ai",
+   "slug": "ai",
+   "hidden": false
+  },
+  {
+   "id": "a746df19-da16-4ce4-8bda-da46caa82ffd",
+   "publication_id": 8222267,
+   "name": "ukraine",
+   "slug": "ukraine",
+   "hidden": false
+  },
+  {
+   "id": "a7d66c22-9b42-452a-a85b-d82d836308ba",
+   "publication_id": 8222267,
+   "name": "zelenskyy",
+   "slug": "zelenskyy",
+   "hidden": false
+  },
+  {
+   "id": "ae312d39-0e29-4808-90e9-f508ff8f3516",
+   "publication_id": 8222267,
+   "name": "trump",
+   "slug": "trump",
+   "hidden": false
+  },
+  {
+   "id": "b3f9e346-e30d-423b-a627-670b714fbc2b",
+   "publication_id": 8222267,
+   "name": "virtual intelligence",
+   "slug": "virtual-intelligence",
+   "hidden": false
+  },
+  {
+   "id": "c4a2c612-15d0-4fba-9d5b-bf44259501f7",
+   "publication_id": 8222267,
+   "name": "anthropic",
+   "slug": "anthropic",
+   "hidden": false
+  },
+  {
+   "id": "d68abdb1-c585-44d5-84f1-abe8f9329ed5",
+   "publication_id": 8222267,
+   "name": "targeting",
+   "slug": "targeting",
+   "hidden": false
+  },
+  {
+   "id": "e48cc05c-2ccc-4a19-8a0a-0acd578b7c92",
+   "publication_id": 8222267,
+   "name": "pentagon",
+   "slug": "pentagon",
+   "hidden": false
+  },
+  {
+   "id": "f6c84987-eca5-4c78-b0fe-d171937831b7",
+   "publication_id": 8222267,
+   "name": "iran",
+   "slug": "iran",
+   "hidden": false
+  }
+ ],
+ "postCountryBlocks": [],
+ "headlineTest": null,
+ "coverImagePalette": {
+  "Vibrant": {
+   "rgb": [
+    194.02173913043484,
+    149.67391304347828,
+    60.97826086956515
+   ],
+   "population": 0
+  },
+  "DarkVibrant": {
+   "rgb": [
+    100.89130434782612,
+    77.8304347826087,
+    31.708695652173876
+   ],
+   "population": 0
+  },
+  "LightVibrant": {
+   "rgb": [
+    244,
+    236,
+    220
+   ],
+   "population": 2708
+  },
+  "Muted": {
+   "rgb": [
+    124,
+    124,
+    116
+   ],
+   "population": 49
+  },
+  "DarkMuted": {
+   "rgb": [
+    60,
+    60,
+    52
+   ],
+   "population": 2
+  },
+  "LightMuted": {
+   "rgb": [
+    191,
+    189,
+    179
+   ],
+   "population": 205
+  }
+ },
+ "publishedBylines": [
+  {
+   "id": 474704088,
+   "name": "Christopher Horrocks",
+   "handle": "chorrocks",
+   "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/7a8cf605-dcd8-41b8-aedd-eda353c188f3_298x298.jpeg",
+   "bio": "Christopher Horrocks is a technologist at the University of Pennsylvania writing about AI and tech ethics. His concept of Virtual Intelligence bridges weak & strong AI and more accurately describes the current state of AI technology than either term.",
+   "profile_set_up_at": "2026-03-05T16:59:29.889Z",
+   "reader_installed_at": "2026-03-17T12:01:30.539Z",
+   "publicationUsers": [
+    {
+     "id": 8416243,
+     "user_id": 474704088,
+     "publication_id": 8222267,
+     "role": "admin",
+     "public": true,
+     "is_primary": true,
+     "publication": {
+      "id": 8222267,
+      "name": "Virtual Intelligence",
+      "subdomain": "chorrocks",
+      "custom_domain": null,
+      "custom_domain_optional": false,
+      "hero_text": "Contemporary AI systems produce intelligent outputs without agency, intention, or judgment. This series examines what happens when humans rely on systems that don't know true from false and right from wrong — and asks where accountability lies. ",
+      "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/69d00242-89f0-458c-89db-946df76089e4_1280x1280.png",
+      "author_id": 474704088,
+      "primary_user_id": 474704088,
+      "theme_var_background_pop": "#FF6719",
+      "created_at": "2026-03-05T16:59:38.055Z",
+      "email_from_name": null,
+      "copyright": "Christopher Horrocks",
+      "founding_plan_name": null,
+      "community_enabled": true,
+      "invite_only": false,
+      "payments_state": "disabled",
+      "language": null,
+      "explicit": false,
+      "homepage_type": "magaziney",
+      "is_personal_mode": false,
+      "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/ef6c9d30-db7b-4be9-b09d-b0dbaa139cea_1344x256.png"
+     }
+    }
+   ],
+   "is_guest": false,
+   "bestseller_tier": null,
+   "status": {
+    "bestsellerTier": null,
+    "subscriberTier": null,
+    "leaderboard": null,
+    "vip": false,
+    "badge": null,
+    "subscriber": null
+   }
+  }
+ ],
+ "reaction": null,
+ "reaction_count": 0,
+ "comment_count": 0,
+ "child_comment_count": 0,
+ "is_geoblocked": false,
+ "audio_items": [
+  {
+   "post_id": 194654128,
+   "voice_id": "voiceover",
+   "audio_url": "https://api.substack.com/api/v1/audio/upload/fb0ebaaa-c83a-4eb9-9f4e-b31121cd0da3/src",
+   "type": "voiceover",
+   "status": "completed",
+   "duration": 2168.6335
+  }
+ ],
+ "is_editor_preview": false,
+ "hasCashtag": false,
+ "unlockedWithIP": false,
+ "unlockedWithCampaign": false,
+ "themeVariables": {
+  "color_theme_bg_pop": "#65a30d",
+  "background_pop": "#65a30d",
+  "color_theme_bg_web": "#292524",
+  "cover_bg_color": "#292524",
+  "cover_bg_color_secondary": "#363231",
+  "background_pop_darken": "#568b0b",
+  "print_on_pop": "#ffffff",
+  "color_theme_bg_pop_darken": "#568b0b",
+  "color_theme_print_on_pop": "#ffffff",
+  "color_theme_bg_pop_20": "rgba(101, 163, 13, 0.2)",
+  "color_theme_bg_pop_30": "rgba(101, 163, 13, 0.3)",
+  "print_pop": "#65a30d",
+  "color_theme_accent": "#65a30d",
+  "cover_print_primary": "#ffffff",
+  "cover_print_secondary": "#d9d9d9",
+  "cover_print_tertiary": "#d9d9d9",
+  "cover_border_color": "#ffffff",
+  "font_family_headings_preset": "Lora,sans-serif",
+  "font_weight_headings_preset": 600,
+  "font_family_body_preset": "'Roboto Slab',sans-serif",
+  "font_weight_body_preset": 400,
+  "home_hero": "magazine-5",
+  "home_posts": "custom",
+  "web_bg_color": "#292524",
+  "background_contrast_1": "#363231",
+  "background_contrast_2": "#464242",
+  "background_contrast_3": "#656362",
+  "background_contrast_4": "#848281",
+  "background_contrast_5": "#bbbaba",
+  "color_theme_bg_contrast_1": "#363231",
+  "color_theme_bg_contrast_2": "#464242",
+  "color_theme_bg_contrast_3": "#656362",
+  "color_theme_bg_contrast_4": "#848281",
+  "color_theme_bg_contrast_5": "#bbbaba",
+  "color_theme_bg_elevated": "#363231",
+  "color_theme_bg_elevated_secondary": "#464242",
+  "color_theme_bg_elevated_tertiary": "#656362",
+  "color_theme_detail": "#3e3b3a",
+  "background_contrast_pop": "rgba(101, 163, 13, 0.4)",
+  "color_theme_bg_contrast_pop": "rgba(101, 163, 13, 0.4)",
+  "theme_bg_is_dark": "1",
+  "print_on_web_bg_color": "#ffffff",
+  "print_secondary_on_web_bg_color": "#a9a8a7",
+  "header_bg_color": "#292524",
+  "header_bg_color_h": "12.000000000000036",
+  "header_bg_color_s": "6.493506493506497%",
+  "header_bg_color_l": "15.098039215686276%",
+  "print_on_header_bg_color": "#ffffff",
+  "print_secondary_on_header_bg_color": "#a9a8a7",
+  "header_bg_contrast_1": "#363231",
+  "header_bg_contrast_2": "#464242",
+  "header_bg_contrast_3": "#656362",
+  "header_bg_contrast_4": "#848281",
+  "header_bg_elevated": "#363231",
+  "header_bg_elevated_secondary": "#464242",
+  "header_bg_elevated_tertiary": "#656362",
+  "header_detail_color": "#3e3b3a",
+  "background_pop_rgb": "101, 163, 13",
+  "color_theme_bg_pop_rgb": "101, 163, 13",
+  "color_theme_accent_rgb": "101, 163, 13"
+ },
+ "comments": []
+}

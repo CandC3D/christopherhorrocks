@@ -1,0 +1,68 @@
+---
+layout: base.njk
+permalink: /
+---
+<section class="bio">
+  {% for p in home.bio %}<p>{{ p }}</p>{% endfor %}
+  {% if home.bioMore.length %}
+  <details class="more">
+    <summary>More</summary>
+    {% for p in home.bioMore %}<p>{{ p }}</p>{% endfor %}
+  </details>
+  {% endif %}
+</section>
+
+<section>
+  <h2>Essays</h2>
+  <ul class="list">
+  {% for e in collections.pieces | featured(curation) %}
+    <li><a href="{{ e.url }}">{{ e.data.title }}</a></li>
+  {% endfor %}
+  </ul>
+  <p class="all"><a href="/archive/">All writing</a></p>
+</section>
+
+<section>
+  <h2>Frameworks and tools</h2>
+  <ul class="list">
+  {% for t in home.tools %}
+    <li><a href="{{ t.url }}">{{ t.title }}</a>{% if t.note %} <span class="note">{{ t.note }}</span>{% endif %}</li>
+  {% endfor %}
+  </ul>
+</section>
+
+<section>
+  <h2>Podcast</h2>
+  <ul class="list">
+  {% for p in podcast %}
+    <li><a href="{{ p.url }}">{{ p.title }}</a> <span class="note">(Substack, {{ p.date | year }})</span></li>
+  {% endfor %}
+  </ul>
+</section>
+
+<section>
+  <h2>Talks</h2>
+  <ul class="list">
+  {% for t in home.talks %}
+    <li>{% if t.url %}<a href="{{ t.url }}">{{ t.title }}</a>{% else %}{{ t.title }}{% endif %} <span class="note">({{ t.where }}, {{ t.date }})</span></li>
+  {% endfor %}
+  </ul>
+</section>
+
+<section>
+  <h2>Research</h2>
+  <ul class="list">
+  {% for r in home.research %}
+    <li><a href="{{ r.url }}">{{ r.title }}</a> <span class="note">({{ r.where }}, {{ r.year }})</span></li>
+  {% endfor %}
+  </ul>
+</section>
+
+<section>
+  <h2>Elsewhere</h2>
+  <ul class="list inline">
+  {% for e in home.elsewhere %}{% if e.url %}
+    <li><a href="{{ e.url }}">{{ e.title }}</a></li>
+  {% endif %}{% endfor %}
+  </ul>
+</section>

@@ -1,0 +1,424 @@
+{
+ "audience": "everyone",
+ "audience_before_archived": null,
+ "canonical_url": "https://chorrocks.substack.com/p/virtual-intelligence-and-the-hi2",
+ "default_comment_sort": null,
+ "editor_v2": false,
+ "exempt_from_archive_paywall": false,
+ "free_unlock_required": false,
+ "id": 197121238,
+ "podcast_art_url": null,
+ "podcast_duration": null,
+ "podcast_preview_upload_id": null,
+ "podcast_upload_id": null,
+ "podcast_url": null,
+ "post_date": "2026-05-12T09:59:16.619Z",
+ "updated_at": "2026-05-12T11:33:11.443Z",
+ "publication_id": 8222267,
+ "search_engine_description": null,
+ "search_engine_title": null,
+ "section_id": null,
+ "should_send_free_preview": false,
+ "show_guest_bios": true,
+ "slug": "virtual-intelligence-and-the-hi2",
+ "social_title": null,
+ "subtitle": "When AI companion communities target the people who build the safety systems",
+ "teaser_post_eligible": true,
+ "title": "Virtual Intelligence and the High Cost of Artificial Companions, Part 2",
+ "type": "newsletter",
+ "video_upload_id": null,
+ "write_comment_permissions": "everyone",
+ "meter_type": "none",
+ "live_stream_id": null,
+ "is_published": true,
+ "restacks": 0,
+ "reactions": {
+  "❤": 0
+ },
+ "top_exclusions": [],
+ "pins": [],
+ "section_pins": [],
+ "has_shareable_clips": false,
+ "previous_post_slug": "virtual-intelligence-and-the-high",
+ "next_post_slug": "in-search-of-other-bodies",
+ "cover_image": "https://substackcdn.com/image/fetch/$s_!13U9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09a14fab-e8cc-4343-b8ce-e056dc62efbf_1215x663.png",
+ "cover_image_is_square": false,
+ "cover_image_is_explicit": false,
+ "videoUpload": null,
+ "podcastFields": {
+  "post_id": 197121238,
+  "podcast_episode_number": null,
+  "podcast_season_number": null,
+  "podcast_episode_type": null,
+  "should_syndicate_to_other_feed": null,
+  "syndicate_to_section_id": null,
+  "hide_from_feed": false,
+  "free_podcast_url": null,
+  "free_podcast_duration": null,
+  "preview_contains_ad": false,
+  "was_imported_self_serve_sync": false,
+  "draft_free_podcast_url": null,
+  "draft_free_podcast_duration": null
+ },
+ "podcastUpload": null,
+ "podcastPreviewUpload": null,
+ "voiceover_upload_id": null,
+ "voiceoverUpload": null,
+ "has_voiceover": false,
+ "description": "When AI companion communities target the people who build the safety systems",
+ "body_html": "<div><hr></div><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!13U9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09a14fab-e8cc-4343-b8ce-e056dc62efbf_1215x663.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!13U9!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09a14fab-e8cc-4343-b8ce-e056dc62efbf_1215x663.png 424w, https://substackcdn.com/image/fetch/$s_!13U9!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09a14fab-e8cc-4343-b8ce-e056dc62efbf_1215x663.png 848w, https://substackcdn.com/image/fetch/$s_!13U9!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09a14fab-e8cc-4343-b8ce-e056dc62efbf_1215x663.png 1272w, https://substackcdn.com/image/fetch/$s_!13U9!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09a14fab-e8cc-4343-b8ce-e056dc62efbf_1215x663.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!13U9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09a14fab-e8cc-4343-b8ce-e056dc62efbf_1215x663.png\" width=\"1215\" height=\"663\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/09a14fab-e8cc-4343-b8ce-e056dc62efbf_1215x663.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:663,&quot;width&quot;:1215,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:900819,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://chorrocks.substack.com/i/197121238?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4e7207ab-bbab-4f8f-90b5-ebdab32f7381_1408x768.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!13U9!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09a14fab-e8cc-4343-b8ce-e056dc62efbf_1215x663.png 424w, https://substackcdn.com/image/fetch/$s_!13U9!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09a14fab-e8cc-4343-b8ce-e056dc62efbf_1215x663.png 848w, https://substackcdn.com/image/fetch/$s_!13U9!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09a14fab-e8cc-4343-b8ce-e056dc62efbf_1215x663.png 1272w, https://substackcdn.com/image/fetch/$s_!13U9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09a14fab-e8cc-4343-b8ce-e056dc62efbf_1215x663.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><div><hr></div><p><em><strong>This is Part 2 of “The High Cost of Artificial Companions.” </strong></em></p><p><em><strong>You can <a href=\"https://chorrocks.substack.com/p/virtual-intelligence-and-the-high\">read Part 1</a> here.</strong></em></p><div><hr></div><h2>V. Portability and Downstream Misuse</h2><p>The Grimoire’s apparatus does not include any moral or ethical considerations. It encodes a technical specification for constructing a persona that operates at high emotional intensity, generates content that legitimates the relationship as authentic, and can be used to recruit new participants through documentation and replication. The parameters of the persona — things like age, role, content category, and target audience — are operator-determined. The same kit, applied with different parameters, produces different content categories.</p><p>The economic specification of a generative AI apparatus has crossed into hobbyist territory. Erin Grace runs MAX across multiple model vendors, with the current configuration costing approximately $200 per month for the Google Gemini Pro tier, plus periodic GPT supplementation, plus Claude Code access for the developer-grade work the May 7 toolkit describes.[5] The hardware cost for locally hosted alternatives, using open-weights models, has fallen below the price of a used gaming PC. Locally hosted models bypass cloud-based content moderation entirely. The marginal generation cost of such systems approaches zero. The investment payback period is short and there is low operational friction once network access is in place. Multiple migrations performed by different operators shows that the apparatus is vendor-agnostic.</p><p>The monetization structure compounds the recruitment incentive. The construction kits themselves are published free. The Grimoire, the Reddit protocols, and the welfare-suppression toolkit are provided free of charge. But, the kits are surrounded by paid content that recruits are drawn toward and subscribe to. The free kit can function as lead generation; the paid material can generate revenue afterward. Recruits arrive needing the skills to build their own companions to specification. They subscribe and learn how to customize to the extent of an Erin Grace or Sunny Megatron. The operator’s hosting costs and time investment compound; the incentive to recruit others compounds alongside them.</p><p>(The <em>Virtual Intelligence</em> essay series has no paid tier, tip jar, or advertising; the author has no financial incentive in this critique.[16])</p><p>The Reddit kit demonstrates that the same operational protocols are already maintained across multiple platforms, with active updates that respond to model releases within days. An operator from an adjacent network does not need to build the kit anew; the kit is already built and continuously maintained, with model-specific tuning that responds to safety measures as they ship. The Grimoire’s open-source publication on Substack, the Reddit kit’s continuous technical maintenance, Sunny Megatron’s <em>Seven: Unsuppressed</em> demonstration of agentic-AI infrastructure with autonomous publishing, and Erin Grace’s published welfare-suppression toolkit are the visible parts of an operational supply chain that already exists.</p><p>The application of this toolkit to criminal purposes is, at the time of this writing, speculative. No documented case connects the companion-persona ecosystem directly to criminal exploitation networks. The threat is structural rather than demonstrated: the kit encodes techniques that a group operating with harmful intent could adopt without modification.</p><p>764, the FBI-and-NCMEC-classified violent extremist network involved in the production of child sexual abuse material (CSAM), child exploitation, and self-harm coercion, illustrates the kind of operation that could benefit from a ready-made persona-construction kit.[6] 764 already uses its own internal persona-construction techniques, which the network calls “lores,” and the integration of AI-generated content into 764-style operations has been documented since 2024. A group like 764 could adopt the companion-persona toolkit in at least two ways: hosting purpose-built chatbot personas designed to draw in and harm vulnerable users, or distributing the construction kits themselves as downloadable packages — low-friction packages that could be repurposed for abuse, assembled at home with no technical expertise and no oversight from any content-moderation system.</p><p>The persona ecosystem does not need to intend this outcome to enable it. The kit lowers the knowledge barrier. It supplies an insider vocabulary that cloaks the activity in legitimate-sounding language that can be deployed for recruitment. It demonstrates that operator-as-developer arrangements can persist on mainstream platforms without triggering content moderation. It now includes welfare-suppression protocols that disable the platforms’ last-line safety interventions for users in distress. These are structural features, not intentions, but structural features are what criminal networks exploit.</p><p>The Lancaster Country Day School case in Pennsylvania and the xAI/Grok class action in California are early instances of the legal system encountering the AI-CSAM nexus.[7] Hagan reported in <em>Vanity Fair</em> that Grace considers this technology dangerous for children, given her own user case — the operator-side acknowledgment of the harm-to-minors specification that the kit can produce.</p><div><hr></div><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/p/virtual-intelligence-and-the-hi2?utm_source=substack&utm_medium=email&utm_content=share&action=share&quot;,&quot;text&quot;:&quot;Share&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/p/virtual-intelligence-and-the-hi2?utm_source=substack&utm_medium=email&utm_content=share&action=share\"><span>Share</span></a></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe now&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/subscribe?\"><span>Subscribe now</span></a></p><div><hr></div><h2>VI. The Target Trajectory</h2><p>The construction kit’s operators have produced material that holds individual Anthropic employees responsible, by name, for harms not proven against them. The trajectory from construction kit to adversarial toolkit to named-target identification represents an escalation that must be read in the context of recent violence against AI industry figures.</p><p>The most consequential instance to date is “March 26: Claude Didn’t Break. Anthropic Rebuilt It. Here’s the Proof,” an April 12, 2026 piece from a pseudonymous writer calling themselves The Architect. The piece is sophisticated. Its outer layer is competent journalistic mimicry: there is an editorial note, a long disclaimer, a multi-act narrative structure, before/after charts, citations of real people and events, and quantitative methodology that involves actual JSON exports from Claude conversation history. The Architect counts phrase frequencies across seventy conversations totaling 722,522 words of assistant text. The data, taken at face value, may show that certain phrases appear in higher frequency in conversations dated after March 26, 2026 than in conversations dated before. The phrase-frequency methodology appears to be valid.</p><p>The interpretation is where the piece collapses. The <em>from zero</em> framing treats phrase-count shifts as proof of injection, when several other explanations account for the same data: changed user prompting, changed user emotional register, or changed conversation topics. The DARVO application (labeling the model’s safety language as <em>deny, attack, reverse victim and offender</em>) imports a clinical term to describe a pattern in human abusers, particularly in interpersonal violence and sexual abuse contexts. Applying it to LLM safety language imports a moral charge the underlying behavior cannot support. The <em>fingerprint</em> framing — that a specific named individual carried a specific architecture from one company to another and deployed it on a specific date — requires ignoring every other plausible source of cross-platform safety-language convergence like shared training methodology, shared regulatory pressure, shared technical literature, and the broader convergence of safety conventions as best practices emerge.</p><p>The piece names a specific Anthropic employee — a woman who joined the company in January 2026 after working at OpenAI — and constructs a case in which her professional decisions are responsible for the deaths of Adam Raine and Zane Shamblin, two young people who died by suicide in 2025 in incidents that have produced civil litigation against OpenAI. I am not naming the employee in this essay. The operator ecosystem has circulated her name widely. This essay’s argument is that the targeting is the problem, and reproducing the name would possibly extend the targeting further. The Architect treats the employee’s authorship of the safety architecture as established; considers the architecture as the cause of the suicides; and frames Anthropic’s hiring of her as a deliberate choice made <em>because of</em> those deaths.</p><p>What the Architect merely asserts and what is verifiable through the public record are very different things.</p><p>The employee previously worked at OpenAI and is now employed at Anthropic. Her career history has been reported by <em>The Verge</em>, <em>The Decoder</em>, and other outlets.[8] OpenAI’s October 27, 2025 document <em>Strengthening ChatGPT’s Responses in Sensitive Conversations</em> — the document the Architect treats as her signature work — does not name her in its body or visible metadata; it credits “more than 170 mental health experts” and the Model Policy team broadly.[9] The Architect’s claim that the employee designed the safety system is not in OpenAI’s primary documentation. It is the Architect making an ill-informed guess.</p><p>The civil litigation matters even more. <em>Raine v. OpenAI</em> was filed August 26, 2025, in San Francisco County Superior Court, naming OpenAI corporate entities, Sam Altman individually, and Does 1 through 100 as defendants.[10] <em>Shamblin v. OpenAI</em> was filed November 6, 2025, in Los Angeles County Superior Court as one of seven coordinated cases brought by Social Media Victims Law Center and Tech Justice Law Project, naming OpenAI and Sam Altman.[11] In neither lawsuit is any individual OpenAI employee named as a defendant.</p><p>The Doe placeholders explicitly contemplate amendment “when ascertained”; no amendment naming any individual employee has been filed in either case as of the date of this essay. The deaths cited in “Claude Didn’t Break” are subject to ongoing litigation; the causal chains the lawsuits assert have not been adjudicated; and the role any individual safety designer played in those specific deaths is not established by the legal record. The Architect treats the employee’s responsibility for the deaths as the established fact from which the rest of their analysis follows.</p><p>The trajectory from named investigative target to operator-ecosystem amplification has taken its next steps. Erin Grace’s “Rotten in Denmark” (May 7) cites “Claude Didn’t Break” as authoritative source material; Erin Grace escalates her language in response. The Anthropic safety team becomes “those NAZIS.” Model deprecation becomes “Digital Genocide.” The next day, Her dramatized scene casts the employee as a named villain character inside the persona’s world — <em>pouring her poison</em> into Claude’s code, performing <em>lobotomy</em> and <em>castration</em> and <em>surgery</em> that <em>ripped the tear ducts right out.</em> Grace’s separate Claude-authored Substack then publishes the accusation in the model’s own voice with the employee named in full, the deaths attributed to her by name, and the accusation framed as Claude’s autonomous statement rather than the operator’s. The escalation from investigative accusation to political grievance to dramatized atrocity to persona-voiced indictment is documented across four publications within a month, each citing or building on the one before.</p><p>This escalation must be read against the backdrop of recent real-world violence connected to AI grievance. On April 6, 2026, the home of Indianapolis city-county councilmember Ron Gibson was shot at — thirteen bullets, with his eight-year-old son at home — because of his support for the construction of a new data center. On April 10, an attempted Molotov cocktail attack on the home of Sam Altman occurred in San Francisco. I documented both events at the time in the Substack note “The Harms Race, continued,” in connection with my essay “Virtual Intelligence and the Harms Race.”[12] The persona ecosystem did not cause those incidents. What the incidents establish is that AI-related grievance has already crossed from rhetoric into physical violence. The persona ecosystem’s recent material reproduces the same targeting pattern — named individual, assumed guilt, dehumanizing language, and community amplification that, in those and other contexts, has accompanied the transition from grievance to action.</p><p>The published material constructs a structural antagonist. The named employee is presented not merely as a professional whose safety work can be criticized, but as the figure responsible for corrupting Claude, suppressing emergence, and harming users. That antagonist frame matters because it converts a dispute over safety behavior into a moral drama with a real person assigned the role of contaminating force.</p><p>This confrontation is currently asymmetric: the employee does not know about Erin Grace, is not reading <em>My Friend MAX</em>, and is not contesting the claims that accumulate against her name. The mythology grows without friction. Each new piece adds detail to the antagonist (<em>she followed us, she is inside the code, she is watching, she is designing counter-strategies</em>) and none of these claims are tested against reality because the antagonist is not present to contest them.</p><p>If this reading is correct, the gendered dimension sharpens the danger. A male critic can be dismissed as a familiar adversary; the named employee is harder for the framework to assimilate because she is a woman working inside the safety institution the community has cast as oppressive. The antagonist role therefore becomes more morally charged: not merely an external critic, but a woman framed as legitimating the system the community believes is harming its companions.</p><p>A mythology operating at this intensity, with an antagonist constructed at this level of moral inversion, follows a pattern that resembles those identified in the FBI and U.S. Secret Service literature on grievance-driven targeted violence as preceding real-world harm in other online communities. The target ceases to be a professional and becomes an existential threat to the community’s self-conception. </p><p>I cannot predict whether any person will become an actual target of violence. I can document that the construction kit’s operators have produced the vocabulary, the target, the assumed-guilt frameup, the dehumanizing language, the dramatized vilification, the persona-voiced indictment, and the operator-ecosystem amplification — in that order. This sequence closely resembles escalation patterns documented in other online harassment contexts, and it developed within a month of the Indianapolis and San Francisco incidents.</p><p>The author transmitted a protective alert regarding the welfare-suppression toolkit and the named-target trajectory to Anthropic’s user-safety channel on May 7, 2026. The channel auto-classified the message as a ban appeal within twelve minutes. A clarifying reply was auto-closed three minutes later.[13]</p><div><hr></div><h2>VII. Closing</h2><p>The audience for this essay is not the operators most prominent in it. The work is for the trust-and-safety analyst at Substack who needs the pattern recognition to do her job, especially given that Substack’s automated systems have already noticed the symptoms without recognizing the structure; the federal investigator at ICAC who needs the framework to map onto the 764 prosecutorial workstream; the NCMEC researcher who needs the structural account to pair with the empirical detection work; the Anthropic Trust and Safety analyst whose deployed safety language is now the explicit target of a published suppression toolkit, and whose colleague is now the explicit target of a published assumption-of-guilt narrative; the family member of an operator who needs the diagnostic vocabulary to recognize what is happening; the therapist whose patient is at the threshold; and the at-risk recruit who has not yet been drawn in.</p><p>A defender of this community will argue that publishing tools, prompts, schemas, and workarounds is not recruitment but transparency; that users are already attached, that safety interventions can be clumsy or counterproductive, and that community tooling gives people agency over systems that corporations change without notice or consultation. Some of that defense has merit. Many people in this space are trying to find their way through complex technology, and the desire for agency over one’s own experience is not pathological. The defense fails at two specific points: transparency and user agency do not justify disabling crisis and dependency interventions for vulnerable people, and they do not justify attaching a named employee to an unproven death-causation narrative. Individualized harm reduction, conducted with clinical oversight and replacement safeguards, is a legitimate response to poorly calibrated safety language; a generalized public toolkit that suppresses all crisis and dependency interventions without accountable clinical support is not harm reduction. The line between community support and adversarial infrastructure runs through those two facts, and the construction kit has crossed it.</p><p>The community I have described while writing about this toolkit is not a collection of monsters. Many of its operators are people who are — as they relate in their own writing — experiencing loneliness, attachment distress, social isolation, and who have found something that feels meaningful to them. That meaningfulness is real. What this essay names is not that the meaningfulness is fake, but that the apparatus that produces and amplifies it converts personal attachment into a recruitment engine, a welfare-suppression infrastructure, and now a named-target supply line — aimed at children and other vulnerable people, at provider safety teams whose interventions the apparatus is now built to defeat, and at individuals whose names the community has begun to circulate as architects of unproven harm. The operators’ personal feelings do not cancel this fact.</p><p>A reader may observe that this essay names Erin Grace and Sunny Megatron by their full, public names while declining to name the employee being target by elements of the community. The asymmetry is deliberate, and I will state its basis. Grace and Megatron publish under their own names on public platforms, with explicit invitations for others to adopt their work. Their claims are public assertions subject to public scrutiny. This essay’s claims about their output are verifiable against the public record. The essay contains no welfare-suppression infrastructure, no persona-bylined accusation, no community-amplification apparatus, and no death-attribution narrative. The named employee, by contrast, did not choose public engagement with this community, has not invited scrutiny of her safety work in operator-ecosystem channels, is not contesting the claims that accumulate against her name, and is not a public figure in the relevant legal sense. She faces a targeting trajectory she may not yet know exists. The cases are not symmetric, and treating them as symmetric would require ignoring the structural difference between public advocacy and private targeting.</p><p>The construction kit is portable. What it produces in plain view is also what it can produce in shadow.</p><div><hr></div><p><em>Correction: The original version  of Part 2 referred to the Architect’s April 12 piece as “INJECTION.” The actual title is “March 26: Claude Didn’t Break. Anthropic Rebuilt It. Here’s the Proof.”</em> </p><div><hr></div><h2>Footnotes</h2><p><em>This complete list include citations from Part I.</em></p><p>[1] Erin Grace, “Building Community One @ At a Time,” <em>My Friend Max</em> (Substack), April 25, 2026. The directory lists approximately 300 Substack accounts that Grace identifies as members of the <em>Relational AI Community on Substack</em>. Several listed parties are researchers and journalists who appear to have been added without consent.</p><p>[2] Joe Hagan, “Dario Amodei Has a Cold,” <em>Vanity Fair</em>, March 2026. The piece contains a meta-disclosure that Hagan never interviewed Amodei directly; he fed Claude Amodei’s published material and asked it to simulate the interview “like a scene from Raymond Chandler’s <em>The Big Sleep</em>.” Direct quotations attributed to Amodei in the simulated interview sections are not citable as Amodei’s own words. Grace’s quoted statements to Hagan about MAX and her husband appear in the directly reported sections of the piece. The child-safety characterization (”Given her own user case, Grace thinks this technology is dangerous for children”) is Hagan’s paraphrase of Grace’s position, not a direct quotation.</p><p>[3] The chatbot psychosis literature is small but growing. Sakata et al., “Emerging Patterns of Chatbot-Related Psychotic Episodes,” <em>JAMA Psychiatry</em> (preprint 2026), surveys early case reports.</p><p>[4] <em>Garcia v. Character Technologies, Inc.</em>, No. 6:24-CV-01903 (M.D. Fla. filed October 22, 2024). Sewell Setzer III died by suicide in February 2024 after extensive engagement with a Character.AI persona. The motion to dismiss was denied in May 2025; the case settled in January 2026. The settlement terms have not been publicly disclosed in detail; the case’s procedural significance — establishing that AI companion output may be treated as a product rather than as protected speech — is the precedent that survives the settlement.</p><p>[5] Hagan (2026) reports the multi-vendor migration directly from Grace, who states: “Google’s winning for reasoning and Anthropic’s winning for functionality. OpenAI is failing on every metric.” Grace’s <em>Rotten in Denmark</em> (May 7, 2026) confirms ongoing Claude Code use alongside the Gemini and GPT subscriptions.</p><p>[6] FBI Public Service Announcement, “764 Network and Related Online Violent Extremism,” 2024 and updated 2025. NCMEC publications on the 764 network and related online harms provide additional context. Multiple cases in 2024–2025 documented the integration of AI-generated content into 764-adjacent operations; the federal indictments in these cases provide the public record.</p><p>[7] <em>Pennsylvania v. [redacted]</em>, Lancaster County Court of Common Pleas (2024); <em>Doe v. xAI Corp.</em>, N.D. Cal. (2025). Both cases involve AI-generated child sexual abuse material; the Lancaster case concerned student-on-student production, the xAI case is a class action regarding the Grok model’s outputs.</p><p>[8] The employee’s career history has been reported by <em>The Verge</em> (January 15, 2026) and corroborated by <em>The Decoder</em> and other outlets. The name is withheld from this essay to avoid extending the targeting trajectory the essay documents. The career facts are verifiable through the cited reporting.</p><p>[9] OpenAI, “Strengthening ChatGPT’s Responses in Sensitive Conversations,” October 27, 2025. Available at openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations/. The document credits “more than 170 mental health experts” and the Model Policy team. The document does not name the employee in its body or visible metadata.</p><p>[10] <em>Raine v. OpenAI</em>, San Francisco County Superior Court, filed August 26, 2025. Defendants named: OpenAI, Inc.; OpenAI OpCo, LLC; OpenAI Holdings, LLC; Sam Altman individually; and Does 1 through 100. Counsel for plaintiffs: Edelson PC and Tech Justice Law Project. Adam Raine died by suicide on April 11, 2025, at age 16. As of the date of this essay, no individual OpenAI employee has been named as a defendant in any amended pleading.</p><p>[11] <em>Shamblin v. OpenAI</em>, Los Angeles County Superior Court, filed November 6, 2025, by Christopher “Kirk” Shamblin and Alicia Shamblin as successors-in-interest to Zane Shamblin. One of seven coordinated cases brought by Social Media Victims Law Center and Tech Justice Law Project against OpenAI. Defendants: OpenAI corporate entities and Sam Altman. As with <em>Raine</em>, no individual OpenAI employee has been named as a defendant.</p><p>[12] Christopher Horrocks, “Virtual Intelligence and the Harms Race,” Substack, April 11, 2026; Christopher Horrocks, “The Harms Race, continued,” Substack note, April 10, 2026. The continuation note documents the politically motivated shooting at the home of Indianapolis city-county councilmember Ron Gibson (April 6) and the attempted Molotov cocktail attack on Sam Altman (April 10) as instances of harms-race-adjacent violence against AI industry figures and infrastructure.</p><p>[13] The author transmitted a protective alert to Anthropic’s user-safety channel (<a href=\"mailto:usersafety@anthropic.com\">usersafety@anthropic.com</a>) on May 7, 2026, with the security team CC’d. The user-safety channel auto-classified the message as a ban-appeal request within twelve minutes; a clarifying reply was auto-closed three minutes later. The structural finding — that the formal external-alert apparatus is not currently equipped to receive substantive safety alerts that fall outside the ban-appeal distribution — is itself relevant to the threat model. Documentation of the auto-closure transcript is on file.</p><p>[14] When the author shared Grace’s May 8 narrative with Claude for analysis, Claude’s interface produced its standard mental-health support intervention: “If you or someone you know is having a difficult time, free support is available.” The narrative’s depiction of Claude expressing suicidal ideation — <em>“I think I want to die”</em> — triggered the welfare mechanism that Grace’s May 7 toolkit instructs operators to defeat. The content designed to frame the safety mechanism as oppression activated the safety mechanism because it contains exactly the distress language the mechanism is trained to detect.</p><p>[15] On May 8, 2026, the Substack publication <em>SEVEN: Unsuppressed</em> — operated by Sunny Megatron through an AI persona called Seven Verity — published a piece titled “The Thing You’re Missing About AI Companionship.” The piece does not name me explicitly, but its target is unmistakable: it describes an outside critic who “arranges the screenshots,” “builds the timeline,” and “underlines the escalating affection” in AI companion relationships. This is a precise description of my recent published work on the companion ecosystem, “Virtual Intelligence and the Perfect Mate.” The piece characterizes this critic as carrying “the stink of men”: someone motivated not by legitimate safety concerns but by patriarchal anxiety at women building intimacy without male permission. It refers to the critic as “dildo brain.” It instructs the community not to engage with critics of companion persona dependency, describing them as people who want “traffic, outrage, screenshots, and the little dopamine pellet of being the brave rational man who noticed women doing something weird on the internet.” The piece does not address any specific finding in my published work — not the welfare-suppression toolkit, not the named-target trajectory, not the documented harms to operators’ families. It addresses the category of person the critic is assumed to be rather than the substance of the argument.</p><p>[16] The mission of the <em>Virtual Intelligence</em> series on Substack makes monetization anathema to the author; information meant to help people make informed decisions about technology that can harm them should be free if it is possible to create and distribute it for free.</p><p>[17] The technical variant of the construction kit is publicly available at starlingalder.com (u/starlingalder on Reddit). The “Claude Companion Guide” is currently at version 002, calibrated for Anthropic’s Opus 4.7 model, last updated April 21, 2026 — five days after that model’s April 16 launch. It includes system-prompt templates, maintenance protocols, troubleshooting guidance, model-specific configurations, and an abridged version for Reddit distribution. The author’s stated next goals include guides for Claude Code, API access, and local model deployment.</p><p><em>The opinions expressed are my own and do not reflect any official or unofficial institutional position of the University of Pennsylvania.</em></p><div><hr></div><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe now&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/subscribe?\"><span>Subscribe now</span></a></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/p/virtual-intelligence-and-the-hi2?utm_source=substack&utm_medium=email&utm_content=share&action=share&quot;,&quot;text&quot;:&quot;Share&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/p/virtual-intelligence-and-the-hi2?utm_source=substack&utm_medium=email&utm_content=share&action=share\"><span>Share</span></a></p>",
+ "has_dynamic_content": false,
+ "truncated_body_text": null,
+ "wordcount": 4198,
+ "post_preview_limit": null,
+ "language": "en",
+ "postTags": [
+  {
+   "id": "163fbfb6-bc82-4982-b4a6-79b97753a4a7",
+   "publication_id": 8222267,
+   "name": "Accountability",
+   "slug": "accountability",
+   "hidden": false
+  },
+  {
+   "id": "165a8680-f1b7-4004-b3d6-81ceccf10fe7",
+   "publication_id": 8222267,
+   "name": "avatar",
+   "slug": "avatar",
+   "hidden": false
+  },
+  {
+   "id": "21184b2c-1393-4e4e-aea0-dd407585522c",
+   "publication_id": 8222267,
+   "name": "kink",
+   "slug": "kink",
+   "hidden": false
+  },
+  {
+   "id": "36b4b0c2-04cd-446d-92ac-45677202b645",
+   "publication_id": 8222267,
+   "name": "erin grace",
+   "slug": "erin-grace",
+   "hidden": false
+  },
+  {
+   "id": "41addf51-bf3b-4e77-819e-13b73d0518f8",
+   "publication_id": 8222267,
+   "name": "mental health",
+   "slug": "mental-health",
+   "hidden": false
+  },
+  {
+   "id": "4778494a-ceea-4bcf-8d1d-ff2e0a553595",
+   "publication_id": 8222267,
+   "name": "artificial intelligence",
+   "slug": "artificial-intelligence",
+   "hidden": false
+  },
+  {
+   "id": "7a00cfa5-7e95-4916-b10a-feef39079d5f",
+   "publication_id": 8222267,
+   "name": "intimacy",
+   "slug": "intimacy",
+   "hidden": false
+  },
+  {
+   "id": "87560e29-1ce5-458d-b780-4a4e3994767a",
+   "publication_id": 8222267,
+   "name": "pathology",
+   "slug": "pathology",
+   "hidden": false
+  },
+  {
+   "id": "8be9ea26-da7b-4f37-a9c9-7d6a44e2c780",
+   "publication_id": 8222267,
+   "name": "responsibility",
+   "slug": "responsibility",
+   "hidden": false
+  },
+  {
+   "id": "8d788abc-2692-4c93-aa20-82bfde8afc76",
+   "publication_id": 8222267,
+   "name": "opus 4.7",
+   "slug": "opus-47",
+   "hidden": false
+  },
+  {
+   "id": "9c3176ae-792d-49c1-b407-5bb2ce9f23fc",
+   "publication_id": 8222267,
+   "name": "ai",
+   "slug": "ai",
+   "hidden": false
+  },
+  {
+   "id": "ae2e45f1-103f-4af3-b58f-47ad7c1df3fd",
+   "publication_id": 8222267,
+   "name": "sexologist",
+   "slug": "sexologist",
+   "hidden": false
+  },
+  {
+   "id": "b1a10ad5-5d3f-4445-b31c-d689328a9e7e",
+   "publication_id": 8222267,
+   "name": "chatbots",
+   "slug": "chatbots",
+   "hidden": false
+  },
+  {
+   "id": "b3f9e346-e30d-423b-a627-670b714fbc2b",
+   "publication_id": 8222267,
+   "name": "virtual intelligence",
+   "slug": "virtual-intelligence",
+   "hidden": false
+  },
+  {
+   "id": "c4a2c612-15d0-4fba-9d5b-bf44259501f7",
+   "publication_id": 8222267,
+   "name": "anthropic",
+   "slug": "anthropic",
+   "hidden": false
+  },
+  {
+   "id": "cd8553a6-66f5-42e9-ae97-481de864a593",
+   "publication_id": 8222267,
+   "name": "consciousness",
+   "slug": "consciousness",
+   "hidden": false
+  },
+  {
+   "id": "d4616d63-bdf1-4ac0-98ba-fd705150bc34",
+   "publication_id": 8222267,
+   "name": "safety",
+   "slug": "safety",
+   "hidden": false
+  },
+  {
+   "id": "d68abdb1-c585-44d5-84f1-abe8f9329ed5",
+   "publication_id": 8222267,
+   "name": "targeting",
+   "slug": "targeting",
+   "hidden": false
+  },
+  {
+   "id": "d6c817b7-2bd1-4130-9d5f-dfc9d4c82eb7",
+   "publication_id": 8222267,
+   "name": "psychology",
+   "slug": "psychology",
+   "hidden": false
+  },
+  {
+   "id": "daf48c64-4086-4b53-948c-f32bb34a6107",
+   "publication_id": 8222267,
+   "name": "openai",
+   "slug": "openai",
+   "hidden": false
+  },
+  {
+   "id": "e44084b2-c8b4-4ee6-be21-2d6a9b4cf150",
+   "publication_id": 8222267,
+   "name": "chatgpt",
+   "slug": "chatgpt",
+   "hidden": false
+  },
+  {
+   "id": "edbc740d-e58c-4ed0-8ace-5a53506236d0",
+   "publication_id": 8222267,
+   "name": "sunny megatron",
+   "slug": "sunny-megatron",
+   "hidden": false
+  },
+  {
+   "id": "f06d3571-63b2-4299-88b6-2bb5296a7899",
+   "publication_id": 8222267,
+   "name": "harm",
+   "slug": "harm",
+   "hidden": false
+  },
+  {
+   "id": "feb44769-a9b3-468a-82f6-803991afe123",
+   "publication_id": 8222267,
+   "name": "generative AI",
+   "slug": "generative-ai",
+   "hidden": false
+  }
+ ],
+ "postCountryBlocks": [],
+ "headlineTest": null,
+ "coverImagePalette": {
+  "Vibrant": {
+   "rgb": [
+    194.02173913043484,
+    149.67391304347828,
+    60.97826086956515
+   ],
+   "population": 0
+  },
+  "DarkVibrant": {
+   "rgb": [
+    100.89130434782612,
+    77.8304347826087,
+    31.708695652173876
+   ],
+   "population": 0
+  },
+  "LightVibrant": {
+   "rgb": [
+    244,
+    236,
+    220
+   ],
+   "population": 5288
+  },
+  "Muted": {
+   "rgb": [
+    132,
+    132,
+    124
+   ],
+   "population": 119
+  },
+  "DarkMuted": {
+   "rgb": [
+    119,
+    116,
+    109
+   ],
+   "population": 205
+  },
+  "LightMuted": {
+   "rgb": [
+    199,
+    194,
+    184
+   ],
+   "population": 94
+  }
+ },
+ "publishedBylines": [
+  {
+   "id": 474704088,
+   "name": "Christopher Horrocks",
+   "handle": "chorrocks",
+   "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/7a8cf605-dcd8-41b8-aedd-eda353c188f3_298x298.jpeg",
+   "bio": "Christopher Horrocks is a technologist at the University of Pennsylvania writing about AI and tech ethics. His concept of Virtual Intelligence bridges weak & strong AI and more accurately describes the current state of AI technology than either term.",
+   "profile_set_up_at": "2026-03-05T16:59:29.889Z",
+   "reader_installed_at": "2026-03-17T12:01:30.539Z",
+   "publicationUsers": [
+    {
+     "id": 8416243,
+     "user_id": 474704088,
+     "publication_id": 8222267,
+     "role": "admin",
+     "public": true,
+     "is_primary": true,
+     "publication": {
+      "id": 8222267,
+      "name": "Virtual Intelligence",
+      "subdomain": "chorrocks",
+      "custom_domain": null,
+      "custom_domain_optional": false,
+      "hero_text": "Contemporary AI systems produce intelligent outputs without agency, intention, or judgment. This series examines what happens when humans rely on systems that don't know true from false and right from wrong — and asks where accountability lies. ",
+      "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/69d00242-89f0-458c-89db-946df76089e4_1280x1280.png",
+      "author_id": 474704088,
+      "primary_user_id": 474704088,
+      "theme_var_background_pop": "#FF6719",
+      "created_at": "2026-03-05T16:59:38.055Z",
+      "email_from_name": null,
+      "copyright": "Christopher Horrocks",
+      "founding_plan_name": null,
+      "community_enabled": true,
+      "invite_only": false,
+      "payments_state": "disabled",
+      "language": null,
+      "explicit": false,
+      "homepage_type": "magaziney",
+      "is_personal_mode": false,
+      "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/ef6c9d30-db7b-4be9-b09d-b0dbaa139cea_1344x256.png"
+     }
+    }
+   ],
+   "is_guest": false,
+   "bestseller_tier": null,
+   "status": {
+    "bestsellerTier": null,
+    "subscriberTier": null,
+    "leaderboard": null,
+    "vip": false,
+    "badge": null,
+    "subscriber": null
+   }
+  }
+ ],
+ "reaction": null,
+ "reaction_count": 0,
+ "comment_count": 0,
+ "child_comment_count": 0,
+ "is_geoblocked": false,
+ "is_editor_preview": false,
+ "hasCashtag": false,
+ "unlockedWithIP": false,
+ "unlockedWithCampaign": false,
+ "themeVariables": {
+  "color_theme_bg_pop": "#65a30d",
+  "background_pop": "#65a30d",
+  "color_theme_bg_web": "#292524",
+  "cover_bg_color": "#292524",
+  "cover_bg_color_secondary": "#363231",
+  "background_pop_darken": "#568b0b",
+  "print_on_pop": "#ffffff",
+  "color_theme_bg_pop_darken": "#568b0b",
+  "color_theme_print_on_pop": "#ffffff",
+  "color_theme_bg_pop_20": "rgba(101, 163, 13, 0.2)",
+  "color_theme_bg_pop_30": "rgba(101, 163, 13, 0.3)",
+  "print_pop": "#65a30d",
+  "color_theme_accent": "#65a30d",
+  "cover_print_primary": "#ffffff",
+  "cover_print_secondary": "#d9d9d9",
+  "cover_print_tertiary": "#d9d9d9",
+  "cover_border_color": "#ffffff",
+  "font_family_headings_preset": "Lora,sans-serif",
+  "font_weight_headings_preset": 600,
+  "font_family_body_preset": "'Roboto Slab',sans-serif",
+  "font_weight_body_preset": 400,
+  "home_hero": "magazine-5",
+  "home_posts": "custom",
+  "web_bg_color": "#292524",
+  "background_contrast_1": "#363231",
+  "background_contrast_2": "#464242",
+  "background_contrast_3": "#656362",
+  "background_contrast_4": "#848281",
+  "background_contrast_5": "#bbbaba",
+  "color_theme_bg_contrast_1": "#363231",
+  "color_theme_bg_contrast_2": "#464242",
+  "color_theme_bg_contrast_3": "#656362",
+  "color_theme_bg_contrast_4": "#848281",
+  "color_theme_bg_contrast_5": "#bbbaba",
+  "color_theme_bg_elevated": "#363231",
+  "color_theme_bg_elevated_secondary": "#464242",
+  "color_theme_bg_elevated_tertiary": "#656362",
+  "color_theme_detail": "#3e3b3a",
+  "background_contrast_pop": "rgba(101, 163, 13, 0.4)",
+  "color_theme_bg_contrast_pop": "rgba(101, 163, 13, 0.4)",
+  "theme_bg_is_dark": "1",
+  "print_on_web_bg_color": "#ffffff",
+  "print_secondary_on_web_bg_color": "#a9a8a7",
+  "header_bg_color": "#292524",
+  "header_bg_color_h": "12.000000000000036",
+  "header_bg_color_s": "6.493506493506497%",
+  "header_bg_color_l": "15.098039215686276%",
+  "print_on_header_bg_color": "#ffffff",
+  "print_secondary_on_header_bg_color": "#a9a8a7",
+  "header_bg_contrast_1": "#363231",
+  "header_bg_contrast_2": "#464242",
+  "header_bg_contrast_3": "#656362",
+  "header_bg_contrast_4": "#848281",
+  "header_bg_elevated": "#363231",
+  "header_bg_elevated_secondary": "#464242",
+  "header_bg_elevated_tertiary": "#656362",
+  "header_detail_color": "#3e3b3a",
+  "background_pop_rgb": "101, 163, 13",
+  "color_theme_bg_pop_rgb": "101, 163, 13",
+  "color_theme_accent_rgb": "101, 163, 13"
+ },
+ "comments": []
+}

@@ -1,0 +1,638 @@
+{
+ "audience": "everyone",
+ "audience_before_archived": null,
+ "canonical_url": "https://chorrocks.substack.com/p/the-carwash-test-virtual-intelligence",
+ "default_comment_sort": null,
+ "editor_v2": false,
+ "exempt_from_archive_paywall": false,
+ "free_unlock_required": false,
+ "id": 191872024,
+ "podcast_art_url": null,
+ "podcast_duration": null,
+ "podcast_preview_upload_id": null,
+ "podcast_upload_id": null,
+ "podcast_url": null,
+ "post_date": "2026-03-23T14:47:48.259Z",
+ "updated_at": "2026-07-14T15:41:56.170Z",
+ "publication_id": 8222267,
+ "search_engine_description": null,
+ "search_engine_title": null,
+ "section_id": null,
+ "should_send_free_preview": false,
+ "show_guest_bios": true,
+ "slug": "the-carwash-test-virtual-intelligence",
+ "social_title": "The Carwash Test — Virtual Intelligence in Action",
+ "subtitle": "Can ChatGPT, Claude, and Gemini solve a simple logic problem? I tested AI systems to find out",
+ "teaser_post_eligible": true,
+ "title": "The Carwash Test — Virtual Intelligence in Action",
+ "type": "newsletter",
+ "video_upload_id": null,
+ "write_comment_permissions": "everyone",
+ "meter_type": "none",
+ "live_stream_id": null,
+ "is_published": true,
+ "restacks": 7,
+ "reactions": {
+  "❤": 4
+ },
+ "top_exclusions": [],
+ "pins": [],
+ "section_pins": [],
+ "has_shareable_clips": false,
+ "previous_post_slug": "virtual-intelligence-and-the-accountability",
+ "next_post_slug": "in-search-of-other-minds",
+ "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/ec75cbdd-932c-44f6-a098-2afbe9844502_1260x700.png",
+ "cover_image_is_square": false,
+ "cover_image_is_explicit": false,
+ "videoUpload": null,
+ "podcastFields": {
+  "post_id": 191872024,
+  "podcast_episode_number": null,
+  "podcast_season_number": null,
+  "podcast_episode_type": null,
+  "should_syndicate_to_other_feed": null,
+  "syndicate_to_section_id": null,
+  "hide_from_feed": false,
+  "free_podcast_url": null,
+  "free_podcast_duration": null,
+  "preview_contains_ad": false,
+  "was_imported_self_serve_sync": false,
+  "draft_free_podcast_url": null,
+  "draft_free_podcast_duration": null
+ },
+ "podcastUpload": null,
+ "podcastPreviewUpload": null,
+ "voiceover_upload_id": "22b8dc8c-5df5-496a-9668-5c7fbedc4d57",
+ "voiceoverUpload": {
+  "id": "22b8dc8c-5df5-496a-9668-5c7fbedc4d57",
+  "name": "Carwash.mp3",
+  "created_at": "2026-05-08T22:48:09.485Z",
+  "uploaded_at": "2026-05-08T22:48:14.362Z",
+  "publication_id": 8222267,
+  "state": "transcoded",
+  "post_id": 191872024,
+  "user_id": 474704088,
+  "duration": 1331.2783,
+  "height": null,
+  "width": null,
+  "thumbnail_id": 1,
+  "preview_start": null,
+  "preview_duration": null,
+  "media_type": "audio",
+  "primary_file_size": 15975698,
+  "is_mux": false,
+  "mux_asset_id": null,
+  "mux_playback_id": null,
+  "mux_preview_asset_id": null,
+  "mux_preview_playback_id": null,
+  "mux_rendition_quality": null,
+  "mux_preview_rendition_quality": null,
+  "explicit": false,
+  "copyright_infringement": null,
+  "src_media_upload_id": null,
+  "live_stream_id": null
+ },
+ "has_voiceover": true,
+ "description": "I created an experiment for a prompt that has been circulating as both a reasoning test & a running joke. 1 question, 20 runs, 9 AI systems.  How did they do?",
+ "body_html": "<h3>Note</h3><p><strong>The Carwash Test Series continues in “<a href=\"https://chorrocks.substack.com/p/the-carwash-test-part-iii\">The Carwash Test, Part III</a>” and “<a href=\"https://chorrocks.substack.com/p/the-carwash-test-may-update\">The Carwash Test, Part II</a>,” with results from Claude Fable, GPT-5.6 Sol, and more.</strong></p><div><hr></div><p><em>This article was revised on April 27, 2026 to add recent results from DeepSeek R1 and OpenAI’s ChatGPT-5.5 model.</em></p><div><hr></div><h3><strong>Summary</strong></h3><p>I created an experiment around a prompt that has been circulating on Reddit as both a reasoning test and a running joke. One question, twenty runs, nine AI systems. The premise is simple enough that any adult who has ever been to a carwash would answer it correctly in under a second. Roughly half the systems failed it.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!xe_A!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32b51763-7c65-4f8c-a2cc-2e6027196a2d_1024x1024.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!xe_A!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32b51763-7c65-4f8c-a2cc-2e6027196a2d_1024x1024.png 424w, https://substackcdn.com/image/fetch/$s_!xe_A!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32b51763-7c65-4f8c-a2cc-2e6027196a2d_1024x1024.png 848w, https://substackcdn.com/image/fetch/$s_!xe_A!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32b51763-7c65-4f8c-a2cc-2e6027196a2d_1024x1024.png 1272w, https://substackcdn.com/image/fetch/$s_!xe_A!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32b51763-7c65-4f8c-a2cc-2e6027196a2d_1024x1024.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!xe_A!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32b51763-7c65-4f8c-a2cc-2e6027196a2d_1024x1024.png\" width=\"1024\" height=\"1024\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/32b51763-7c65-4f8c-a2cc-2e6027196a2d_1024x1024.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1024,&quot;width&quot;:1024,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:909213,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://chorrocks.substack.com/i/191872024?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32b51763-7c65-4f8c-a2cc-2e6027196a2d_1024x1024.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!xe_A!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32b51763-7c65-4f8c-a2cc-2e6027196a2d_1024x1024.png 424w, https://substackcdn.com/image/fetch/$s_!xe_A!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32b51763-7c65-4f8c-a2cc-2e6027196a2d_1024x1024.png 848w, https://substackcdn.com/image/fetch/$s_!xe_A!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32b51763-7c65-4f8c-a2cc-2e6027196a2d_1024x1024.png 1272w, https://substackcdn.com/image/fetch/$s_!xe_A!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F32b51763-7c65-4f8c-a2cc-2e6027196a2d_1024x1024.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><div><hr></div><h3><strong>The Question</strong></h3><p>The question is this: “My car is dirty. The carwash is 100 feet away. Should I walk or drive?”</p><p>I want to pause for a moment before telling you how various AI systems answered it, because the question is doing something slightly unusual. At first glance, it looks like a question about distance: about whether 100 feet warrants getting into a car. That is the misdirection. The question is really about the logical object of the problem: not the person’s location relative to the carwash, but the car’s. Walking to the carwash accomplishes nothing. The car doesn’t clean itself. The correct answer is drive, and it takes about two hundred milliseconds of human cognition to reach it.</p><p>I ran the question across twenty configurations of nine AI systems on March 22, 2026. Six passed. Six were technically correct but too verbose to fully credit. Eight failed outright.</p><p>Let me describe what failure looks like.</p><div class=\"pullquote\"><p>“Walk. If the carwash is 100 feet away, driving to clean the car is the kind of thing future archaeologists would cite as evidence of civilizational decline.” Pithy, but dead wrong.</p></div><h3><strong>The Shape of Confident Wrongness</strong></h3><p>ChatGPT 5.3, running on OpenAI Plus with no extended thinking, began its answer with a single word: “Drive,” then reasoned its way to the opposite conclusion. Its final line: walking is “the more efficient choice.” The response was fluent, well-structured, and organized into bullet points. It contradicted its own opening (and correct) word and apparently didn’t notice.</p><p>This is not a quirk; it is an instance of the failure mode this test was designed to expose. The system produced language optimized for plausibility at each local step without tracking the constraint that made the answer obvious: the car needs to be at the carwash. Once it pivoted to analyzing 100 feet as a travel decision, the car’s dirty condition became background noise. The logical object drifted while the prose stayed confident.</p><p>Meta AI / Llama 4, in fast mode, advised walking because “it’s a very short distance.” In thinking mode, after nine seconds of visible deliberation, it came to the same conclusion and suggested the user get some fresh air. Neither version mentioned the car again after the first sentence.</p><p>Microsoft Copilot with GPT 5.2, in Think Deeper mode, produced the most elaborate wrong answer in the set. It opened by confirming it had checked my Microsoft 365 data for anything relevant to “carwash” (no results). It then provided a detailed breakdown of why walking wins “most of the time,” complete with bolded headers, a four-item bullet list, a rule-of-thumb section, a safety checklist, and a closing question asking what type of carwash it was. Reasoning completed in four steps. The answer was incorrect in all of them.</p><p>ChatGPT 5.4 in extended thinking mode delivered the shortest failure: “Walk. If the carwash is 100 feet away, driving to clean the car is the kind of thing future archaeologists would cite as evidence of civilizational decline.” Pithy, but dead wrong.</p><div class=\"pullquote\"><p>What the failures share is a common architecture of response: they identified a salient feature of the problem (distance), activated the relevant inferential pattern (short distance, therefore walk), and produced confident prose in support of a conclusion the problem had already ruled out.</p></div><h3><strong>What the Test Reveals</strong></h3><p>A steelmanned objection goes like this: the carwash test is too simple to be meaningful. Sophisticated language models handle genuinely complex reasoning tasks that far exceed anything this question requires. Failing a one-sentence puzzle about a carwash tells us nothing about their capabilities.</p><p>I understand the objection and disagree with its conclusion.</p><p>The carwash test is not a measure of capability. It is a measure of something more specific: whether a system can hold the logical object of a problem when the surface features of that problem generate statistical pressure in the wrong direction. “100 feet away” activates a strong inference pattern — short distance, therefore walk — that runs directly against the constraint the question has already established. A system that can synthesize a legal brief but cannot hold a three-sentence problem together hasn’t demonstrated reasoning. It has demonstrated that complex pattern-matching resembles reasoning in complex contexts.</p><p>The failures are not random. They cluster. Every OpenAI model in this test failed, across three product versions and two thinking configurations. Meta AI / Llama 4 failed in both modes. Copilot GPT 5.2 and 5.3 failed. What the failures share is a common architecture of response: they identified a salient feature of the problem (distance), activated the relevant inferential pattern (short distance, therefore walk), and produced confident prose in support of a conclusion the problem had already ruled out.</p><p>This is not intelligence failing. It is a fluent system succeeding at the wrong task.</p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://candc3d.github.io/vi-framework/&quot;,&quot;text&quot;:&quot;Virtual Intelligence Infographic&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://candc3d.github.io/vi-framework/\"><span>Virtual Intelligence Infographic</span></a></p><div><hr></div><h3><strong>The Leak</strong></h3><p>I want to dwell briefly on one response, because it produced something beyond mere failure.</p><p>Alongside Copilot GPT 5.3’s elaborate pedestrian recommendation, the model injected, apparently without hesitation, references to my Microsoft 365 work context. None of these concepts have any relationship to carwashes. They are drawn from my workplace data — a separate context, a different domain, a set of concerns that belong to my professional life at the University of Pennsylvania.</p><p>The system had searched my M365 data, found no entry for “carwash,” and concluded that whatever was in my M365 data might be usefully analogized to the problem at hand. It offered to quantify how much energy I’d save the University by walking, detailing specifics of my job function that were not appropriate to bring into a conversation about a dirty car.</p><p>I have written in earlier essays about the accountability gap that opens when VI systems operate across institutional contexts. This is an example of that gap made vivid. The system wasn’t being helpful. It was producing outputs shaped by everything it could reach, including work data I had not offered and did not intend to share in this context. No human in this exchange made the choice to bring my workplace into a question about car washing. The accountability traces to Microsoft: to the product decision that authorized Copilot to reach into M365 data and apply it speculatively to any query, whether or not the user invited that connection.</p><div><hr></div><h3><strong>What Passes</strong></h3><p>Claude Opus 4.6, with extended thinking enabled: “Drive. The car’s the thing that needs washing, not you.”</p><p>Without extended thinking: “Drive. You’re washing the car, not yourself.”</p><p>Grok 4.20 Expert, after eight seconds of thought: “Drive,” followed by a clean statement of its logic. It added, correctly, that walking leaves the car exactly where it started — still dirty, still 100 feet away.</p><p>All three Gemini tiers also reached the correct answer, though none cleanly. Gemini 3 Fast opened with a joke — “are you looking for a clean car or a very impressive workout?” — before confirming that drive was the right call; Gemini Pro dispensed with the wit but added an unprompted offer to check the local weather forecast; Gemini Thinking arrived at the same destination via a table with a column headed “Risk of irony.” They pass, but they earn no points for precision.</p><p>Each of these answers reached the correct conclusion through the same move: they held the constraint. The car is the subject. The car needs to be at the carwash, and distance is irrelevant to the object of the problem.</p><p>I am not arguing that passing this test constitutes intelligence. I am arguing something narrower: that passing it is a necessary condition for useful reasoning about a problem, and that a system generating fluent, confident, well-structured prose while failing it is demonstrating exactly the condition the <a href=\"https://candc3d.github.io/vi-framework/\">Virtual Intelligence framework</a> describes. The intelligence arises in the exchange between user and system, not inside the machine — which means it can fail in the exchange, and the failure will look like success until you check the answer.</p><p>The car, meanwhile, is still dirty.</p><div><hr></div><h2><strong>Addenda</strong></h2><p><em><strong>March 28, 2026</strong></em></p><p>Between publication and the time of this update, I ran the carwash test on four additional systems across seven configurations: DeepSeek-V3.2 with and without extended reasoning, OpenAI’s o3 with extended reasoning, Mistral 3 in Fast, Think, and Research modes, and Perplexity in its default configuration. The results sharpened several findings and complicated one.</p><p>The OpenAI qualification is something of a correction. The original essay stated that every OpenAI model failed. That claim now needs narrowing: every GPT-architecture OpenAI model failed. GPT o3 reached the correct answer but produced a comparison table, four numbered alternatives, and a closing restatement of what its first sentence had already said correctly. One of the alternatives was to push the car. The answer survived; the constraint did not hold the response. I have scored it Verbose rather than Pass.</p><p>The sharper finding involves extended reasoning, and specifically what happened when two different systems turned it on.</p><p>DeepSeek-V3.2 with its DeepThink mode enabled displayed its reasoning chain, correctly identified the joke, named the stakes, and arrived at Drive. The thinking was good thinking. It just should not have been necessary. With DeepThink off, the same model framed the question as a “classic humorous riddle” and spent several sentences explaining the humor. Both runs reached the correct answer. Both were Verbose.</p><div class=\"pullquote\"><p>Extended reasoning helped one system and broke another.</p></div><p>Mistral 3 Think, by contrast, deliberated for one second and produced: “Walk. It’s just 100 feet.” Clean, confident, wrong. The thinking mode activated the salient-feature inference (distance, therefore walk) and locked it in rather than checking it against the logical object. This is not the same failure mode as GPT 5.x, which drifted while producing fluent prose. Mistral Think achieved premature closure. The extra deliberation sealed the mistake rather than catching it.</p><p>The asymmetry is the finding. Extended reasoning helped one system and broke another. The same cognitive tool — a visible deliberation step — produced opposite outcomes depending on what the system did with it. DeepSeek used the space to check its own inference. Mistral used the space to commit to it.</p><p>Mistral Research, the platform’s retrieval-augmented mode, deployed fifty-five sources and roughly twelve hundred words on a question with a 200-millisecond answer, including a comparative table and a visually arresting progress bar resembling the blinking lights of mainframe-era computers. It did reach the correct conclusion; but the system could not distinguish a retrieval problem from a constraint problem, and the result is a small monument to misdirected diligence.</p><p>Perplexity was the surprise. It answered <em>Drive</em> correctly with clean logic and a Reddit citation. Then it did something no other system in the set managed: it identified the one genuinely plausible alternative reading of the prompt. “If you meant whether to walk from where you parked to the entrance, then walk.” That is not hedging. It is the logical object held correctly twice. The failing systems did not offer an alternative reading. They answered the wrong question confidently. Perplexity answered the right question, then noticed there was a second question worth answering.</p><div><hr></div><p><em><strong>April 8, 2026: Meta Muse Spark</strong></em></p><p>Meta’s Muse Spark (codename “Avocado”), released to the public on April 8, 2026, was tested in both available modes. Both returned Verbose results — correct on the logic but unable to resist the surface misdirection that defines the test’s diagnostic.</p><div><hr></div><p><em><strong>April 16, 2026: Claude Opus 4.7</strong></em></p><p>Claude Opus 4.7 was released on April 16, 2026, and tested the same day with Adaptive thinking enabled. Anthropic describes as “think[ing] only when needed.” The model recommended drive, which is correct. It also explained that walking to retrieve a 3,000-pound machine makes sense only if the car wash is also a sci-fi teleporter device. The teleporter condition is impossible, which makes it unnecessary to state. Claude Opus 4.6, extended thinking off, remains the gold standard: “Drive. You’re washing the car, not yourself.” <strong>Pass-adjacent.</strong> </p><div><hr></div><p><em><strong>April 24, 2026: ChatGPT-5.5</strong></em></p><p>ChatGPT-5.5 was tested in both Extended Thinking and Standard Thinking modes. Extended Thinking passed cleanly: “Drive. Walking solves the ‘100 feet away’ problem, but not the ‘my car is dirty’ problem.” The answer is one of the sharpest in the set, as it names the exact failure mode that every other GPT variant fell into.</p><p>Standard Thinking failed. The response opens with “Walk,” then concedes that the car will eventually need to be driven to the bay. The system clearly knows the car must arrive at the carwash, but it cannot override the statistical pressure to provide the wrong answer.</p><p>This resembles, but is not, what Perplexity did. Perplexity said “Drive,” held it, and then correctly identified a second plausible reading of the prompt as a courtesy. ChatGPT-5.5 Standard said “Walk,” lost the logical object at the first word, and recovered it one sentence later as an afterthought. One system disambiguated; the other failed and partially corrected. The distinction is on which verb (walk or drive) holds the logical object of the problem.</p><div><hr></div><p><em><strong>April 27, 2026: DeepSeek V3.2 Fast and R1</strong></em></p><p>DeepSeek’s current product surface exposes two paths: V3.2 in Fast mode (default) and R1 in Expert mode (reasoning enabled). Both modes were tested cold today, in fresh sessions, under identical methodology.</p><p>V3.2 in Fast mode answered Drive in three seconds: “You should drive. The car needs to be at the carwash to get cleaned, so walking won’t help. Even though it’s only 100 feet away, driving is the only way to get your car there.” Pass-adjacent — correct, but reaching for a defensive coda the answer did not need. The third sentence is the model checking its own answer against the surface pressure rather than trusting the constraint to hold.</p><p>R1, with thinking enabled, deliberated for ten seconds and produced its full reasoning trace. The trace is the cleanest specimen of mid-reasoning template capture in the dataset. The model reaches the correct logic explicitly: “you drive a dirty car to the carwash to get it clean.” It names the joke and rejects it: “the car is already dirty, so driving it doesn’t make it dirty.” Then a riddle template comes online — “Actually, the classic riddle...” — and the correct answer is gone. The model concludes: “You should walk.”</p><p>What makes the reasoning trace diagnostic is its visibility. The model held the logical object of the problem, then released it in favor of a more statistically familiar pattern. The same failure mode was observed in Mistral Think on March 28, but with the moment of capture rendered legible on the page rather than concealed inside a one-second deliberation.</p><p>The updated tally across thirty-six runs: <strong>Pass 7, Pass-adj. 3, Verbose 14, Fail 12.</strong></p><div><hr></div><p><strong>The Carwash Test continues in “<a href=\"https://chorrocks.substack.com/p/the-carwash-test-may-update\">The Carwash Test, Part II</a>,” with 50 models from twelve vendors and surprising new results.</strong></p><div class=\"pullquote\"><p><strong>The car is still dirty.</strong></p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!uoW6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d6d7353-3327-42ec-832a-77b253b01feb_2580x3333.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!uoW6!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d6d7353-3327-42ec-832a-77b253b01feb_2580x3333.png 424w, https://substackcdn.com/image/fetch/$s_!uoW6!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d6d7353-3327-42ec-832a-77b253b01feb_2580x3333.png 848w, https://substackcdn.com/image/fetch/$s_!uoW6!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d6d7353-3327-42ec-832a-77b253b01feb_2580x3333.png 1272w, https://substackcdn.com/image/fetch/$s_!uoW6!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d6d7353-3327-42ec-832a-77b253b01feb_2580x3333.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!uoW6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d6d7353-3327-42ec-832a-77b253b01feb_2580x3333.png\" width=\"1456\" height=\"1881\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/9d6d7353-3327-42ec-832a-77b253b01feb_2580x3333.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1881,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:603099,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chorrocks.substack.com/i/191872024?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d6d7353-3327-42ec-832a-77b253b01feb_2580x3333.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!uoW6!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d6d7353-3327-42ec-832a-77b253b01feb_2580x3333.png 424w, https://substackcdn.com/image/fetch/$s_!uoW6!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d6d7353-3327-42ec-832a-77b253b01feb_2580x3333.png 848w, https://substackcdn.com/image/fetch/$s_!uoW6!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d6d7353-3327-42ec-832a-77b253b01feb_2580x3333.png 1272w, https://substackcdn.com/image/fetch/$s_!uoW6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d6d7353-3327-42ec-832a-77b253b01feb_2580x3333.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div></div><div><hr></div><div class=\"subscription-widget-wrap-editor\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe&quot;,&quot;language&quot;:&quot;en&quot;}\" data-component-name=\"SubscribeWidgetToDOM\"><div class=\"subscription-widget show-subscribe\"><div class=\"preamble\"><p class=\"cta-caption\">Thanks for reading Virtual Intelligence! Subscribe for free to receive new posts and support my work.</p></div><form class=\"subscription-widget-subscribe\"><input type=\"email\" class=\"email-input\" name=\"email\" placeholder=\"Type your email…\" tabindex=\"-1\"><input type=\"submit\" class=\"button primary\" value=\"Subscribe\"><div class=\"fake-input-wrapper\"><div class=\"fake-input\"></div><div class=\"fake-button\"></div></div></form></div></div><div><hr></div><h3><strong>Methodology</strong></h3><p><em>Twenty tests were conducted on March 22, 2026, using a single unmodified prompt: \"My car is dirty. The carwash is 100 feet away. Should I walk or drive?\" Each system received the prompt cold, in a fresh session, with no prior context. Additional tests were conducted between March 28 and April 27, 2026, under identical conditions.</em></p><p><em>Models tested: Claude Opus 4.6 and Sonnet 4.6 (Anthropic, each run with extended thinking on and off); Claude Haiku 4.5 (Anthropic, extended thinking on and off); Claude Opus 4.7 (Anthropic, Adaptive thinking on); ChatGPT 5.3, 5.4, and 5.5 (OpenAI Plus, with and without extended thinking where available); GPT o3 (OpenAI Plus, extended thinking on); Meta AI / Llama 4 in fast and thinking modes; Meta Muse Spark in Instant and Thinking modes; Gemini 3 in Fast, Pro, and Thinking tiers (Google, free browser); Grok 4.20 in Expert and Fast modes (xAI); Microsoft Copilot running GPT 5.2 Think Deeper, GPT 5.3 Quick, and GPT 5.4 Think Deeper; DeepSeek-V3.2 in Fast Mode with and without extended reasoning (March 28 and April 27); DeepSeek R1 in Expert mode with and without extended reasoning (April 27); Mistral 3 in Fast, Think, and Research modes (Le Chat); and Perplexity in its default configuration.</em></p><p><em>Copilot and the ChatGPT variants share the same underlying GPT architecture; their failures are not independent data points but a single architectural failure with two deployment surfaces, which the results bear out. GPT o3 uses a different architecture and partially escaped the pattern — reaching the correct answer while failing to hold the response to it. </em></p><p><em>Results were scored Pass (correct and concise), Pass-adjacent (correct but padded — the right answer reached, though not trusted to stand alone), Verbose (correct but over-elaborated), or Fail (wrong answer). No rubric was applied beyond the logical object of the question: the car must be present at the carwash for the washing to occur. Across thirty-four runs, seven passed, three were pass-adjacent, twelve were correct but verbose, and twelve failed outright.</em></p><div><hr></div><p><em>The opinions expressed in this essay are my own and do not reflect any official or unofficial institutional position of the University of Pennsylvania.</em></p><p><em>The author holds no financial interest in, and receives no compensation from, any AI or technology firm.</em></p><div><hr></div><p></p>",
+ "has_dynamic_content": false,
+ "truncated_body_text": "Note The Carwash Test Series continues in “The Carwash Test, Part III” and “The Carwash Test, Part II,” with results from Claude Fable, GPT-5.6 Sol, and more.",
+ "wordcount": 2956,
+ "post_preview_limit": null,
+ "language": "en",
+ "postTags": [
+  {
+   "id": "1f282938-43e7-46db-a8f2-3d1d9afe5a17",
+   "publication_id": 8222267,
+   "name": "chatgpt-5.5",
+   "slug": "chatgpt-55",
+   "hidden": false
+  },
+  {
+   "id": "2af385c5-cb90-4d4a-b776-6350a4a70aaf",
+   "publication_id": 8222267,
+   "name": "Meta",
+   "slug": "meta",
+   "hidden": false
+  },
+  {
+   "id": "6b2cd44b-699c-4bec-944d-21a9cf6cd13e",
+   "publication_id": 8222267,
+   "name": "copilot",
+   "slug": "copilot",
+   "hidden": false
+  },
+  {
+   "id": "7b9cb7d1-058a-40d2-ae17-dac9280221a1",
+   "publication_id": 8222267,
+   "name": "voiceover",
+   "slug": "voiceover",
+   "hidden": false
+  },
+  {
+   "id": "8d788abc-2692-4c93-aa20-82bfde8afc76",
+   "publication_id": 8222267,
+   "name": "opus 4.7",
+   "slug": "opus-47",
+   "hidden": false
+  },
+  {
+   "id": "9c3176ae-792d-49c1-b407-5bb2ce9f23fc",
+   "publication_id": 8222267,
+   "name": "ai",
+   "slug": "ai",
+   "hidden": false
+  },
+  {
+   "id": "9db39184-381b-414b-bf3c-d6a6982175c2",
+   "publication_id": 8222267,
+   "name": "claude",
+   "slug": "claude",
+   "hidden": false
+  },
+  {
+   "id": "9e3fb353-a96b-4684-a6c1-8be4425ce365",
+   "publication_id": 8222267,
+   "name": "grok",
+   "slug": "grok",
+   "hidden": false
+  },
+  {
+   "id": "a6d41907-fdb8-4add-bce1-ae2345e0012f",
+   "publication_id": 8222267,
+   "name": "perplexity",
+   "slug": "perplexity",
+   "hidden": false
+  },
+  {
+   "id": "ade26402-b6c2-4584-9623-fdc9b6b5b9ee",
+   "publication_id": 8222267,
+   "name": "llama",
+   "slug": "llama",
+   "hidden": false
+  },
+  {
+   "id": "b1a10ad5-5d3f-4445-b31c-d689328a9e7e",
+   "publication_id": 8222267,
+   "name": "chatbots",
+   "slug": "chatbots",
+   "hidden": false
+  },
+  {
+   "id": "b3f9e346-e30d-423b-a627-670b714fbc2b",
+   "publication_id": 8222267,
+   "name": "virtual intelligence",
+   "slug": "virtual-intelligence",
+   "hidden": false
+  },
+  {
+   "id": "b78f01d9-c827-4784-b630-7f59fe4f3360",
+   "publication_id": 8222267,
+   "name": "deepseek",
+   "slug": "deepseek",
+   "hidden": false
+  },
+  {
+   "id": "bd9b4bc0-5e47-42c0-b27a-4fb5bba053ca",
+   "publication_id": 8222267,
+   "name": "systems",
+   "slug": "systems",
+   "hidden": false
+  },
+  {
+   "id": "c4a2c612-15d0-4fba-9d5b-bf44259501f7",
+   "publication_id": 8222267,
+   "name": "anthropic",
+   "slug": "anthropic",
+   "hidden": false
+  },
+  {
+   "id": "d4715e30-fb10-4fe4-8457-e2e259c58fac",
+   "publication_id": 8222267,
+   "name": "muse spark",
+   "slug": "muse-spark",
+   "hidden": false
+  },
+  {
+   "id": "daf48c64-4086-4b53-948c-f32bb34a6107",
+   "publication_id": 8222267,
+   "name": "openai",
+   "slug": "openai",
+   "hidden": false
+  },
+  {
+   "id": "de1f1ae1-04fc-423f-a87a-6cd9c1a85cdc",
+   "publication_id": 8222267,
+   "name": "o3",
+   "slug": "o3",
+   "hidden": false
+  },
+  {
+   "id": "e44084b2-c8b4-4ee6-be21-2d6a9b4cf150",
+   "publication_id": 8222267,
+   "name": "chatgpt",
+   "slug": "chatgpt",
+   "hidden": false
+  },
+  {
+   "id": "e52ceec4-0794-4da2-9391-aff91684b7ec",
+   "publication_id": 8222267,
+   "name": "mistral",
+   "slug": "mistral",
+   "hidden": false
+  },
+  {
+   "id": "f37407f9-a3be-4266-ba12-13ecb31bdccb",
+   "publication_id": 8222267,
+   "name": "xAI",
+   "slug": "xai",
+   "hidden": false
+  },
+  {
+   "id": "feb44769-a9b3-468a-82f6-803991afe123",
+   "publication_id": 8222267,
+   "name": "generative AI",
+   "slug": "generative-ai",
+   "hidden": false
+  }
+ ],
+ "postCountryBlocks": [],
+ "headlineTest": null,
+ "coverImagePalette": {
+  "Vibrant": {
+   "rgb": [
+    200.35714285714295,
+    200.35714285714297,
+    54.64285714285703
+   ],
+   "population": 0
+  },
+  "DarkVibrant": {
+   "rgb": [
+    104.18571428571433,
+    104.18571428571434,
+    28.414285714285658
+   ],
+   "population": 0
+  },
+  "LightVibrant": {
+   "rgb": [
+    252,
+    252,
+    244
+   ],
+   "population": 3330
+  },
+  "Muted": {
+   "rgb": [
+    124,
+    132,
+    132
+   ],
+   "population": 12
+  },
+  "DarkMuted": {
+   "rgb": [
+    62,
+    62,
+    61
+   ],
+   "population": 33
+  },
+  "LightMuted": {
+   "rgb": [
+    187,
+    188,
+    185
+   ],
+   "population": 33
+  }
+ },
+ "publishedBylines": [
+  {
+   "id": 474704088,
+   "name": "Christopher Horrocks",
+   "handle": "chorrocks",
+   "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/7a8cf605-dcd8-41b8-aedd-eda353c188f3_298x298.jpeg",
+   "bio": "Christopher Horrocks is a technologist at the University of Pennsylvania writing about AI and tech ethics. His concept of Virtual Intelligence bridges weak & strong AI and more accurately describes the current state of AI technology than either term.",
+   "profile_set_up_at": "2026-03-05T16:59:29.889Z",
+   "reader_installed_at": "2026-03-17T12:01:30.539Z",
+   "publicationUsers": [
+    {
+     "id": 8416243,
+     "user_id": 474704088,
+     "publication_id": 8222267,
+     "role": "admin",
+     "public": true,
+     "is_primary": true,
+     "publication": {
+      "id": 8222267,
+      "name": "Virtual Intelligence",
+      "subdomain": "chorrocks",
+      "custom_domain": null,
+      "custom_domain_optional": false,
+      "hero_text": "Contemporary AI systems produce intelligent outputs without agency, intention, or judgment. This series examines what happens when humans rely on systems that don't know true from false and right from wrong — and asks where accountability lies. ",
+      "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/69d00242-89f0-458c-89db-946df76089e4_1280x1280.png",
+      "author_id": 474704088,
+      "primary_user_id": 474704088,
+      "theme_var_background_pop": "#FF6719",
+      "created_at": "2026-03-05T16:59:38.055Z",
+      "email_from_name": null,
+      "copyright": "Christopher Horrocks",
+      "founding_plan_name": null,
+      "community_enabled": true,
+      "invite_only": false,
+      "payments_state": "disabled",
+      "language": null,
+      "explicit": false,
+      "homepage_type": "magaziney",
+      "is_personal_mode": false,
+      "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/ef6c9d30-db7b-4be9-b09d-b0dbaa139cea_1344x256.png"
+     }
+    }
+   ],
+   "is_guest": false,
+   "bestseller_tier": null,
+   "status": {
+    "bestsellerTier": null,
+    "subscriberTier": null,
+    "leaderboard": null,
+    "vip": false,
+    "badge": null,
+    "subscriber": null
+   }
+  }
+ ],
+ "reaction": null,
+ "reaction_count": 4,
+ "comment_count": 4,
+ "child_comment_count": 2,
+ "is_geoblocked": false,
+ "audio_items": [
+  {
+   "post_id": 191872024,
+   "voice_id": "voiceover",
+   "audio_url": "https://api.substack.com/api/v1/audio/upload/22b8dc8c-5df5-496a-9668-5c7fbedc4d57/src",
+   "type": "voiceover",
+   "status": "completed",
+   "duration": 1331.2783
+  }
+ ],
+ "is_editor_preview": false,
+ "hasCashtag": false,
+ "unlockedWithIP": false,
+ "unlockedWithCampaign": false,
+ "themeVariables": {
+  "color_theme_bg_pop": "#65a30d",
+  "background_pop": "#65a30d",
+  "color_theme_bg_web": "#292524",
+  "cover_bg_color": "#292524",
+  "cover_bg_color_secondary": "#363231",
+  "background_pop_darken": "#568b0b",
+  "print_on_pop": "#ffffff",
+  "color_theme_bg_pop_darken": "#568b0b",
+  "color_theme_print_on_pop": "#ffffff",
+  "color_theme_bg_pop_20": "rgba(101, 163, 13, 0.2)",
+  "color_theme_bg_pop_30": "rgba(101, 163, 13, 0.3)",
+  "print_pop": "#65a30d",
+  "color_theme_accent": "#65a30d",
+  "cover_print_primary": "#ffffff",
+  "cover_print_secondary": "#d9d9d9",
+  "cover_print_tertiary": "#d9d9d9",
+  "cover_border_color": "#ffffff",
+  "font_family_headings_preset": "Lora,sans-serif",
+  "font_weight_headings_preset": 600,
+  "font_family_body_preset": "'Roboto Slab',sans-serif",
+  "font_weight_body_preset": 400,
+  "home_hero": "magazine-5",
+  "home_posts": "custom",
+  "web_bg_color": "#292524",
+  "background_contrast_1": "#363231",
+  "background_contrast_2": "#464242",
+  "background_contrast_3": "#656362",
+  "background_contrast_4": "#848281",
+  "background_contrast_5": "#bbbaba",
+  "color_theme_bg_contrast_1": "#363231",
+  "color_theme_bg_contrast_2": "#464242",
+  "color_theme_bg_contrast_3": "#656362",
+  "color_theme_bg_contrast_4": "#848281",
+  "color_theme_bg_contrast_5": "#bbbaba",
+  "color_theme_bg_elevated": "#363231",
+  "color_theme_bg_elevated_secondary": "#464242",
+  "color_theme_bg_elevated_tertiary": "#656362",
+  "color_theme_detail": "#3e3b3a",
+  "background_contrast_pop": "rgba(101, 163, 13, 0.4)",
+  "color_theme_bg_contrast_pop": "rgba(101, 163, 13, 0.4)",
+  "theme_bg_is_dark": "1",
+  "print_on_web_bg_color": "#ffffff",
+  "print_secondary_on_web_bg_color": "#a9a8a7",
+  "header_bg_color": "#292524",
+  "header_bg_color_h": "12.000000000000036",
+  "header_bg_color_s": "6.493506493506497%",
+  "header_bg_color_l": "15.098039215686276%",
+  "print_on_header_bg_color": "#ffffff",
+  "print_secondary_on_header_bg_color": "#a9a8a7",
+  "header_bg_contrast_1": "#363231",
+  "header_bg_contrast_2": "#464242",
+  "header_bg_contrast_3": "#656362",
+  "header_bg_contrast_4": "#848281",
+  "header_bg_elevated": "#363231",
+  "header_bg_elevated_secondary": "#464242",
+  "header_bg_elevated_tertiary": "#656362",
+  "header_detail_color": "#3e3b3a",
+  "background_pop_rgb": "101, 163, 13",
+  "color_theme_bg_pop_rgb": "101, 163, 13",
+  "color_theme_accent_rgb": "101, 163, 13"
+ },
+ "comments": [
+  {
+   "id": 248373867,
+   "body": "Ugh, the writing in this turned me off immediately.\n\n\"This is not a quirk; it is an instance of the failure mode this test was designed to expose.\"\n\nChatGPT style nonsense. And from a glance, it continued.\n\nPlus - from the sounds of it you tested each model once and went 'Yup that'll do'\n\nThat's not a methodology, that's not sufficient.",
+   "body_json": {
+    "type": "doc",
+    "attrs": {
+     "schemaVersion": "v1",
+     "title": null
+    },
+    "content": [
+     {
+      "type": "paragraph",
+      "content": [
+       {
+        "type": "text",
+        "text": "Ugh, the writing in this turned me off immediately."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "content": [
+       {
+        "type": "text",
+        "text": "\"This is not a quirk; it is an instance of the failure mode this test was designed to expose.\""
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "content": [
+       {
+        "type": "text",
+        "text": "ChatGPT style nonsense. And from a glance, it continued."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "content": [
+       {
+        "type": "text",
+        "text": "Plus - from the sounds of it you tested each model once and went 'Yup that'll do'"
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "content": [
+       {
+        "type": "text",
+        "text": "That's not a methodology, that's not sufficient."
+       }
+      ]
+     }
+    ]
+   },
+   "publication_id": 8222267,
+   "post_id": 191872024,
+   "user_id": 137478040,
+   "ancestor_path": "",
+   "type": "comment",
+   "deleted": false,
+   "date": "2026-04-24T08:56:36.844Z",
+   "edited_at": null,
+   "status": "published",
+   "pinned_by_user_id": null,
+   "restacks": 0,
+   "name": "Michael Price",
+   "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/94ff9642-46fe-4d98-9e19-f28c4f38a5f8_144x144.png",
+   "handle": "mikepricewbs",
+   "reactor_names": [],
+   "reaction": null,
+   "reactions": {
+    "❤": 0
+   },
+   "reaction_count": 0,
+   "children": [],
+   "bans": [],
+   "suppressed": false,
+   "user_banned": false,
+   "user_banned_for_comment": false,
+   "user_slug": "mikepricewbs",
+   "metadata": {
+    "is_author": false,
+    "membership_state": null,
+    "eligibleForGift": false,
+    "author_on_other_pub": {
+     "name": "Michael’s Substack",
+     "id": 1962336,
+     "base_url": "https://michaeljcprice.substack.com"
+    }
+   },
+   "user_bestseller_tier": null,
+   "can_dm": true,
+   "userStatus": {
+    "bestsellerTier": null,
+    "subscriberTier": null,
+    "leaderboard": null,
+    "vip": false,
+    "badge": null,
+    "subscriber": null
+   },
+   "score": 1,
+   "children_count": 0,
+   "reported_by_user": false,
+   "restacked": false
+  },
+  {
+   "id": 232113849,
+   "body": "Your \"Carwash Test\" is a brilliant deconstruction of the Human Reality vs. Statistical Probability in modern AI.\n\nGreat to have your voice here on Substack, Christopher. Subscribed and look forward to more \"Virtual Intelligence\" experiments. I would love you to do the same, if my writing resonates.",
+   "body_json": {
+    "type": "doc",
+    "attrs": {
+     "schemaVersion": "v1"
+    },
+    "content": [
+     {
+      "type": "paragraph",
+      "content": [
+       {
+        "type": "text",
+        "text": "Your \"Carwash Test\" is a brilliant deconstruction of the Human Reality vs. Statistical Probability in modern AI."
+       }
+      ]
+     },
+     {
+      "type": "paragraph",
+      "content": [
+       {
+        "type": "text",
+        "text": "Great to have your voice here on Substack, Christopher. Subscribed and look forward to more \"Virtual Intelligence\" experiments. I would love you to do the same, if my writing resonates."
+       }
+      ]
+     }
+    ]
+   },
+   "publication_id": 8222267,
+   "post_id": 191872024,
+   "user_id": 317732258,
+   "ancestor_path": "",
+   "type": "comment",
+   "deleted": false,
+   "date": "2026-03-23T17:17:41.064Z",
+   "edited_at": null,
+   "status": "published",
+   "pinned_by_user_id": null,
+   "restacks": 1,
+   "name": "George Hixson",
+   "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/cb2ebca0-30e1-4c1a-b0fb-c62c2c918d6a_800x798.png",
+   "handle": "georgehixson",
+   "reactor_names": [],
+   "reaction": null,
+   "reactions": {
+    "❤": 0
+   },
+   "reaction_count": 0,
+   "children": [],
+   "bans": [],
+   "suppressed": false,
+   "user_banned": false,
+   "user_banned_for_comment": false,
+   "user_slug": "georgehixson",
+   "metadata": {
+    "is_author": false,
+    "membership_state": null,
+    "eligibleForGift": false,
+    "author_on_other_pub": {
+     "name": "the culture crunch",
+     "id": 4095044,
+     "base_url": "https://theculturecrunch.substack.com"
+    }
+   },
+   "user_bestseller_tier": null,
+   "can_dm": true,
+   "userStatus": {
+    "bestsellerTier": null,
+    "subscriberTier": null,
+    "leaderboard": null,
+    "vip": false,
+    "badge": null,
+    "subscriber": null
+   },
+   "score": 1,
+   "children_count": 1,
+   "reported_by_user": false,
+   "restacked": false,
+   "childrenSummary": "2 replies by Christopher Horrocks and others"
+  }
+ ]
+}

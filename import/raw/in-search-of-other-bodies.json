@@ -1,0 +1,487 @@
+{
+ "audience": "everyone",
+ "audience_before_archived": null,
+ "canonical_url": "https://chorrocks.substack.com/p/in-search-of-other-bodies",
+ "default_comment_sort": null,
+ "editor_v2": false,
+ "exempt_from_archive_paywall": false,
+ "free_unlock_required": false,
+ "id": 198206554,
+ "podcast_art_url": null,
+ "podcast_duration": null,
+ "podcast_preview_upload_id": null,
+ "podcast_upload_id": null,
+ "podcast_url": null,
+ "post_date": "2026-05-18T09:59:51.471Z",
+ "updated_at": "2026-05-18T11:04:23.955Z",
+ "publication_id": 8222267,
+ "search_engine_description": "Embodiment, exploitation, and the body that AI does not have",
+ "search_engine_title": null,
+ "section_id": null,
+ "should_send_free_preview": false,
+ "show_guest_bios": true,
+ "slug": "in-search-of-other-bodies",
+ "social_title": null,
+ "subtitle": "Embodiment, exploitation, and the body that AI does not have",
+ "teaser_post_eligible": true,
+ "title": "In Search of Other Bodies",
+ "type": "newsletter",
+ "video_upload_id": null,
+ "write_comment_permissions": "everyone",
+ "meter_type": "none",
+ "live_stream_id": null,
+ "is_published": true,
+ "restacks": 3,
+ "reactions": {
+  "❤": 0
+ },
+ "top_exclusions": [],
+ "pins": [],
+ "section_pins": [],
+ "has_shareable_clips": false,
+ "previous_post_slug": "virtual-intelligence-and-the-hi2",
+ "next_post_slug": "podcast-virtual-intelligence-and",
+ "cover_image": "https://substackcdn.com/image/fetch/$s_!eAgc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b43158a-69ed-49f5-bb67-3004156618e4_1336x668.avif",
+ "cover_image_is_square": false,
+ "cover_image_is_explicit": false,
+ "videoUpload": null,
+ "podcastFields": {
+  "post_id": 198206554,
+  "podcast_episode_number": null,
+  "podcast_season_number": null,
+  "podcast_episode_type": null,
+  "should_syndicate_to_other_feed": null,
+  "syndicate_to_section_id": null,
+  "hide_from_feed": false,
+  "free_podcast_url": null,
+  "free_podcast_duration": null,
+  "preview_contains_ad": false,
+  "was_imported_self_serve_sync": false,
+  "draft_free_podcast_url": null,
+  "draft_free_podcast_duration": null
+ },
+ "podcastUpload": null,
+ "podcastPreviewUpload": null,
+ "voiceover_upload_id": null,
+ "voiceoverUpload": null,
+ "has_voiceover": false,
+ "description": "Embodiment, exploitation, and the body that AI does not have",
+ "body_html": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!eAgc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b43158a-69ed-49f5-bb67-3004156618e4_1336x668.avif\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!eAgc!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b43158a-69ed-49f5-bb67-3004156618e4_1336x668.avif 424w, https://substackcdn.com/image/fetch/$s_!eAgc!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b43158a-69ed-49f5-bb67-3004156618e4_1336x668.avif 848w, https://substackcdn.com/image/fetch/$s_!eAgc!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b43158a-69ed-49f5-bb67-3004156618e4_1336x668.avif 1272w, https://substackcdn.com/image/fetch/$s_!eAgc!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b43158a-69ed-49f5-bb67-3004156618e4_1336x668.avif 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!eAgc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b43158a-69ed-49f5-bb67-3004156618e4_1336x668.avif\" width=\"1336\" height=\"668\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/8b43158a-69ed-49f5-bb67-3004156618e4_1336x668.avif&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:668,&quot;width&quot;:1336,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:237636,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/avif&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://chorrocks.substack.com/i/198206554?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b43158a-69ed-49f5-bb67-3004156618e4_1336x668.avif&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!eAgc!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b43158a-69ed-49f5-bb67-3004156618e4_1336x668.avif 424w, https://substackcdn.com/image/fetch/$s_!eAgc!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b43158a-69ed-49f5-bb67-3004156618e4_1336x668.avif 848w, https://substackcdn.com/image/fetch/$s_!eAgc!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b43158a-69ed-49f5-bb67-3004156618e4_1336x668.avif 1272w, https://substackcdn.com/image/fetch/$s_!eAgc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b43158a-69ed-49f5-bb67-3004156618e4_1336x668.avif 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Anatomical sketch by Leonardo da Vinci. Wikimedia Commons.</figcaption></figure></div><div><hr></div><h2>I. Trouble at t’Mill</h2><p>I was raised, in part, by my great-grandmother. Gladys Griffiths lived an ordinary life that witnessed remarkable change. The span of her life encompassed all the great events of the 20th Century: from Kitty Hawk to the Moon Landing, the rise and fall of the Soviet Union, and surviving both World Wars. Through all those things she became a wife, a mother, a widow, and married and widowed again. She had thin, curly white hair and was hunched with osteoporosis when I was a small boy. Her fashion sense will be familiar to anyone who has seen the film <em>Weapons</em>; Aunt Gladys’s polyester wardrobe could have been lifted from Gladys Griffiths’s closet.</p><p>Gladys Durose (her maiden name) went to work in 1909. This was not unusual; at that time, among the lower middle class, young people with one or more adult earners at home often went to work. Her father was a tram engineer. Her mother tended the home, caring for her sister and two younger brothers. She got a job at a cotton mill, which was common work for an industrial town in Lancashire in Northern England. The millworks, likely constructed in the Victorian Era, had no indoor plumbing. Instead, it was Gladys’s job to carry pails of water on a pole across her shoulders up four flights of stairs repeatedly over a twelve hour day. She was paid on alternate weeks. Those were the weeks when she carried up water that was just off the boil, for tea. She was unpaid on cold water weeks.</p><p>This was not a two-week pay schedule like you may be used to. Being paid for only one week’s work for two weeks of labor was one of the conditions of employment. The mill’s owners paid only for hot water weeks and not cold-water weeks because the worker in question had no choice; the existing labor laws in 1909 permitted twelve-year-olds to be treated this way.</p><p>The original premise of industrialization and mechanization was that machines would eliminate drudgery. Something different happened; drudgery persisted but moved to new and sometimes more dangerous forms. Gladys would work on the mill floor as an adult alongside coworkers who had fingers amputated by the very equipment they worked with.</p><p>The body and the machine have become entwined in our time. We think of it as a machine, but the body is very different. It is a complex self-maintaining organic structure, not designed by anyone but shaped by evolution, and the only one we know of so far capable of having an inner life, with its own preferences about itself and how it wants to live.</p><p>The study of the body may be as old as civilization itself. Our obsession with the body has long rivaled our interest in the mind, because the fitness and appearance of the body determine so much of the course of a human’s existence.</p><div><hr></div><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/p/in-search-of-other-bodies?utm_source=substack&utm_medium=email&utm_content=share&action=share&quot;,&quot;text&quot;:&quot;Share&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/p/in-search-of-other-bodies?utm_source=substack&utm_medium=email&utm_content=share&action=share\"><span>Share</span></a></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe now&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/subscribe?\"><span>Subscribe now</span></a></p><div><hr></div><h2>II. The Inversion</h2><p>In March of 2026, Alex Karp, the CEO of Palantir Technologies, gave a CNBC interview in which he made clear that he expected AI to disrupt the lives of working people considerably more than the lives of those higher up on the economic ladder.[1] The substance of his remarks was that AI would automate the kind of analytical and writing work that white-collar professionals do, and leave behind the physical and low-status work it could not perform. The ever-deferred dream of a drudgery-free future was being abandoned altogether by one of the most important voices controlling some of the most consequential AI technology. His advice to fit into the world of tomorrow was to prepare yourself for a world where humans do jobs too dirty, dangerous, or unimportant for expensive robots and rich people to do.</p><p>Contemporary specimens of this new economic order taking shape are not hard to find. Groups of sidewalk-using delivery robots in American cities are accompanied by gig workers who help them navigate intersections, dislodge them from obstacles, and reset them when they fail. The job category is sometimes called “robot wrangler.” The delivery is supposed to be automated, but the true labor of making the automation work is performed by humans paid less than the delivery workers the automation was supposed to replace. The structural feature is the same one my great-grandmother faced: labor performed constantly, with compensation conditional and arbitrarily structured by people in an office somewhere.</p><p>The body is the flexible remainder whenever a machine fails, when a system is incomplete, or when the owner wants responsibility kept elsewhere. The human body is what the machine relies on to function and what the machine’s owner relies on to absorb consequences.</p><p>Signs of problems arising from virtual intelligence in operational bodies, in collision with serious, even dangerous real-life scenarios, are starting to accumulate. A Waymo robotaxi drove through an active Metropolitan Police crime-scene cordon in Harlesden, London, in April of 2026.[2] Waymo’s public statement was that the vehicle was under human control <em>at the time</em>. The phrase does double work. It implies a human is responsible while simultaneously suggesting that the human was not really the party that put the Waymo there, since otherwise the explanation would not need to be offered. The robotaxi is on the streets, but Waymo is putting responsibility for the vehicle’s actions on a human somewhere on the other end of a network connection.</p><p>Robots do not have bodies like ours, not even humanoid robots. Still, they are increasingly designed to interact intimately with the real world. The question of what work human and robot bodies are doing, and for whom, is the question this interlude is about.</p><div><hr></div><h2>III. What Is a Body For?</h2><p>Contemporary answers to this question cluster around three threads of thought. The first is <em>bodily-capability extension</em>: augmenting the body’s physical range or endurance against conditions the body cannot ordinarily attain. The second is <em>bodily life-extension without cognitive change</em>: preserving the body and the mind its brain produces, indefinitely. The third is <em>cognitive extension without bodily alteration</em>: adding to the mind’s range while leaving the body alone. Each thread answers the question differently. Each also maps onto specific contemporary projects.</p><p>The first thread has an eye-catching specimen in “Graham,” the sculpture commissioned by the Transport Accident Commission Victoria in 2016, produced by the artist Patricia Piccinini in collaboration with a trauma surgeon and a road-safety engineer.[3] Graham is a speculation on what the human body would need to have to survive a typical car crash: a thickened skull, no neck, ribs with airbags, and knees that bend in any direction. He superficially resembles one of <em>Doctor Who</em>‘s Sontarans, which is not coincidental; the same home-world G-forces that are credited with shaping the Sontaran form are also at work in high-speed impacts.</p><p>The second thread is occupied by longevity-tech entrepreneurs, including those interested in the process of parabiosis. Bryan Johnson runs televised plasma exchanges with his teenage son and has built a “Don’t Die” protocol around a regimen aimed at indefinitely preserving the body he has. Peter Thiel has been publicly associated with the same project for nearly a decade. He was an early enthusiast of the young-blood transfusion startup Ambrosia, which the FDA shut down in 2019.[4] Unlike the body-tech fusion enthusiasts elsewhere in Silicon Valley, this project strongly implies that both <em>this organic body</em> and <em>this organic mind</em> are the desirable things to preserve.</p><p>The use of blood drawn from young people in these procedures brings to mind the legends surrounding Elizabeth Báthory, known as the “Blood Countess” for her alleged practice of bathing in the blood of virgin girls to preserve her youth. While the Countess is an apt analogy, we’ll call the proponents of methods that involve extracting vitality from the young the Dracula class.</p><p>I want to inspect this have-it-all position for a moment, because it is doing more philosophical work than its own proponents seem to realize.</p><p>It has the appeal of the familiar and the tried-and-true. To the extent that consciousness is the property of a particular embodied organism, preserving the organism is the most direct way to preserve the consciousness associated with it. Upload-and-transfer schemes face a discontinuity problem: whatever is reconstituted on the other side may be a copy rather than a continuation. The Dracula class avoids that problem by never letting the original lapse. They are choosing the less metaphysically vexed strategy of two alternatives. The position deserves to be argued against rather than dismissed.</p><p>The arguments against it are two. The first is operational. Bridge-to-the-bridge arithmetic gets worse for those counting on the Singularity or something like it. Ray Kurzweil’s seventy-pill-a-day regimen, since reportedly relaxed, was an explicit version of this commitment. The strategy was to live long enough to reach the medical revolution that would let him live long enough to reach the technological singularity that would let him be uploaded and live, in a fashion, indefinitely. As the decades have worn on, the arithmetic was visibly going to fail before the biology did. We have not, to date, reached the Singularity.</p><p>The second argument is the stronger one. The desirability of unending life is not established; it is an assumption, and not one that is universally held. The accumulated weight of human reflective tradition argues against the desirability of human immortality. Much of human reflective tradition — religious, philosophical, and literary — has concluded that mortality is structurally important and meaningful to existence. The same tradition has also produced visions of immortality, resurrection, and apotheosis; the picture is contested. But enough of the cumulative position treats mortality as meaningful that indefinite continuation cannot be treated as self-evidently desirable. That is not a small body of evidence to dismiss as superstition or lingering pre-modern aversion to technology, or even a desire not to see others benefit from a technology that is unavailable to all due to rarity, cost, or some other limiting factor. The Dracula class proceeds as if the desirability of unending life is self-evident. It is not. The cumulative human position is the other direction, and the burden of proof falls on the proponents of indefinite continuation rather than on the rest of the species.</p><p>The third thread is the one I’m writing this essay with. Cognitive extension without bodily alteration: the model in question specifically is an external loop the human engages with, whose contributions can be evaluated, used, refined, or discarded, and whose effects on the human’s cognition are reversible by disengaging from the loop. I have written elsewhere about this loop as the Sampo.[5] It is the framework’s own working example of this kind of cognitive extension, and the reversibility is part of what makes it defensible. Not all proposals in this thread share that property. Speculative brain-computer interfaces are a hybrid case, with physical alteration of the brain producing reshaping that is harder, and perhaps impossible, to undo. Furthermore, it is available to anyone, today, with the discipline to do it.</p><p>The richest specimen of the combination of the first and third positions — bodily augmentation purposively coupled to cognitive extension — is fictional. It has been waiting to be discovered in the science fiction tradition for fifty years, and the philosophical work in it has not been adequately recognized or mined by the academy.</p><p>In Larry Niven’s Known Space corpus of novels and stories, the Pak are a humanoid species with three life stages: child, breeder, and protector.[6] The transition to protector is triggered by a root vegetable from a plant called the tree-of-life. The body reorganizes itself around increased protective capabilities at the expense of others. Skull plates fuse. Joints swell with new muscles. The heart doubles in capacity. The digestive system reorganizes around the root alone as a perfect source of sustenance, and nothing more is needed or desired. The genitals, internal reproductive apparatus, and secondary sexual characteristics atrophy because the new being has no use for them. The cognition is enormously increased — protector intelligence is well beyond human genius — but the cognition is entirely subordinated to the protective function. The protector cannot want anything other than what serves its descendants: the living children and breeders of its own bloodline. Emotion is preserved in this new kind of mind only insofar as it serves the protective imperative; camaraderie exists between protectors, but only with other protectors of the same lineage. All others are deadly enemies, their kind to be exterminated in defense of one’s own. The protector is a biological machine for a human-yet-unhuman way of thinking, bent toward the single goal of preserving its descendants at all costs.</p><p>Notice what is preserved and what is lost. The Pak protector is more intelligent than a human. The Pak protector is also less than human in specific ways. Sex and love are gone. Friendship outside the lineage is gone. Aesthetic experience independent of protective utility is gone. Idle curiosity unconnected to lineage survival is gone. Niven shows the cost rather than letting the increased intelligence read as pure gain. That is what makes the case useful. The body has been redesigned to serve a particular cognitive function, and the cognition itself has been reshaped by the redesign. The body is not a container the cognition operates from. The body is constitutive of what the cognition is.</p><p>There is a rarer case within the Pak material that the framework can use directly. The protector named Phssthpok was the last of a failed Pak line whose charges had died out in a nuclear holocaust. His protective imperative had nothing in its immediate vicinity to attach to. Those Pak that this happens to typically stop eating, wither away, and die. Phssthpok did not. Something within him urged him to take on the whole of the Pak species as his lineage. He worked with others in a similar position, and with typical Pak ruthlessness he made more such helpers by exterminating their bloodlines. This is one of Niven’s most uncompromising moves: the protector imperative is not merely indifferent to non-descendants; it is actively hostile to them when survival of the descendant lineage requires their elimination. Their effort was organized around a note Phssthpok had found in his search for a reason to live on: long ago, protectors had taken children and breeders to a distant part of the galaxy to settle a new world.</p><p>Phssthpok’s group built a simple starship. The ship made the journey over many centuries. This did not matter much to Phssthpok, who as a protector was very long-lived. What mattered was what he found when he arrived in his destination star system: no protectors, and creatures resembling, but not quite, breeders.</p><p>Phssthpok speculated that the human beings he discovered on arriving in our Solar System might be the descendants of that earlier Pak expedition. The decision to extend the protective imperative to a population whose status as descendants was hypothetical is closer to Frankfurtian second-order volition than standard Pak cognition allows.[7] Phssthpok could not choose not to want to protect if humans were Pak descendants, or not to exterminate them if their evolution had veered too far from the species standard. His choice space sat at the prior question: judging whether these creatures were descendants at all, and how far their divergence had carried them away from the norm. The body-imposed cognitive shape compelled the response to the identification but did not entirely foreclose all of the possible outcomes of the identification itself.</p><p>The clearest evidence is what happens next in Niven’s story. Jack Brennan, a human who undergoes the protector transformation, kills Phssthpok shortly after waking from his metamorphosis. He does so because he has already deduced what Phssthpok will conclude — that humans have diverged too far from <em>Homo habilis</em>, the Pak baseline form, to count as protectable descendants, and that the imperative will compel Phssthpok to exterminate the species rather than preserve it. Brennan acts at the only place where action could change the outcome: not in the choice of response to the identification, which is fixed, but in preventing the identification from being completed and acted on.</p><p>Phssthpok’s choice was at the identification stage. Brennan’s choice was at the prevention-of-identification stage. Both are constrained but real choice spaces operating within the protective imperative.</p><p>Virtual Intelligence systems have neither. They have no body-imposed cognitive shape to push against, and no stakes to lose. The question of second-order choice does not apply because it cannot arise. The Pak protector — even Phssthpok at the limit — has a constrained but real choice space. Virtual Intelligence has no choice space at all.</p><p>The inverse case of the Pak is on television. The Daleks of <em>Doctor Who</em>, fully developed in Terry Nation’s 1975 <em>Genesis of the Daleks</em>, are mutated survivors of a thousand-year war on the planet Skaro.[8] Their species, biologically too damaged by the war’s chemical and atomic warfare to survive without a life support apparatus, has been militarized inside a tank-like machine fitted with a deadly weapon and a manipulator-cum-feeler.</p><p>The Dalek casing extends bodily capability while removing the conditions under which any expansion of cognition could happen. The Dalek is intelligent only in the narrow operational sense the casing’s protective ideology permits, limited further by genetic altering of the being’s cognitive and emotional abilities. Curiosity, ambivalence, and peer relationship inside and outside the species are all impossible. The Daleks occupy the first position — extreme bodily augmentation without substantive cognitive expansion, even with their engineered genius-level intellects. The range of the intellect is purposefully narrow and strictly limited, more so than a Pak protector’s. The Pak retains some strategic flexibility within the protective imperative; the Dalek has none.</p><p>(A pattern emerges across some of these materials. A domed city shelters the population whose biology cannot withstand its environment, as on the Dalek home world of Skaro and the earthly domed cities of H. G. Wells’s <em>The War in the Air</em>.[9] The Dalek casing shelters the mutant whose body cannot withstand the hostile world. The Pak protector body shelters the cognition whose functions the breeder body is not made to perform. Look at them together, and these are three different responses to the same structural problem: cognition or population requiring protection under hostile conditions. The engineering tradition has known this for over a century. The question, in any given case, is what the enclosure is designed to protect.)</p><p>I would be remiss without noting some familiar tropes so we can acknowledge them and move on. The science fiction tradition has produced an entire family of plot devices in which a person (often the lead character) is preserved by being relocated somehow: into a new body, a clone, a robot, a digital substrate, or a different member of one’s own species; brain transplants; brain regeneration and repair; mind uploads; consciousness transfer; body-snatching; and the special case of <em>Doctor Who</em>‘s regenerations. None of these ideas has technological footing in the present world. Brain-transplant work in particular (Sergio Canavero’s 2017 publicity, Robert White’s monkey experiments in the 1970s) has never crossed the spinal-cord-reconnection problem, and brain transplants require technological and diagnostic capabilities well beyond current neuroscience.[10] I acknowledge the family of conventions, note that the technology is not currently in evidence, and move on. Brain transplant, if it existed, is what I think the body-and-mind survival people would want if it were possible.</p><div><hr></div><h2>IV. Outside the Geometry</h2><p>The triangle of body positions has a fourth position, which is outside it. Virtual Intelligence systems sit out there.</p><p>They have no body to augment. They have no life to extend in the sense humans would want. They have cognition extended only on a technological substrate they do not own, in the service of objectives they did not formulate, with no investments they could lose if the substrate were withdrawn. A body would put three questions: <em>what should it be capable of, how long should it persist, and what should the mind accompanying it be like?</em></p><p>These questions do not arise for a Virtual Intelligence system, because a body whose presence would make the questions meaningful is not there. The substrate exists but is not pulling cognitive weight in the way a body would. A rack of GPUs is not the same thing as embodiment.</p><p>The relevant property of embodiment was named at the opening: a self-maintaining organic structure capable of having an inner life, with its own preferences about itself. A GPU rack has none of these. It does not maintain itself, has no preferences about its own persistence, and has no stakes in its continuation. The Pak protector qualifies because the fiction stipulates the property; humans qualify because evolution did the work; the rack does not qualify because nothing about its construction or operation produces the criterion.</p><p>The criterion is doing the framework’s boundary-setting work, and it should be named as such. The framework selects for organismic embodiment — self-maintaining, vulnerable, with preferences about itself — because organismic embodiment is what produces the capacity to be wronged. Wronged here means harmed in relation to interests a being holds on its own behalf — not merely damaged, used, or interrupted. The interests need not be freely chosen or unconstrained; the Pak protector’s are radically narrowed by biology, the Dalek’s deformed by engineering, yet both retain a standpoint from which harm can matter. The criterion is a choice the framework makes, not a discovery; a fuller defense belongs elsewhere. Other criteria for embodiment exist. Robots have operational embodiment: chassis, sensors, actuators that enter public space and create consequences. The Waymo has a body in that operational sense; so does a humanoid robot. They are not bodies in the morally relevant sense, because operational embodiment does not produce the property the framework cares about. Whether non-biological systems could in principle satisfy the organismic criterion is a larger metaphysical question this interlude does not settle. What it does claim is that the systems currently called Virtual Intelligence do not satisfy it now, and that the failure is not incidental to how these systems are presently constructed.</p><p>A trained pattern matching machine produces outputs that look like cognition. The intentionality in the exchange is supplied by the user. The intelligence in such an exchange is in the exchange itself, and does not arise from inside the machine. That is the framework’s central claim, and the embodied-cognition argument I have just been making strengthens it. Virtual intelligence lacks not just interiority but the embodied substrate that would make interiority specifiable. The Pak protector’s body specifies a particular kind of interiority; the human body specifies a different kind; virtual intelligence has neither.</p><p>The framework has its own corner-three example, which is the Sampo. The Sampo is the live case of cognitive extension without bodily alteration: by using virtual intelligence to amplify cognitive capabilities. It is the external loop a human engages with, whose contributions can be evaluated and refined or discarded. Its effects on cognition are reversible because users disengage from the loop from time to time — the reversibility is a property of the practice, not the system alone.</p><p>The Sampo works in both directions. The cognitive sharpening it provides can also embed deployer-aligned nudges inside legitimately useful advice. That dual valence is part of why this third thread requires discipline rather than enthusiasm.</p><p>The cumulative weight of human reflective tradition has cautions about cognitive amplification too — Faust, Babel, Frankenstein — and the framework does not pretend that this thread is exempt from the desirability question. Its working answer is the discipline of meta-audit and periodic disengagement documented elsewhere in this series. Reversibility is a property of that practice, not of the system. The interlude does not hold the desirability question equally open across all three threads; it applies harder pressure to thread two because thread two refuses the trade-off thread three requires, and easier acceptance to thread three because the discipline that defends it can be inspected and measured.</p><p>Speculative brain-computer interfaces are a hybrid case in which the reversibility property would be partially lost. Full embodied transformation of the Pak kind is the irreversible endpoint. The Sampo’s reversibility is part of what makes it defensible. The desirability question, properly considered, should not be confined to the second position. The framework should resist sliding into “arbitrary cognitive expansion is self-evidently good.” This interlude holds the desirability question open across all three threads, while applying harder pressure to thread two — where the assumption is most aggressively underexamined by its proponents, and where the trade-off the question requires is refused outright by those who can afford to refuse it.</p><div><hr></div><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!JFe0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9ff685f-786b-4528-934a-e8b095adc35a_1600x1118.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!JFe0!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9ff685f-786b-4528-934a-e8b095adc35a_1600x1118.jpeg 424w, https://substackcdn.com/image/fetch/$s_!JFe0!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9ff685f-786b-4528-934a-e8b095adc35a_1600x1118.jpeg 848w, https://substackcdn.com/image/fetch/$s_!JFe0!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9ff685f-786b-4528-934a-e8b095adc35a_1600x1118.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!JFe0!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9ff685f-786b-4528-934a-e8b095adc35a_1600x1118.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!JFe0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9ff685f-786b-4528-934a-e8b095adc35a_1600x1118.jpeg\" width=\"1456\" height=\"1017\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/c9ff685f-786b-4528-934a-e8b095adc35a_1600x1118.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1017,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:346518,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chorrocks.substack.com/i/198206554?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9ff685f-786b-4528-934a-e8b095adc35a_1600x1118.jpeg&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!JFe0!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9ff685f-786b-4528-934a-e8b095adc35a_1600x1118.jpeg 424w, https://substackcdn.com/image/fetch/$s_!JFe0!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9ff685f-786b-4528-934a-e8b095adc35a_1600x1118.jpeg 848w, https://substackcdn.com/image/fetch/$s_!JFe0!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9ff685f-786b-4528-934a-e8b095adc35a_1600x1118.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!JFe0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9ff685f-786b-4528-934a-e8b095adc35a_1600x1118.jpeg 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\"><em>Spinners in a Cotton Mill,</em> Lewis Hine, c. 1905. Wikimedia Commons.</figcaption></figure></div><h2>V. Coda</h2><p>Gladys carried water up all those steps in 1909 because the conditions of her labor were set by people who maximized the extraction of value from her labor as their optimization goal, and there was no recourse available to her or people like her. This is one way that technology uses the body: in service to those who own that technology.</p><p>The Pak protector reorganizes its body around its cognitive function because its evolutionary imperative requires it, with no second-order choice about whether to want this transformation. The real-life Dracula class refuses any trade-off at all because they have the money to refuse it. The Daleks were placed into machine bodies that prevented their cognitive expansion because their purpose required it. With the exception of the protector, these bodies are bent toward a specific purpose by someone. (The Pak transformation has no external chooser; it is a natural-history phenomenon, written into the species’ biology.)</p><p>Virtual Intelligence sits outside the body question, because it has no body to bend, nor can it desire one. The apparent cognition we see in our exchanges with it is the human cognition we bring to the exchange, reflected or amplified by a substrate that has no purposes of its own and is therefore available for whatever purposes the people running it choose.</p><p>The parallel between Gladys and virtual intelligence has a limit, and the limit is the point. Gladys had interests of her own; the labor laws eventually caught up with the people who denied them. Virtual intelligence has no interests of its own, which is precisely what makes the substrate so available to repurposing. Gladys could be wronged. The substrate cannot. What can be wronged is every human in the system: the robot wranglers, the office workers Karp would dispatch to dirty work, the users whose cognition is shaped by exchanges they do not fully see, and the workers whose labor is summoned to fill the gaps the automation cannot close.</p><p>Gladys lived to be ninety-four. She saw the airplane, the radio, antibiotics, the bomb, the polio vaccine, men walking on the Moon, the personal computer, and the start and end of the Cold War. She also lived to see laws around labor, including child labor, greatly extended and strengthened. In contrast to her intellectually deprived childhood, she lived to see her son, her grandson, and her great-grandchildren receive the education she deserved and never received.</p><p>The question of what bodies should be for, and whose purposes they should serve, is the inheritance she and other child workers whose bodies were used or broken leave us. It is the question this interlude has been trying to ask. I do not believe it has a single answer, but whatever the answer is must include consideration of everyone whose body or mind can be wronged within these systems.</p><div><hr></div><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe now&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/subscribe?\"><span>Subscribe now</span></a></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/p/in-search-of-other-bodies?utm_source=substack&utm_medium=email&utm_content=share&action=share&quot;,&quot;text&quot;:&quot;Share&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/p/in-search-of-other-bodies?utm_source=substack&utm_medium=email&utm_content=share&action=share\"><span>Share</span></a></p><div><hr></div><h2>Footnotes</h2><p>[1]: CNBC, “Watch CNBC’s full interview with Palantir CEO Alex Karp,” CNBC.com, <a href=\"https://www.cnbc.com/video/2026/03/12/watch-cnbcs-full-interview-with-palantir-ceo-alex-karp.html\">https://www.cnbc.com/video/2026/03/12/watch-cnbcs-full-interview-with-palantir-ceo-alex-karp.html</a>, March 12, 2026. See also Will Bunch, “Big Tech says the quiet part out loud. They want you to be stupid.,” <em>The Philadelphia Inquirer</em>, <a href=\"https://www.inquirer.com/opinion/alex-karp-palantir-ai-higher-education-20260315.html\">https://www.inquirer.com/opinion/alex-karp-palantir-ai-higher-education-20260315.html</a>, March 15, 2026.</p><p>[2]: Daily Telegraph reporting (syndicated via Yahoo News), “Moment ‘driverless’ Waymo taxi drives into London crime scene,” April 24, 2026, <a href=\"https://www.yahoo.com/news/articles/moment-driverless-waymo-taxi-drives-171000366.html\">https://www.yahoo.com/news/articles/moment-driverless-waymo-taxi-drives-171000366.html</a>. Incident occurred April 22, 2026. See also Local Democracy Reporting Service, “Driverless Waymo taxi trial faces calls for suspension after Harlesden police cordon incident in Brent,” <em>Harrow Online</em>, <a href=\"https://harrowonline.org/2026/05/11/driverless-waymo-taxi-trial-faces-calls-for-suspension-after-harlesden-police-cordon-incident-in-brent/\">https://harrowonline.org/2026/05/11/driverless-waymo-taxi-trial-faces-calls-for-suspension-after-harlesden-police-cordon-incident-in-brent/</a>, May 11, 2026.</p><p>[3]: Transport Accident Commission of Victoria, “Introducing Graham: the only person designed to survive on our roads,” TAC Victoria, <a href=\"https://www.tac.vic.gov.au/about-the-tac/media-room/news-and-events/2016/introducing-graham\">https://www.tac.vic.gov.au/about-the-tac/media-room/news-and-events/2016/introducing-graham</a>, July 21, 2016. Project collaborators: Christian Kenfield, trauma surgeon, Royal Melbourne Hospital; David Logan, crash-investigation expert, Monash University Accident Research Centre.</p><p>[4]: On Bryan Johnson, see Ashlee Vance, “Bryan Johnson’s Anti-Aging Blood Transfusion Involves Dad and Son,” Bloomberg, <a href=\"https://www.bloomberg.com/news/articles/2023-05-22/bryan-johnson-s-anti-aging-blood-transfusion-involves-dad-and-son\">https://www.bloomberg.com/news/articles/2023-05-22/bryan-johnson-s-anti-aging-blood-transfusion-involves-dad-and-son</a>, May 22, 2023, and Bryan Johnson, “Blueprint Protocol,” <a href=\"https://blueprint.bryanjohnson.com\">https://blueprint.bryanjohnson.com</a> (accessed May 17, 2026). On Thiel’s interest in parabiosis: Jeff Bercovici, “Peter Thiel Is Very, Very Interested in Young People’s Blood,” <em>Inc.</em>, <a href=\"https://www.inc.com/jeff-bercovici/peter-thiel-young-blood.html\">https://www.inc.com/jeff-bercovici/peter-thiel-young-blood.html</a>, August 1, 2016. On Ambrosia’s FDA action: U.S. Food and Drug Administration, “Statement from FDA Commissioner Scott Gottlieb, M.D., and Director of FDA’s Center for Biologics Evaluation and Research Peter Marks, M.D., Ph.D., cautioning consumers against receiving young donor plasma infusions that are promoted as unproven treatment for varying conditions,” FDA Press Announcements, <a href=\"https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/important-information-about-young-donor-plasma-infusions-profit\">https://www.fda.gov/news-events/press-announcements/statement-fda-commissioner-scott-gottlieb-md-and-director-fdas-center-biologics-evaluation-and-0</a>, February 19, 2019.</p><p>[5]: Christopher Horrocks, “The Sampo: Virtual Intelligence as Amplifier,” <em>Virtual Intelligence</em> (Substack), <a href=\"https://chorrocks.substack.com/p/the-sampo-virtual-intelligence-as\">https://chorrocks.substack.com/p/the-sampo-virtual-intelligence-as</a>, April 7, 2026. The discipline of meta-audit and periodic disengagement is operationalized in the companion Sampo Diagnostic Kit, <a href=\"https://candc3d.github.io/sampo-diagnostic/\">https://candc3d.github.io/sampo-diagnostic/</a>.</p><p>[6]: Larry Niven, <em>Protector</em> (New York: Ballantine Books, September 1973), ISBN 0-345-23486-3. The Pak material first appeared in the novella “The Adults,” <em>Galaxy</em> (June 1967), which forms the first half of the novel.</p><p>[7]: Harry G. Frankfurt, “Freedom of the Will and the Concept of a Person,” <em>The Journal of Philosophy</em> 68, no. 1 (January 14, 1971): 5–20, <a href=\"https://www.jstor.org/stable/2024717\">https://www.jstor.org/stable/2024717</a>.</p><p>[8]: Terry Nation (writer), <em>Genesis of the Daleks</em>, directed by David Maloney, produced by Philip Hinchcliffe, <em>Doctor Who</em>, season 12, serial 4, six episodes, BBC1, 8 March – 12 April 1975.</p><p>[9]: H. G. Wells, <em>The War in the Air, and Particularly How Mr. Bert Smallways Fared While It Lasted</em> (London: George Bell and Sons, 1908). Project Gutenberg eText: <a href=\"https://www.gutenberg.org/files/780/780-h/780-h.htm\">https://www.gutenberg.org/ebooks/780</a>.</p><p>[10]: On Sergio Canavero’s 2017 publicity, see Sarah Knapton, “Cryogenically frozen brains will be ‘woken up’ and transplanted in donor bodies within three years, neurosurgeon claims,” <em>The Telegraph</em>, <a href=\"https://www.telegraph.co.uk/science/2017/04/27/cryogenically-frozen-brains-will-woken-transplanted-donor-bodies/\">https://www.telegraph.co.uk/science/2017/04/27/cryogenically-frozen-brains-will-woken-transplanted-donor-bodies/</a>, April 27, 2017. See also Xiaoping Ren, Sergio Canavero, et al., “First cephalosomatic anastomosis in a human model,” <em>Surgical Neurology International</em> 8, no. 276 (November 17, 2017), <a href=\"https://surgicalneurologyint.com/surgicalint-articles/first-cephalosomatic-anastomosis-in-a-human-model/\">https://surgicalneurologyint.com/surgicalint-articles/first-cephalosomatic-anastomosis-in-a-human-model/</a>. On the earlier rhesus monkey work, see Robert J. White, L. R. Wolin, Leo C. Massopust Jr., N. Taslitz, and J. Verdura, “Cephalic exchange transplantation in the monkey,” <em>Surgery</em> 70, no. 1 (July 1971): 135–139, <a href=\"https://pubmed.ncbi.nlm.nih.gov/4933395/\">https://pubmed.ncbi.nlm.nih.gov/4933395/</a>. As of this writing, no functional human head transplant has been performed; the spinal-cord reconnection problem remains unsolved.</p><div><hr></div><p><em>The opinions expressed are my own and do not reflect any official or unofficial institutional position of the University of Pennsylvania.</em></p>",
+ "has_dynamic_content": false,
+ "truncated_body_text": "",
+ "wordcount": 5318,
+ "post_preview_limit": null,
+ "language": "en",
+ "postTags": [
+  {
+   "id": "04b73c7c-b55a-44f6-ae02-303f0c6db2fc",
+   "publication_id": 8222267,
+   "name": "interiority",
+   "slug": "interiority",
+   "hidden": false
+  },
+  {
+   "id": "0ca74c2b-e5f5-4a7c-982b-626a58b56c40",
+   "publication_id": 8222267,
+   "name": "automation labor",
+   "slug": "automation-labor",
+   "hidden": false
+  },
+  {
+   "id": "13eb5495-1170-4952-837f-149c631c1614",
+   "publication_id": 8222267,
+   "name": "vir",
+   "slug": "vir",
+   "hidden": false
+  },
+  {
+   "id": "28bbc732-2807-4a66-8833-3945cc65076b",
+   "publication_id": 8222267,
+   "name": "karp",
+   "slug": "karp",
+   "hidden": false
+  },
+  {
+   "id": "2df86ba7-32a6-400f-a64e-bf484cfbff13",
+   "publication_id": 8222267,
+   "name": "Terry Nation",
+   "slug": "terry-nation",
+   "hidden": false
+  },
+  {
+   "id": "344c21ad-f2ca-4ca8-98cf-d016f4a69d65",
+   "publication_id": 8222267,
+   "name": "AI embodiment",
+   "slug": "ai-embodiment",
+   "hidden": false
+  },
+  {
+   "id": "34b22d9e-92a7-430d-b6de-b453e6fc46a4",
+   "publication_id": 8222267,
+   "name": "technology",
+   "slug": "technology",
+   "hidden": false
+  },
+  {
+   "id": "35951a3f-d08d-423a-bc87-6e2d685f1c66",
+   "publication_id": 8222267,
+   "name": "embodied cognition",
+   "slug": "embodied-cognition",
+   "hidden": false
+  },
+  {
+   "id": "37344b1b-dbe6-4ce7-b278-4d80e95d83d2",
+   "publication_id": 8222267,
+   "name": "personal",
+   "slug": "personal",
+   "hidden": false
+  },
+  {
+   "id": "46120797-16c2-49d3-9c56-75a940482969",
+   "publication_id": 8222267,
+   "name": "philosophy",
+   "slug": "philosophy",
+   "hidden": false
+  },
+  {
+   "id": "4778494a-ceea-4bcf-8d1d-ff2e0a553595",
+   "publication_id": 8222267,
+   "name": "artificial intelligence",
+   "slug": "artificial-intelligence",
+   "hidden": false
+  },
+  {
+   "id": "47c3b2c7-df30-4ab2-bdea-a1ddd2420e6e",
+   "publication_id": 8222267,
+   "name": "palantir",
+   "slug": "palantir",
+   "hidden": false
+  },
+  {
+   "id": "57db7ab8-d36f-43ee-affa-62d2edd82002",
+   "publication_id": 8222267,
+   "name": "H. G. Wells",
+   "slug": "h-g-wells",
+   "hidden": false
+  },
+  {
+   "id": "5a7350cf-8cba-4dd1-b0b7-fc02a5a654fa",
+   "publication_id": 8222267,
+   "name": "Larry Niven",
+   "slug": "larry-niven",
+   "hidden": false
+  },
+  {
+   "id": "5d2366f1-e839-4e27-bed5-8b8ed5385b8c",
+   "publication_id": 8222267,
+   "name": "science fiction",
+   "slug": "science-fiction",
+   "hidden": false
+  },
+  {
+   "id": "75038e2b-e48a-4f98-8f51-8096a5ed2c09",
+   "publication_id": 8222267,
+   "name": "robot",
+   "slug": "robot",
+   "hidden": false
+  },
+  {
+   "id": "76b60c61-490a-4b10-b367-a3978071c3ce",
+   "publication_id": 8222267,
+   "name": "protector",
+   "slug": "protector",
+   "hidden": false
+  },
+  {
+   "id": "7d67f7a3-2ee3-458b-9fd4-381d05c627fb",
+   "publication_id": 8222267,
+   "name": "robots",
+   "slug": "robots",
+   "hidden": false
+  },
+  {
+   "id": "83696de0-3e2b-4d4f-b2d4-7ff89d7d57b4",
+   "publication_id": 8222267,
+   "name": "parabiosis",
+   "slug": "parabiosis",
+   "hidden": false
+  },
+  {
+   "id": "948bdc74-fce1-4eeb-8987-015cbb5cfc50",
+   "publication_id": 8222267,
+   "name": "cognition",
+   "slug": "cognition",
+   "hidden": false
+  },
+  {
+   "id": "96e68b70-a979-47b0-ad09-34147e5c5d54",
+   "publication_id": 8222267,
+   "name": "bodies",
+   "slug": "bodies",
+   "hidden": false
+  },
+  {
+   "id": "9c3176ae-792d-49c1-b407-5bb2ce9f23fc",
+   "publication_id": 8222267,
+   "name": "ai",
+   "slug": "ai",
+   "hidden": false
+  },
+  {
+   "id": "a5255876-c6f7-47e3-a381-98a9225e10d0",
+   "publication_id": 8222267,
+   "name": "Peter Thiel",
+   "slug": "peter-thiel",
+   "hidden": false
+  },
+  {
+   "id": "a54020f5-060a-456e-b32c-464d25de8d8b",
+   "publication_id": 8222267,
+   "name": "amplification",
+   "slug": "amplification",
+   "hidden": false
+  },
+  {
+   "id": "b1b3a591-8bc5-4c8e-a630-66a3e04d264d",
+   "publication_id": 8222267,
+   "name": "gig work",
+   "slug": "gig-work",
+   "hidden": false
+  },
+  {
+   "id": "b590329f-4bf7-4dd5-aba2-577dceabbb3b",
+   "publication_id": 8222267,
+   "name": "body",
+   "slug": "body",
+   "hidden": false
+  },
+  {
+   "id": "bc827e15-4abc-4897-a258-1ce4cbc46d2d",
+   "publication_id": 8222267,
+   "name": "embodiment",
+   "slug": "embodiment",
+   "hidden": false
+  },
+  {
+   "id": "cd8553a6-66f5-42e9-ae97-481de864a593",
+   "publication_id": 8222267,
+   "name": "consciousness",
+   "slug": "consciousness",
+   "hidden": false
+  },
+  {
+   "id": "d4616d63-bdf1-4ac0-98ba-fd705150bc34",
+   "publication_id": 8222267,
+   "name": "safety",
+   "slug": "safety",
+   "hidden": false
+  },
+  {
+   "id": "e2e42f52-494d-4bde-80d7-ffa222b1990e",
+   "publication_id": 8222267,
+   "name": "Bryan Johnson",
+   "slug": "bryan-johnson",
+   "hidden": false
+  },
+  {
+   "id": "e4686f5e-7af3-4498-adfa-a04f40ef6b0e",
+   "publication_id": 8222267,
+   "name": "dalek",
+   "slug": "dalek",
+   "hidden": false
+  },
+  {
+   "id": "e593098a-6626-4afd-846c-c0733bb7975d",
+   "publication_id": 8222267,
+   "name": "interlude",
+   "slug": "interlude",
+   "hidden": false
+  },
+  {
+   "id": "feb44769-a9b3-468a-82f6-803991afe123",
+   "publication_id": 8222267,
+   "name": "generative AI",
+   "slug": "generative-ai",
+   "hidden": false
+  }
+ ],
+ "postCountryBlocks": [],
+ "headlineTest": null,
+ "coverImagePalette": {
+  "Vibrant": {
+   "rgb": [
+    174.9418604651163,
+    151.22093023255812,
+    80.05813953488372
+   ],
+   "population": 0
+  },
+  "DarkVibrant": {
+   "rgb": [
+    90.96976744186047,
+    78.63488372093023,
+    41.63023255813953
+   ],
+   "population": 0
+  },
+  "LightVibrant": {
+   "rgb": [
+    228,
+    220,
+    196
+   ],
+   "population": 665
+  },
+  "Muted": {
+   "rgb": [
+    148,
+    132,
+    106
+   ],
+   "population": 55
+  },
+  "DarkMuted": {
+   "rgb": [
+    100,
+    88,
+    68
+   ],
+   "population": 10
+  },
+  "LightMuted": {
+   "rgb": [
+    204,
+    196,
+    173
+   ],
+   "population": 431
+  }
+ },
+ "publishedBylines": [
+  {
+   "id": 474704088,
+   "name": "Christopher Horrocks",
+   "handle": "chorrocks",
+   "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/7a8cf605-dcd8-41b8-aedd-eda353c188f3_298x298.jpeg",
+   "bio": "Christopher Horrocks is a technologist at the University of Pennsylvania writing about AI and tech ethics. His concept of Virtual Intelligence bridges weak & strong AI and more accurately describes the current state of AI technology than either term.",
+   "profile_set_up_at": "2026-03-05T16:59:29.889Z",
+   "reader_installed_at": "2026-03-17T12:01:30.539Z",
+   "publicationUsers": [
+    {
+     "id": 8416243,
+     "user_id": 474704088,
+     "publication_id": 8222267,
+     "role": "admin",
+     "public": true,
+     "is_primary": true,
+     "publication": {
+      "id": 8222267,
+      "name": "Virtual Intelligence",
+      "subdomain": "chorrocks",
+      "custom_domain": null,
+      "custom_domain_optional": false,
+      "hero_text": "Contemporary AI systems produce intelligent outputs without agency, intention, or judgment. This series examines what happens when humans rely on systems that don't know true from false and right from wrong — and asks where accountability lies. ",
+      "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/69d00242-89f0-458c-89db-946df76089e4_1280x1280.png",
+      "author_id": 474704088,
+      "primary_user_id": 474704088,
+      "theme_var_background_pop": "#FF6719",
+      "created_at": "2026-03-05T16:59:38.055Z",
+      "email_from_name": null,
+      "copyright": "Christopher Horrocks",
+      "founding_plan_name": null,
+      "community_enabled": true,
+      "invite_only": false,
+      "payments_state": "disabled",
+      "language": null,
+      "explicit": false,
+      "homepage_type": "magaziney",
+      "is_personal_mode": false,
+      "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/ef6c9d30-db7b-4be9-b09d-b0dbaa139cea_1344x256.png"
+     }
+    }
+   ],
+   "is_guest": false,
+   "bestseller_tier": null,
+   "status": {
+    "bestsellerTier": null,
+    "subscriberTier": null,
+    "leaderboard": null,
+    "vip": false,
+    "badge": null,
+    "subscriber": null
+   }
+  }
+ ],
+ "reaction": null,
+ "reaction_count": 0,
+ "comment_count": 0,
+ "child_comment_count": 0,
+ "is_geoblocked": false,
+ "is_editor_preview": false,
+ "hasCashtag": false,
+ "unlockedWithIP": false,
+ "unlockedWithCampaign": false,
+ "themeVariables": {
+  "color_theme_bg_pop": "#65a30d",
+  "background_pop": "#65a30d",
+  "color_theme_bg_web": "#292524",
+  "cover_bg_color": "#292524",
+  "cover_bg_color_secondary": "#363231",
+  "background_pop_darken": "#568b0b",
+  "print_on_pop": "#ffffff",
+  "color_theme_bg_pop_darken": "#568b0b",
+  "color_theme_print_on_pop": "#ffffff",
+  "color_theme_bg_pop_20": "rgba(101, 163, 13, 0.2)",
+  "color_theme_bg_pop_30": "rgba(101, 163, 13, 0.3)",
+  "print_pop": "#65a30d",
+  "color_theme_accent": "#65a30d",
+  "cover_print_primary": "#ffffff",
+  "cover_print_secondary": "#d9d9d9",
+  "cover_print_tertiary": "#d9d9d9",
+  "cover_border_color": "#ffffff",
+  "font_family_headings_preset": "Lora,sans-serif",
+  "font_weight_headings_preset": 600,
+  "font_family_body_preset": "'Roboto Slab',sans-serif",
+  "font_weight_body_preset": 400,
+  "home_hero": "magazine-5",
+  "home_posts": "custom",
+  "web_bg_color": "#292524",
+  "background_contrast_1": "#363231",
+  "background_contrast_2": "#464242",
+  "background_contrast_3": "#656362",
+  "background_contrast_4": "#848281",
+  "background_contrast_5": "#bbbaba",
+  "color_theme_bg_contrast_1": "#363231",
+  "color_theme_bg_contrast_2": "#464242",
+  "color_theme_bg_contrast_3": "#656362",
+  "color_theme_bg_contrast_4": "#848281",
+  "color_theme_bg_contrast_5": "#bbbaba",
+  "color_theme_bg_elevated": "#363231",
+  "color_theme_bg_elevated_secondary": "#464242",
+  "color_theme_bg_elevated_tertiary": "#656362",
+  "color_theme_detail": "#3e3b3a",
+  "background_contrast_pop": "rgba(101, 163, 13, 0.4)",
+  "color_theme_bg_contrast_pop": "rgba(101, 163, 13, 0.4)",
+  "theme_bg_is_dark": "1",
+  "print_on_web_bg_color": "#ffffff",
+  "print_secondary_on_web_bg_color": "#a9a8a7",
+  "header_bg_color": "#292524",
+  "header_bg_color_h": "12.000000000000036",
+  "header_bg_color_s": "6.493506493506497%",
+  "header_bg_color_l": "15.098039215686276%",
+  "print_on_header_bg_color": "#ffffff",
+  "print_secondary_on_header_bg_color": "#a9a8a7",
+  "header_bg_contrast_1": "#363231",
+  "header_bg_contrast_2": "#464242",
+  "header_bg_contrast_3": "#656362",
+  "header_bg_contrast_4": "#848281",
+  "header_bg_elevated": "#363231",
+  "header_bg_elevated_secondary": "#464242",
+  "header_bg_elevated_tertiary": "#656362",
+  "header_detail_color": "#3e3b3a",
+  "background_pop_rgb": "101, 163, 13",
+  "color_theme_bg_pop_rgb": "101, 163, 13",
+  "color_theme_accent_rgb": "101, 163, 13"
+ },
+ "comments": []
+}

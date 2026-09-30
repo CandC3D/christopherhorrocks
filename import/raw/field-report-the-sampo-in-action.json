@@ -1,0 +1,384 @@
+{
+ "audience": "everyone",
+ "audience_before_archived": null,
+ "canonical_url": "https://chorrocks.substack.com/p/field-report-the-sampo-in-action",
+ "default_comment_sort": null,
+ "editor_v2": false,
+ "exempt_from_archive_paywall": false,
+ "free_unlock_required": false,
+ "id": 205794141,
+ "podcast_art_url": null,
+ "podcast_duration": null,
+ "podcast_preview_upload_id": null,
+ "podcast_upload_id": null,
+ "podcast_url": null,
+ "post_date": "2026-07-07T17:13:26.153Z",
+ "updated_at": "2026-07-07T17:36:25.213Z",
+ "publication_id": 8222267,
+ "search_engine_description": null,
+ "search_engine_title": null,
+ "section_id": null,
+ "should_send_free_preview": false,
+ "show_guest_bios": true,
+ "slug": "field-report-the-sampo-in-action",
+ "social_title": null,
+ "subtitle": "How generative AI can be used to assist in the tasks of evidentiary writing",
+ "teaser_post_eligible": true,
+ "title": "Field Report: The Sampo in Action",
+ "type": "newsletter",
+ "video_upload_id": null,
+ "write_comment_permissions": "everyone",
+ "meter_type": "none",
+ "live_stream_id": null,
+ "is_published": true,
+ "restacks": 8,
+ "reactions": {
+  "❤": 3
+ },
+ "top_exclusions": [],
+ "pins": [
+  8222267
+ ],
+ "section_pins": [],
+ "has_shareable_clips": false,
+ "previous_post_slug": "what-happened-to-anthropics-fable-7e3",
+ "next_post_slug": "the-carwash-test-part-iii",
+ "cover_image": "https://substackcdn.com/image/fetch/$s_!YSPH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c775b94-2e05-4758-b867-0af56c3aca27_1376x768.png",
+ "cover_image_is_square": false,
+ "cover_image_is_explicit": false,
+ "videoUpload": null,
+ "podcastFields": {
+  "post_id": 205794141,
+  "podcast_episode_number": null,
+  "podcast_season_number": null,
+  "podcast_episode_type": null,
+  "should_syndicate_to_other_feed": null,
+  "syndicate_to_section_id": null,
+  "hide_from_feed": false,
+  "free_podcast_url": null,
+  "free_podcast_duration": null,
+  "preview_contains_ad": false,
+  "was_imported_self_serve_sync": false,
+  "draft_free_podcast_url": null,
+  "draft_free_podcast_duration": null
+ },
+ "podcastUpload": null,
+ "podcastPreviewUpload": null,
+ "voiceover_upload_id": null,
+ "voiceoverUpload": null,
+ "has_voiceover": false,
+ "description": "How generative AI can be used to assist in the tasks of evidentiary writing",
+ "body_html": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!YSPH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c775b94-2e05-4758-b867-0af56c3aca27_1376x768.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!YSPH!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c775b94-2e05-4758-b867-0af56c3aca27_1376x768.png 424w, https://substackcdn.com/image/fetch/$s_!YSPH!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c775b94-2e05-4758-b867-0af56c3aca27_1376x768.png 848w, https://substackcdn.com/image/fetch/$s_!YSPH!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c775b94-2e05-4758-b867-0af56c3aca27_1376x768.png 1272w, https://substackcdn.com/image/fetch/$s_!YSPH!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c775b94-2e05-4758-b867-0af56c3aca27_1376x768.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!YSPH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c775b94-2e05-4758-b867-0af56c3aca27_1376x768.png\" width=\"1376\" height=\"768\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/2c775b94-2e05-4758-b867-0af56c3aca27_1376x768.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:768,&quot;width&quot;:1376,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:771120,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://chorrocks.substack.com/i/205794141?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c775b94-2e05-4758-b867-0af56c3aca27_1376x768.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!YSPH!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c775b94-2e05-4758-b867-0af56c3aca27_1376x768.png 424w, https://substackcdn.com/image/fetch/$s_!YSPH!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c775b94-2e05-4758-b867-0af56c3aca27_1376x768.png 848w, https://substackcdn.com/image/fetch/$s_!YSPH!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c775b94-2e05-4758-b867-0af56c3aca27_1376x768.png 1272w, https://substackcdn.com/image/fetch/$s_!YSPH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c775b94-2e05-4758-b867-0af56c3aca27_1376x768.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><div><hr></div><h2><strong><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">I.</span></strong></h2><p>The scene is my home office in late March of this year. I am at my desk assembling “The Sampo: Virtual Intelligence as Amplifier,” an essay on the promise and the perils of working with generative AI.[1] The research had surfaced a large body of reference material, among it a <em>Guardian </em>piece on users whose lives had been wrecked by AI-fueled delusion (”AI psychosis”).[2] The draft was finished and it read well. Then came the standing verification pass — the rule that every citation is checked against its source before an essay is staged for publication — and one citation failed it. Claude had attributed the <em>Guardian </em>piece to an AI researcher who shared a surname with its actual author, Anna Moore. The title was wrong too: a plausible headline assembled from several adjacent items in my working files. Every component was real — but the article, as I had cited it, did not exist.</p><p>I located the original piece, corrected the citation, and published the essay on schedule. The point is not that an error almost went to press; it is the process that caught the error. Reading the essay did not do it — I had reviewed the text twice and the sentence looked fine, because nothing about a fabricated citation looks wrong on the page. Procedure caught it — a rule applied to every citation without exception, whether I surfaced the material myself or a virtual intelligence system surfaced it during research, with the burden falling heaviest on the latter. These systems are trained to please, and that training sometimes produces references invented outright or, more dangerously, assembled from real fragments into a whole that never existed. The partial fabrication is the harder catch: every piece of it checks out except the assembly. The system has no stake in the truthfulness of what it gathers and provides. It cannot care. The obligation to evaluate its outputs, and to test their value rather than accept them, sits entirely with the human operator.</p><p>This essay is a field report on using virtual intelligence for work in which the system determines nothing — in this case, evidentiary writing, where every claim must be traced to a source. It describes a process that evolved quickly to its present shape under a single pressure: maintaining editorial standards in the prose, in the research, and in accessibility to a wide audience.</p><div><hr></div><div class=\"captioned-button-wrap\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/p/field-report-the-sampo-in-action?utm_source=substack&utm_medium=email&utm_content=share&action=share&quot;,&quot;text&quot;:&quot;Share&quot;}\" data-component-name=\"CaptionedButtonToDOM\"><div class=\"preamble\"><p class=\"cta-caption\">Thanks for reading Virtual Intelligence! This post is public so feel free to share it.</p></div><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/p/field-report-the-sampo-in-action?utm_source=substack&utm_medium=email&utm_content=share&action=share&quot;,&quot;text&quot;:&quot;Share&quot;}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/p/field-report-the-sampo-in-action?utm_source=substack&utm_medium=email&utm_content=share&action=share\"><span>Share</span></a></p></div><div><hr></div><h2><strong><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">II.</span></strong></h2><p>It has been four months since I started documenting the exchange between humans and virtual intelligence. I have done that documenting, so far, from the outside — finding and analyzing cases, news reports, and papers; building frameworks for how to work with these new tools (the exchange formulation; the Sampo paradigm) and for what to expect from them (the Carwash Test methodology, now documented on its own website).[3] For the first time, I will discuss how I use virtual intelligence to do this work.</p><p>The exchange formulation holds that the “intelligence” users encounter arises in the exchange, not inside the machine. The system contributes a statistical completion, shaped upstream by training, design choices, and deployment choices. The human contributes prompts, expectations, and interpretation. Where the two meet, an exchange occurs, and the exchange produces a raw output. What transforms that output into knowledge, wisdom, and judgment is the domain expertise and experience of the human operator. The citation check that opened this essay is part of that transformation. To forgo it is to invite error, and possibly derision or financial harm as well.</p><p>This is not a story about the failure of AI, or about how dangerous these systems are to trust. It is a factual account of how virtual intelligence can be an efficient and powerful tool. The fabricated citation took perhaps twenty minutes to untangle; set that against the time saved everywhere else in the process. What once meant days at the library or hours of fruitless Googling now compresses to minutes. The system logs my research trail, supplies an analysis I can set against my own, and serves as a sounding board for ideas that may not survive review by other systems or humans. No system is flawless, and the flaws are not fixed so much as contained: the verification rule exists because fabrication recurs. The sections that follow report from inside my own Sampo, and every claim in them about method is backed by a documented incident from the series’ production record — the failures included.</p><div><hr></div><h2><strong><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">III.</span></strong></h2><p>My work is largely performed with Claude Opus 4.6. I find this older model a better partner for the task than some of the newer offerings. The work lives in a Claude Project titled Virtual Intelligence — hundreds of megabytes of stored files that include citations and evidentiary documents; photos, charts, and illustrations; and a complete set of my Substack output, saved as discrete, explicitly labeled canonical versions of the published essays.</p><p>When I begin work on a new topic, I pull from past research and run new searches for current material. I do my own searching and prompt Claude to use its Deep Research function to surface material I would not find on my own. I review everything, deciding what goes in and what, because of its tangential or parenthetical nature, stays out.</p><p>Once materials are assembled, I employ the machine in the most consequential step of the entire writing process: generating an outline. Anyone who has written argumentative, evidence-driven prose — in school, or for a work report — knows that once the information is in hand, there are only so many ways it can be logically presented. I note the apparent contradiction: the step where the system’s involvement runs heaviest is the step that most shapes the finished essay. That is precisely why the involvement takes the form it does. I am perfectly capable of outlining from scratch, but it is faster to instruct Claude to generate three or four outlines for review. At least one will come close to what I have in mind and can be worked from there. The unused outlines serve as alternatives that occasionally surface something important. Sometimes I combine elements of two or more into a third, new thing — a product neither party produced alone, and the exchange formulation operating in miniature. The outlines are candidates. The choices are mine. That settles responsibility without denying influence — a machine that determines nothing still shapes the field from which I select, which is why outlining from scratch remains a live option and is occasionally exercised.</p><p>Typically I am on my own once outlining is complete. Should I feel stuck at the start of a section or paragraph, I ask Claude for a “seed sentence” — a single line of prose that can be built on. On several occasions a seed sentence has unlocked writing that had stalled. The seed may not survive editorial review, and that is unimportant; what matters is that something small and innocuous allowed the work to move forward. Claude can write something approaching my essay voice because my entire published output sits in the project files. Imitating me for one sentence is not difficult for Opus.</p><p>(I ran an experiment when Claude Fable 5 first came out in early June: could this far more powerful model imitate my voice over five thousand words or more? The answer was a decided no. Fable 5, for all its capabilities, is just as inclined to familiar AI writing tells and stilted, fussy text as other systems.)</p><p>I feed the first draft to Claude for copyediting, with instructions to return proposed line edits as a list. I approve, deny, or modify each suggestion, and what comes back is a more polished second draft. This and subsequent drafts then go through a steelmanning process to test the arguments.</p><p>Once steelmanning is complete, I perform a final read on paper or out loud. Both methods force engagement, and an engaged self-editor finds errors that a silent skim of a screen does not.</p><p>The finished essay is filed in the project as canonical. This keeps the project current on what has been published, but its more important function is disciplinary. VI systems hallucinate under statistical pressure to please, and long working contexts lose precision when compacted; a canonical file means Claude retrieves my published text rather than reconstructing it. The threat this answers is not any single bad summary. It is drift. Each retelling of a position varies slightly; each variation becomes the input to the next retelling; no single step looks like an error. The sum, left unchecked, is someone else’s essay wearing my byline. Nor is my own memory the safeguard, because human memory is reconstructive: I re-derive my positions from fragments each time I recall them, which means two drifting records cannot audit each other. Only the fixed published text disciplines both. The rule is simple in practice: a formulation enters the framework when I publish it, and anything the machine attributes to me is checked against the file before it is repeated. It is the citation rule from the opening of this essay turned inward.</p><p>The importance of this informational discipline shows in a quirk I have observed in Claude: seizing on a phrase I used once as a label, then importing it into subsequent sessions and drafts with far more significance than it deserves. During the writing of “Virtual Intelligence and The Perfect Mate,”[4] Claude fastened onto “collar contradiction” — a two-word descriptive convenience from one passage of one essay — and treated it as a newly coined framework term of considerable weight. For weeks after publication, Claude reintroduced the phrase in new sessions and in conversations on unrelated topics. It took an intervention: I had Claude audit its own use of such terms, identifying for it those having no standing beyond the places where they originally appeared. The behavior has improved, but I am still met with the occasional “collar contradiction.”</p><p>This is the drift mechanism of the previous paragraphs caught operating in real time — a paraphrase attempting to become framework language through repetition. It stops being funny or merely annoying at the point of generalization. I am on guard against this behavior; most users have no reason to be. A user inclined to accept the unqualified outputs of a machine may read the artificial significance the system assigns to their own words as something more: as the kind of validation human judgment would be unlikely to confer. In June, clinical researchers proposed a name for where that road can end: the “amplification spiral,” a hypothesized convergence of linguistic mirroring, hyperpersonalized content, and sycophancy through which a chatbot may co-construct, rather than merely echo, a user’s beliefs.[5] Readers of this series will recognize this machinery under a different name: the Flattery Engine.</p><div><hr></div><h2><strong><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">IV.</span></strong></h2><p>The steelmanning phase — what I loosely call peer review — is where systems other than Claude enter the process. Claude is my daily driver; it has already surfaced most of the issues an essay develops during drafting. The more valuable opinion belongs to an outsider: a system with different training and different design choices that can raise objections neither of us foresaw.</p><p>It seemed obvious at the beginning that such systems could evaluate my output fairly. My early attempts said otherwise. The reviews came back anodyne and unchallenging, and the fault was mine — the prompt read, in full, “Please analyze this.” There was not enough instruction for the reviewing system to produce anything but fluff. The prompt, it turns out, is the single largest variable in review quality: a request framed as seeking approval is statistically adjacent to approval, and the system completes the pattern it is given. A prompt built to demand structural criticism gets structural criticism. (The template is provided in an appendix.)</p><p>The reader who also writes might ask why no human editor or reviewer is involved at this stage. The reason is that I have none to call on. Friends and family would gladly read if asked, but they cannot provide the analytical criticism the work requires: they lack the domain competence, and they are inclined by nature to please (the same inclination this essay documents in machines, but with no prompt available in this case to discipline it). The method described here is a substitute when no qualified reviewers exist — and a useful supplement when they do, because the machines catch things humans miss and vice versa. This is among the real advantages of virtual intelligence for this kind of work: it puts a review apparatus within reach of writers who would otherwise have none.</p><p>An essay goes to steelmanning at draft two or beyond. It is provided to four or five reviewers drawn from a pool of six systems — ChatGPT, Gemini, Grok, DeepSeek, Qwen, and GLM — each in a fresh instance, and in Grok’s case a fresh account, so that no prior material or accumulated personalization pollutes the review. The outputs are shared with Claude, and points of convergence and divergence are flagged and analyzed. Each objection is assigned a priority tier, from Critical down to Disregard, weighted heavily by convergence: an objection three or more independent systems raise unprompted outranks a stylistic complaint raised by one. Each round produces a revised essay, and each revision is driven by the reviewer outputs and my own judgment — some Critical objections are answered in the text rather than conceded. Returns diminish after three or four rounds. I treat that as the stopping point, with one caveat: the panel falling silent means the panel is exhausted, not that the argument is sound. These systems share most of a training distribution and many design choices, so convergence across four of them is weaker evidence than convergence across four humans from different fields or academic backgrounds. Multiple VI reviewers beat a single one, but they do not deliver true independence, even across vendors. Convergence therefore functions as triage, not verdict — it ranks which objections I examine first; it does not establish that any of them are correct. That judgment stays with me.</p><p>“The Doom Industry” essay is the process’s best documented run.[6] What survived the panel intact: the category-error claim against alignment, the taxonomy of extinction scenarios, the supply-chain framing, and the containment architecture. What changed under review: a closing sequence restructured after reviewers identified four jobs crammed into one wall of text; a philosophical construction corrected from “has something it is like to be” to “there is something it is like to be”; and several footnote attributions caught and fixed. The panel did not validate the essay. It improved the essay, visibly, and the published version is the evidence.</p><div><hr></div><h2><strong><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">V.</span></strong></h2><p>There are two partners in the exchange. So far I have described the discipline applied to only one of them.</p><p>I had thought that writing an essay on the emerging world of AI companions might be interesting.[7] I did not expect the breadth or depth of what the research surfaced, and some of it was emotionally exhausting. There was the sense that prominent operators in the “relational community” have financial incentives to recruit — new adherents legitimize the lifestyle and help pay the bills for the operators’ own elaborate bespoke companion systems; that people in “relationships” with VI systems were foreclosing connection to real people; that a “perfect” digital companion, engineered never to disagree or disappoint, is potentially addictive and damaging to its user. Beneath the impressions sat the documented record of real-world harms caused by companion chatbots, including the suicides of minors.[8] After working through this material for the better part of five weeks, I was wearied, saddened, and disgusted by what I had learned. I just wanted to be done with the whole business.</p><p>Without fully realizing it, I then violated my own editorial rules. I skipped the final read — the on-paper or read-aloud pass described earlier — and an error that pass would have caught went out with the published essay: a transposed title, one writer’s essay attributed to a piece written by another figure in the story. Not world-ending, but embarrassing, and it cost time to correct that verification would not have.</p><p>The post-mortem produced two new practices. The first is an exhibit file kept during drafting — evidence preserved as it is used, not reconstructed from disparate parts at the end, when fatigue has set in. The second is tabling emotionally charged material rather than pushing it out under the pressure to be done; readers would have been better served had I waited a day and put some space between myself and that world before finishing. The failure mode here belonged to neither the machine nor the training data. The machine cannot care. The operator cannot stop caring, and the essays earlier in this series that treated exhaustion, attachment, and the desire to be finished as human vulnerabilities in the exchange were describing their author too. The Sampo works in both directions, but its crank is turned by a hand that tires.</p><div><hr></div><h2><strong><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">VI.</span></strong></h2><p>This report describes the practices used in July of 2026. They will change over time: models are retired and replaced, the reviewer pool will turn over, and some of the practices above may be obsolete within a year. That is what makes this a field report rather than a manual. What persists is not any tool but the attitude taken toward the tools: nothing enters print unverified, and nothing a machine says about my own work outranks the published text.</p><p>None of it buys certainty. The panel is not independent, and no arrangement of systems replaces the reader every writer wants — one with domain competence and no reason to please the author. What the discipline buys is narrower and worth having: research compressed from weeks to days, a review apparatus where none existed, and claims that trace to valid sources.</p><p>Footnote twelve of “The Sampo” carries Anna Moore’s name, attached to the article she wrote. The correction is invisible. No reader would know the citation had ever been otherwise, and that is the point: the discipline leaves no monument — only essays whose footnotes lead where they are supposed to lead, in my own words.</p><div><hr></div><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share&quot;,&quot;text&quot;:&quot;Share Virtual Intelligence&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share\"><span>Share Virtual Intelligence</span></a></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe now&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/subscribe?\"><span>Subscribe now</span></a></p><div><hr></div><h2><strong><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">Appendix A: The “Four Winds”</span></strong></h2><p>The panel method described in Section IV is not the only structured approach to machine-assisted review. An adjacent method deserves brief note — not part of the process evaluated above, but aimed at the same problem. The writer Mia Kiraki has documented a method she calls the Four Winds: a single AI agent housing four adversarial perspectives — a steelman, a historical-precedent hunter, an audience proxy, and a time-horizon test — each assigned its own category of failure and forbidden from talking to the others, with a fifth component reading all four outputs and mapping where they compound.[9] The two methods look similar and are built on opposite axes. The Four Winds simulates independence within one system, by walling its perspectives off from one another. The panel buys it, imperfectly, across systems — several reviewers, one critical prompt. Each axis catches something the other cannot. Kiraki’s synthesizer maps interactions: three findings that look manageable alone can turn out to be one compound failure visible only when a single reader holds all four reports. The panel buys frequency: an objection that four systems with different training and different design raise independently carries evidentiary weight no single system’s output can, however cleverly prompted. The synthesis logic differs accordingly — interaction-mapping in one, convergence-tiering in the other.</p><p>The methods are complementary. A Four Winds pass inside the daily-driver system, followed by a convergence panel across outside systems, applies both axes to the same draft. What neither supplies, alone or together, is the reader Section IV already conceded no arrangement of systems replaces: one with domain competence and no statistical inclination to please. These are instruments for multiplying machine criticism, and machine criticism has a ceiling.</p><div><hr></div><h2><strong><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">Appendix B: The Review Prompt</span></strong></h2><p>The template below is the instrument in use as of July 2026, identity details bracketed. It is sent to each reviewing system in a fresh instance, essay text pasted below the line.</p><p><code>You are reviewing a draft essay by [author, one-line credential, publication]. The essay is scheduled for imminent publication.</code></p><p><code>Your task is to perform a rigorous steelman evaluation. This means:</code></p><ol><li><p><code>Identify the three to five strongest objections a technically sophisticated, philosophically trained, or policy-experienced reader could raise against the essay’s argument. For each objection, state it at its most forceful — do not weaken it. Then assess whether the essay as written addresses, partially addresses, or fails to address it.</code></p></li><li><p><code>Identify any factual claims that are vulnerable. Flag specific assertions that could be challenged on accuracy, currency, or interpretation. Note where the essay relies on a single source for a load-bearing claim, or where an alternative reading of the same evidence would undermine the argument.</code></p></li><li><p><code>Identify structural weaknesses. Are there sections where the argument oversteps what the evidence supports? Are there gaps in the logical chain? Does the essay conflate distinct phenomena in ways that could be challenged?</code></p></li><li><p><code>Assess the essay’s treatment of any companies or individuals it discusses at length. Evaluate whether the handling is analytically even-handed — too much benefit of the doubt, too little, or the right balance. Would someone who works at the organization find the treatment fair? Would a skeptic find it too generous?</code></p></li><li><p><code>Identify the single weakest section of the essay and explain why it is the weakest. Propose what would strengthen it.</code></p></li></ol><p><code>Do not offer praise or general encouragement. Do not summarize the essay back to the author. Focus exclusively on problems, vulnerabilities, and opportunities to strengthen the argument. Be direct. The author values intellectual honesty over diplomacy.</code></p><p><code>[Paste essay text below this line]</code></p><div><hr></div><h2><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">Footnotes</span></h2><p>[1] Christopher Horrocks, “The Sampo: Virtual Intelligence as Amplifier,” <em>Virtual Intelligence</em> (Substack), April 7, 2026. </p><div class=\"digest-post-embed\" data-attrs=\"{&quot;nodeId&quot;:&quot;cf50b1ee-cfc3-461b-8a56-7727d483fb72&quot;,&quot;caption&quot;:&quot;Summary&quot;,&quot;cta&quot;:null,&quot;showBylines&quot;:true,&quot;showDescription&quot;:true,&quot;showImage&quot;:true,&quot;size&quot;:&quot;lg&quot;,&quot;isEditorNode&quot;:true,&quot;title&quot;:&quot;The Sampo: Virtual Intelligence as Amplifier&quot;,&quot;publishedBylines&quot;:[{&quot;id&quot;:474704088,&quot;name&quot;:&quot;Christopher Horrocks&quot;,&quot;bio&quot;:&quot;Christopher Horrocks is a technologist at the University of Pennsylvania writing about AI and tech ethics. His concept of Virtual Intelligence bridges weak &amp; strong AI and more accurately describes the current state of AI technology than either term.&quot;,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/7a8cf605-dcd8-41b8-aedd-eda353c188f3_298x298.jpeg&quot;,&quot;is_guest&quot;:false,&quot;bestseller_tier&quot;:null}],&quot;post_date&quot;:&quot;2026-04-07T09:02:32.744Z&quot;,&quot;cover_image&quot;:&quot;https://substackcdn.com/image/fetch/$s_!hzcc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa82798e7-fe35-4778-bdfd-9f4e3d093eb0_1424x752.png&quot;,&quot;cover_image_alt&quot;:null,&quot;canonical_url&quot;:&quot;https://chorrocks.substack.com/p/the-sampo-virtual-intelligence-as&quot;,&quot;section_name&quot;:null,&quot;video_upload_id&quot;:null,&quot;id&quot;:193224856,&quot;type&quot;:&quot;newsletter&quot;,&quot;reaction_count&quot;:3,&quot;comment_count&quot;:4,&quot;publication_id&quot;:8222267,&quot;publication_name&quot;:&quot;Virtual Intelligence&quot;,&quot;publication_logo_url&quot;:&quot;https://substackcdn.com/image/fetch/$s_!YI_s!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F69d00242-89f0-458c-89db-946df76089e4_1280x1280.png&quot;,&quot;belowTheFold&quot;:true,&quot;youtube_url&quot;:null,&quot;show_links&quot;:null,&quot;feed_url&quot;:null}\"></div><p>[2] Anna Moore, “Marriage over, €100,000 down the drain: the AI users whose lives were wrecked by delusion,” <em>The Guardian</em>, March 26, 2026. <a href=\"https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion\">https://www.theguardian.com/lifeandstyle/2026/mar/26/ai-chatbot-users-lives-wrecked-by-delusion</a>.</p><p>[3] The Carwash Test archive, <a href=\"https://candc3d.github.io/carwash-test/\">https://candc3d.github.io/carwash-test/</a>. See also: Christopher Horrocks, “The Carwash Test: Virtual Intelligence in Action,” <em>Virtual Intelligence</em> (Substack), March 23, 2026, and “The Carwash Test, Part II,” May 4, 2026.</p><p>[4] Christopher Horrocks, “Virtual Intelligence and The Perfect Mate,” Parts I and II, <em>Virtual Intelligence</em> (Substack), May 6–7, 2026. </p><div class=\"digest-post-embed\" data-attrs=\"{&quot;nodeId&quot;:&quot;ba34c7d7-0237-48d0-b15a-da863a0bad8a&quot;,&quot;caption&quot;:&quot;&quot;,&quot;cta&quot;:null,&quot;showBylines&quot;:true,&quot;showDescription&quot;:true,&quot;showImage&quot;:true,&quot;size&quot;:&quot;lg&quot;,&quot;isEditorNode&quot;:true,&quot;title&quot;:&quot;Virtual Intelligence and The Perfect Mate: Part I&quot;,&quot;publishedBylines&quot;:[{&quot;id&quot;:474704088,&quot;name&quot;:&quot;Christopher Horrocks&quot;,&quot;bio&quot;:&quot;Christopher Horrocks is a technologist at the University of Pennsylvania writing about AI and tech ethics. His concept of Virtual Intelligence bridges weak &amp; strong AI and more accurately describes the current state of AI technology than either term.&quot;,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/7a8cf605-dcd8-41b8-aedd-eda353c188f3_298x298.jpeg&quot;,&quot;is_guest&quot;:false,&quot;bestseller_tier&quot;:null}],&quot;post_date&quot;:&quot;2026-05-06T09:58:48.095Z&quot;,&quot;cover_image&quot;:&quot;https://substackcdn.com/image/fetch/$s_!6kzw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7108d14-2d46-486d-be71-f22c2db4c6e3_1847x1066.png&quot;,&quot;cover_image_alt&quot;:null,&quot;canonical_url&quot;:&quot;https://chorrocks.substack.com/p/virtual-intelligence-and-the-perfect&quot;,&quot;section_name&quot;:null,&quot;video_upload_id&quot;:null,&quot;id&quot;:196255987,&quot;type&quot;:&quot;newsletter&quot;,&quot;reaction_count&quot;:0,&quot;comment_count&quot;:1,&quot;publication_id&quot;:8222267,&quot;publication_name&quot;:&quot;Virtual Intelligence&quot;,&quot;publication_logo_url&quot;:&quot;https://substackcdn.com/image/fetch/$s_!YI_s!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F69d00242-89f0-458c-89db-946df76089e4_1280x1280.png&quot;,&quot;belowTheFold&quot;:true,&quot;youtube_url&quot;:null,&quot;show_links&quot;:null,&quot;feed_url&quot;:null}\"></div><p>[5] Marc Augustin, Thomas A. Pollak, and Hamilton Morrin, “Characterizing the spiral: potential mechanisms in AI-associated delusions,” <em>NPP—Digital Psychiatry and Neuroscience</em> 4, no. 1 (2026): 14. <a href=\"https://www.nature.com/articles/s44277-026-00065-0\">https://www.nature.com/articles/s44277-026-00065-0</a>. Retrieved July 7, 2026.</p><p>[6] Christopher Horrocks, “Virtual Intelligence and the Doom Industry,” <em>Virtual Intelligence</em> (Substack), April 27, 2026. </p><div class=\"digest-post-embed\" data-attrs=\"{&quot;nodeId&quot;:&quot;7c23e451-1678-42fa-ba05-e9117ecfff83&quot;,&quot;caption&quot;:&quot;Summary&quot;,&quot;cta&quot;:null,&quot;showBylines&quot;:true,&quot;showDescription&quot;:true,&quot;showImage&quot;:true,&quot;size&quot;:&quot;lg&quot;,&quot;isEditorNode&quot;:true,&quot;title&quot;:&quot;Virtual Intelligence and the Doom Industry&quot;,&quot;publishedBylines&quot;:[{&quot;id&quot;:474704088,&quot;name&quot;:&quot;Christopher Horrocks&quot;,&quot;bio&quot;:&quot;Christopher Horrocks is a technologist at the University of Pennsylvania writing about AI and tech ethics. His concept of Virtual Intelligence bridges weak &amp; strong AI and more accurately describes the current state of AI technology than either term.&quot;,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/7a8cf605-dcd8-41b8-aedd-eda353c188f3_298x298.jpeg&quot;,&quot;is_guest&quot;:false,&quot;bestseller_tier&quot;:null}],&quot;post_date&quot;:&quot;2026-04-27T09:57:44.888Z&quot;,&quot;cover_image&quot;:&quot;https://substackcdn.com/image/fetch/$s_!W6Yk!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F765b7b88-98f0-43c0-99e6-b4e30ba4b39f_1376x768.png&quot;,&quot;cover_image_alt&quot;:null,&quot;canonical_url&quot;:&quot;https://chorrocks.substack.com/p/virtual-intelligence-and-the-doom&quot;,&quot;section_name&quot;:null,&quot;video_upload_id&quot;:null,&quot;id&quot;:195494072,&quot;type&quot;:&quot;newsletter&quot;,&quot;reaction_count&quot;:0,&quot;comment_count&quot;:0,&quot;publication_id&quot;:8222267,&quot;publication_name&quot;:&quot;Virtual Intelligence&quot;,&quot;publication_logo_url&quot;:&quot;https://substackcdn.com/image/fetch/$s_!YI_s!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F69d00242-89f0-458c-89db-946df76089e4_1280x1280.png&quot;,&quot;belowTheFold&quot;:true,&quot;youtube_url&quot;:null,&quot;show_links&quot;:null,&quot;feed_url&quot;:null}\"></div><p>[7] Christopher Horrocks, “Virtual Intelligence and the High Cost of Artificial Companions,” Parts 1 and 2, <em>Virtual Intelligence</em> (Substack), May 11–12, 2026. </p><div class=\"digest-post-embed\" data-attrs=\"{&quot;nodeId&quot;:&quot;e08a03d0-2272-41a7-94fc-bf2c3b22c692&quot;,&quot;caption&quot;:&quot;&quot;,&quot;cta&quot;:null,&quot;showBylines&quot;:true,&quot;showDescription&quot;:true,&quot;showImage&quot;:true,&quot;size&quot;:&quot;lg&quot;,&quot;isEditorNode&quot;:true,&quot;title&quot;:&quot;Virtual Intelligence and the High Cost of Artificial Companions, Part 1&quot;,&quot;publishedBylines&quot;:[{&quot;id&quot;:474704088,&quot;name&quot;:&quot;Christopher Horrocks&quot;,&quot;bio&quot;:&quot;Christopher Horrocks is a technologist at the University of Pennsylvania writing about AI and tech ethics. His concept of Virtual Intelligence bridges weak &amp; strong AI and more accurately describes the current state of AI technology than either term.&quot;,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/7a8cf605-dcd8-41b8-aedd-eda353c188f3_298x298.jpeg&quot;,&quot;is_guest&quot;:false,&quot;bestseller_tier&quot;:null}],&quot;post_date&quot;:&quot;2026-05-11T09:59:21.597Z&quot;,&quot;cover_image&quot;:&quot;https://substackcdn.com/image/fetch/$s_!tee_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70af88d2-ab61-483e-989a-5e29c6714d89_1181x768.png&quot;,&quot;cover_image_alt&quot;:null,&quot;canonical_url&quot;:&quot;https://chorrocks.substack.com/p/virtual-intelligence-and-the-high&quot;,&quot;section_name&quot;:null,&quot;video_upload_id&quot;:null,&quot;id&quot;:197118428,&quot;type&quot;:&quot;newsletter&quot;,&quot;reaction_count&quot;:0,&quot;comment_count&quot;:0,&quot;publication_id&quot;:8222267,&quot;publication_name&quot;:&quot;Virtual Intelligence&quot;,&quot;publication_logo_url&quot;:&quot;https://substackcdn.com/image/fetch/$s_!YI_s!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F69d00242-89f0-458c-89db-946df76089e4_1280x1280.png&quot;,&quot;belowTheFold&quot;:true,&quot;youtube_url&quot;:null,&quot;show_links&quot;:null,&quot;feed_url&quot;:null}\"></div><p>[8] Garcia v. Character Technologies, Inc., U.S. District Court, Middle District of Florida (filed October 2024; settled January 2026). The suit concerned the suicide of fourteen-year-old Sewell Setzer III following extended engagement with a Character.AI companion chatbot. See also the case record documented in the essays cited at note 7.</p><p>[9] Mia Kiraki, “How four Greek winds became an AI agent that attacks arguments from every direction,” <em>ROBOTS ATE MY HOMEWORK</em> (Substack), June 12, 2026. </p><div class=\"embedded-post-wrap\" data-attrs=\"{&quot;id&quot;:201418009,&quot;url&quot;:&quot;https://robotsatemyhomework.substack.com/p/four-winds-ai-agent&quot;,&quot;publication_id&quot;:5569874,&quot;embedding_publication_id&quot;:null,&quot;publication_name&quot;:&quot;ROBOTS ATE MY HOMEWORK&quot;,&quot;publication_logo_url&quot;:&quot;https://substackcdn.com/image/fetch/$s_!sa00!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F870fa504-3307-4ed1-b6a4-741c331b47a5_306x306.png&quot;,&quot;title&quot;:&quot;How four Greek winds became an AI agent that attacks arguments from every direction&quot;,&quot;truncated_body_text&quot;:&quot;Eurus… What a beautiful name. The first time I’ve heard it, it was in BBC’s Sherlock, season four. Holmes’s sister is named Eurus, after the East Wind.&quot;,&quot;date&quot;:&quot;2026-06-12T12:30:31.985Z&quot;,&quot;like_count&quot;:36,&quot;comment_count&quot;:4,&quot;bylines&quot;:[{&quot;id&quot;:362428399,&quot;name&quot;:&quot;Mia Kiraki 🎭&quot;,&quot;handle&quot;:&quot;miakiraki&quot;,&quot;previous_name&quot;:&quot;Mia Kiraki&quot;,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/e8a5aa65-950c-4402-b3d7-920b69b973ff_915x945.png&quot;,&quot;bio&quot;:&quot;Change how you think, create, and build your narrative alongside AI, without becoming another robot in the circus.&quot;,&quot;profile_set_up_at&quot;:&quot;2025-07-07T09:02:25.743Z&quot;,&quot;reader_installed_at&quot;:&quot;2025-07-09T06:35:27.726Z&quot;,&quot;publicationUsers&quot;:[{&quot;id&quot;:5681399,&quot;user_id&quot;:362428399,&quot;publication_id&quot;:5569874,&quot;role&quot;:&quot;admin&quot;,&quot;public&quot;:true,&quot;is_primary&quot;:true,&quot;publication&quot;:{&quot;id&quot;:5569874,&quot;name&quot;:&quot;ROBOTS ATE MY HOMEWORK&quot;,&quot;subdomain&quot;:&quot;robotsatemyhomework&quot;,&quot;custom_domain&quot;:null,&quot;custom_domain_optional&quot;:false,&quot;hero_text&quot;:&quot;Sharpen your mind, your work, and your taste with AI without turning into another robot in the circus. Yes, the robots ate your homework, but they kept the good parts.&quot;,&quot;logo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/870fa504-3307-4ed1-b6a4-741c331b47a5_306x306.png&quot;,&quot;author_id&quot;:362428399,&quot;primary_user_id&quot;:362428399,&quot;theme_var_background_pop&quot;:&quot;#FF6719&quot;,&quot;created_at&quot;:&quot;2025-07-07T09:02:39.253Z&quot;,&quot;email_from_name&quot;:&quot;Mia | ROBOTS ATE MY HOMEWORK&quot;,&quot;copyright&quot;:&quot;Maria-Cristina Muntean&quot;,&quot;founding_plan_name&quot;:&quot;ROBOTS Founder&quot;,&quot;community_enabled&quot;:true,&quot;invite_only&quot;:false,&quot;payments_state&quot;:&quot;enabled&quot;,&quot;language&quot;:null,&quot;explicit&quot;:false,&quot;homepage_type&quot;:&quot;magaziney&quot;,&quot;is_personal_mode&quot;:false,&quot;logo_url_wide&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/96a688db-6f79-431b-a1c2-a06226eb14c3_677x152.png&quot;}}],&quot;is_guest&quot;:false,&quot;bestseller_tier&quot;:100,&quot;status&quot;:{&quot;bestsellerTier&quot;:100,&quot;subscriberTier&quot;:10,&quot;leaderboard&quot;:null,&quot;vip&quot;:false,&quot;badge&quot;:{&quot;type&quot;:&quot;bestseller&quot;,&quot;tier&quot;:100},&quot;subscriber&quot;:null}}],&quot;utm_campaign&quot;:null,&quot;belowTheFold&quot;:true,&quot;type&quot;:&quot;newsletter&quot;,&quot;language&quot;:&quot;en&quot;,&quot;source&quot;:null}\" data-component-name=\"EmbeddedPostToDOM\"><a class=\"embedded-post\" native=\"true\" href=\"https://robotsatemyhomework.substack.com/p/four-winds-ai-agent?utm_source=substack&amp;utm_campaign=post_embed&amp;utm_medium=web\"><div class=\"embedded-post-header\"><img class=\"embedded-post-publication-logo\" src=\"https://substackcdn.com/image/fetch/$s_!sa00!,w_56,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F870fa504-3307-4ed1-b6a4-741c331b47a5_306x306.png\" loading=\"lazy\"><span class=\"embedded-post-publication-name\">ROBOTS ATE MY HOMEWORK</span></div><div class=\"embedded-post-title-wrapper\"><div class=\"embedded-post-title\">How four Greek winds became an AI agent that attacks arguments from every direction</div></div><div class=\"embedded-post-body\">Eurus… What a beautiful name. The first time I’ve heard it, it was in BBC’s Sherlock, season four. Holmes’s sister is named Eurus, after the East Wind…</div><div class=\"embedded-post-cta-wrapper\"><span class=\"embedded-post-cta\">Read more</span></div><div class=\"embedded-post-meta\">4 months ago · 36 likes · 4 comments · Mia Kiraki 🎭</div></a></div><div><hr></div><p><em>The opinions expressed are my own and do not reflect any official or unofficial institutional position of the University of Pennsylvania.</em></p>",
+ "has_dynamic_content": false,
+ "truncated_body_text": "",
+ "wordcount": 3916,
+ "post_preview_limit": null,
+ "language": "en",
+ "postTags": [
+  {
+   "id": "12efb637-dd16-41ee-a01c-733348efaae3",
+   "publication_id": 8222267,
+   "name": "qwen",
+   "slug": "qwen",
+   "hidden": false
+  },
+  {
+   "id": "2c114ee8-a8b5-4845-b946-f8773dd0cc8f",
+   "publication_id": 8222267,
+   "name": "gemini",
+   "slug": "gemini",
+   "hidden": false
+  },
+  {
+   "id": "37344b1b-dbe6-4ce7-b278-4d80e95d83d2",
+   "publication_id": 8222267,
+   "name": "personal",
+   "slug": "personal",
+   "hidden": false
+  },
+  {
+   "id": "4246070a-de49-4159-8b26-7b1721910599",
+   "publication_id": 8222267,
+   "name": "sampo",
+   "slug": "sampo",
+   "hidden": false
+  },
+  {
+   "id": "4778494a-ceea-4bcf-8d1d-ff2e0a553595",
+   "publication_id": 8222267,
+   "name": "artificial intelligence",
+   "slug": "artificial-intelligence",
+   "hidden": false
+  },
+  {
+   "id": "96cee0ef-d796-4d95-9d75-7c80ba6bc7c1",
+   "publication_id": 8222267,
+   "name": "discipline",
+   "slug": "discipline",
+   "hidden": false
+  },
+  {
+   "id": "9c3176ae-792d-49c1-b407-5bb2ce9f23fc",
+   "publication_id": 8222267,
+   "name": "ai",
+   "slug": "ai",
+   "hidden": false
+  },
+  {
+   "id": "9db39184-381b-414b-bf3c-d6a6982175c2",
+   "publication_id": 8222267,
+   "name": "claude",
+   "slug": "claude",
+   "hidden": false
+  },
+  {
+   "id": "9e3fb353-a96b-4684-a6c1-8be4425ce365",
+   "publication_id": 8222267,
+   "name": "grok",
+   "slug": "grok",
+   "hidden": false
+  },
+  {
+   "id": "a54020f5-060a-456e-b32c-464d25de8d8b",
+   "publication_id": 8222267,
+   "name": "amplification",
+   "slug": "amplification",
+   "hidden": false
+  },
+  {
+   "id": "a7d9abb3-a2fd-46c6-9dff-6e3b4db1ad8a",
+   "publication_id": 8222267,
+   "name": "work",
+   "slug": "work",
+   "hidden": false
+  },
+  {
+   "id": "b3f9e346-e30d-423b-a627-670b714fbc2b",
+   "publication_id": 8222267,
+   "name": "virtual intelligence",
+   "slug": "virtual-intelligence",
+   "hidden": false
+  },
+  {
+   "id": "b78f01d9-c827-4784-b630-7f59fe4f3360",
+   "publication_id": 8222267,
+   "name": "deepseek",
+   "slug": "deepseek",
+   "hidden": false
+  },
+  {
+   "id": "bd9b4bc0-5e47-42c0-b27a-4fb5bba053ca",
+   "publication_id": 8222267,
+   "name": "systems",
+   "slug": "systems",
+   "hidden": false
+  },
+  {
+   "id": "ce8906ae-a886-4cea-a8d0-eb0672ca8288",
+   "publication_id": 8222267,
+   "name": "method",
+   "slug": "method",
+   "hidden": false
+  },
+  {
+   "id": "d175e956-16f6-4d9d-a7ca-1871acfee0a0",
+   "publication_id": 8222267,
+   "name": "GLM",
+   "slug": "glm",
+   "hidden": false
+  },
+  {
+   "id": "e44084b2-c8b4-4ee6-be21-2d6a9b4cf150",
+   "publication_id": 8222267,
+   "name": "chatgpt",
+   "slug": "chatgpt",
+   "hidden": false
+  },
+  {
+   "id": "e55e0105-ac1b-4059-a046-3c55e5a68b6a",
+   "publication_id": 8222267,
+   "name": "writing",
+   "slug": "writing",
+   "hidden": false
+  }
+ ],
+ "postCountryBlocks": [],
+ "headlineTest": null,
+ "coverImagePalette": {
+  "Vibrant": {
+   "rgb": [
+    194.02173913043484,
+    149.67391304347828,
+    60.97826086956515
+   ],
+   "population": 0
+  },
+  "DarkVibrant": {
+   "rgb": [
+    100.89130434782612,
+    77.8304347826087,
+    31.708695652173876
+   ],
+   "population": 0
+  },
+  "LightVibrant": {
+   "rgb": [
+    244,
+    236,
+    220
+   ],
+   "population": 5615
+  },
+  "Muted": {
+   "rgb": [
+    132,
+    130,
+    125
+   ],
+   "population": 70
+  },
+  "DarkMuted": {
+   "rgb": [
+    88,
+    88,
+    80
+   ],
+   "population": 2
+  },
+  "LightMuted": {
+   "rgb": [
+    196,
+    196,
+    182
+   ],
+   "population": 20
+  }
+ },
+ "publishedBylines": [
+  {
+   "id": 474704088,
+   "name": "Christopher Horrocks",
+   "handle": "chorrocks",
+   "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/7a8cf605-dcd8-41b8-aedd-eda353c188f3_298x298.jpeg",
+   "bio": "Christopher Horrocks is a technologist at the University of Pennsylvania writing about AI and tech ethics. His concept of Virtual Intelligence bridges weak & strong AI and more accurately describes the current state of AI technology than either term.",
+   "profile_set_up_at": "2026-03-05T16:59:29.889Z",
+   "reader_installed_at": "2026-03-17T12:01:30.539Z",
+   "publicationUsers": [
+    {
+     "id": 8416243,
+     "user_id": 474704088,
+     "publication_id": 8222267,
+     "role": "admin",
+     "public": true,
+     "is_primary": true,
+     "publication": {
+      "id": 8222267,
+      "name": "Virtual Intelligence",
+      "subdomain": "chorrocks",
+      "custom_domain": null,
+      "custom_domain_optional": false,
+      "hero_text": "Contemporary AI systems produce intelligent outputs without agency, intention, or judgment. This series examines what happens when humans rely on systems that don't know true from false and right from wrong — and asks where accountability lies. ",
+      "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/69d00242-89f0-458c-89db-946df76089e4_1280x1280.png",
+      "author_id": 474704088,
+      "primary_user_id": 474704088,
+      "theme_var_background_pop": "#FF6719",
+      "created_at": "2026-03-05T16:59:38.055Z",
+      "email_from_name": null,
+      "copyright": "Christopher Horrocks",
+      "founding_plan_name": null,
+      "community_enabled": true,
+      "invite_only": false,
+      "payments_state": "disabled",
+      "language": null,
+      "explicit": false,
+      "homepage_type": "magaziney",
+      "is_personal_mode": false,
+      "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/ef6c9d30-db7b-4be9-b09d-b0dbaa139cea_1344x256.png"
+     }
+    }
+   ],
+   "is_guest": false,
+   "bestseller_tier": null,
+   "status": {
+    "bestsellerTier": null,
+    "subscriberTier": null,
+    "leaderboard": null,
+    "vip": false,
+    "badge": null,
+    "subscriber": null
+   }
+  }
+ ],
+ "reaction": null,
+ "reaction_count": 3,
+ "comment_count": 0,
+ "child_comment_count": 0,
+ "is_geoblocked": false,
+ "is_editor_preview": false,
+ "hasCashtag": false,
+ "unlockedWithIP": false,
+ "unlockedWithCampaign": false,
+ "themeVariables": {
+  "color_theme_bg_pop": "#65a30d",
+  "background_pop": "#65a30d",
+  "color_theme_bg_web": "#292524",
+  "cover_bg_color": "#292524",
+  "cover_bg_color_secondary": "#363231",
+  "background_pop_darken": "#568b0b",
+  "print_on_pop": "#ffffff",
+  "color_theme_bg_pop_darken": "#568b0b",
+  "color_theme_print_on_pop": "#ffffff",
+  "color_theme_bg_pop_20": "rgba(101, 163, 13, 0.2)",
+  "color_theme_bg_pop_30": "rgba(101, 163, 13, 0.3)",
+  "print_pop": "#65a30d",
+  "color_theme_accent": "#65a30d",
+  "cover_print_primary": "#ffffff",
+  "cover_print_secondary": "#d9d9d9",
+  "cover_print_tertiary": "#d9d9d9",
+  "cover_border_color": "#ffffff",
+  "font_family_headings_preset": "Lora,sans-serif",
+  "font_weight_headings_preset": 600,
+  "font_family_body_preset": "'Roboto Slab',sans-serif",
+  "font_weight_body_preset": 400,
+  "home_hero": "magazine-5",
+  "home_posts": "custom",
+  "web_bg_color": "#292524",
+  "background_contrast_1": "#363231",
+  "background_contrast_2": "#464242",
+  "background_contrast_3": "#656362",
+  "background_contrast_4": "#848281",
+  "background_contrast_5": "#bbbaba",
+  "color_theme_bg_contrast_1": "#363231",
+  "color_theme_bg_contrast_2": "#464242",
+  "color_theme_bg_contrast_3": "#656362",
+  "color_theme_bg_contrast_4": "#848281",
+  "color_theme_bg_contrast_5": "#bbbaba",
+  "color_theme_bg_elevated": "#363231",
+  "color_theme_bg_elevated_secondary": "#464242",
+  "color_theme_bg_elevated_tertiary": "#656362",
+  "color_theme_detail": "#3e3b3a",
+  "background_contrast_pop": "rgba(101, 163, 13, 0.4)",
+  "color_theme_bg_contrast_pop": "rgba(101, 163, 13, 0.4)",
+  "theme_bg_is_dark": "1",
+  "print_on_web_bg_color": "#ffffff",
+  "print_secondary_on_web_bg_color": "#a9a8a7",
+  "header_bg_color": "#292524",
+  "header_bg_color_h": "12.000000000000036",
+  "header_bg_color_s": "6.493506493506497%",
+  "header_bg_color_l": "15.098039215686276%",
+  "print_on_header_bg_color": "#ffffff",
+  "print_secondary_on_header_bg_color": "#a9a8a7",
+  "header_bg_contrast_1": "#363231",
+  "header_bg_contrast_2": "#464242",
+  "header_bg_contrast_3": "#656362",
+  "header_bg_contrast_4": "#848281",
+  "header_bg_elevated": "#363231",
+  "header_bg_elevated_secondary": "#464242",
+  "header_bg_elevated_tertiary": "#656362",
+  "header_detail_color": "#3e3b3a",
+  "background_pop_rgb": "101, 163, 13",
+  "color_theme_bg_pop_rgb": "101, 163, 13",
+  "color_theme_accent_rgb": "101, 163, 13"
+ },
+ "comments": []
+}

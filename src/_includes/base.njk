@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+{% set pageTitle = (title | stripMd) + " | " + site.title if title else site.title %}
+{% set pageDesc = (description or subtitle or site.description) | stripMd %}
+{% set pageUrl = page.url | absUrl %}
+{% set pageImage = (image | absUrl) if image else "" %}
+<title>{{ pageTitle }}</title>
+<meta name="description" content="{{ pageDesc }}">
+<link rel="canonical" href="{{ substack if substack else pageUrl }}">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:title" content="{{ (title | stripMd) if title else site.title }}">
+<meta property="og:description" content="{{ pageDesc }}">
+<meta property="og:url" content="{{ pageUrl }}">
+<meta property="og:type" content="{{ 'article' if substack else 'website' }}">
+{% if pageImage %}<meta property="og:image" content="{{ pageImage }}">{% endif %}
+{% if substack %}<meta property="article:published_time" content="{{ date | isoDate }}">
+<meta property="article:author" content="Christopher Horrocks">{% endif %}
+<meta name="twitter:card" content="{{ 'summary_large_image' if pageImage else 'summary' }}">
+<meta name="twitter:title" content="{{ (title | stripMd) if title else site.title }}">
+<meta name="twitter:description" content="{{ pageDesc }}">
+{% if pageImage %}<meta name="twitter:image" content="{{ pageImage }}">{% endif %}
+<meta name="color-scheme" content="light dark">
+<link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/feed.xml">
+<link rel="stylesheet" href="/fonts/fonts.css">
+<link rel="stylesheet" href="/css/site.css">
+</head>
+<body>
+<header class="site-header">
+  <a class="site-name" href="/">{{ site.title }}</a>
+  <nav><a href="/archive/"{% if page.url == "/archive/" %} aria-current="page"{% endif %}>Archive</a></nav>
+</header>
+<main>
+{{ content | safe }}
+</main>
+</body>
+</html>

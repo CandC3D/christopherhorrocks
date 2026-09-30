@@ -1,0 +1,40 @@
+{
+  "_comment": "Only slugs listed under 'essays', 'interludes' or 'aids' are imported and published. Featured pieces appear on the homepage, newest first.",
+  "essays": [
+    "virtual-intelligence-and-the-death-5c5",
+    "virtual-intelligence-and-the-death",
+    "virtual-intelligence-and-the-high-19e",
+    "virtual-intelligence-and-the-hi2",
+    "virtual-intelligence-and-the-high",
+    "virtual-intelligence-and-the-perfect-2e6",
+    "virtual-intelligence-and-the-perfect",
+    "virtual-intelligence-and-the-doom",
+    "virtual-intelligence-and-the-harms",
+    "virtual-intelligence-and-the-kill",
+    "the-sampo-virtual-intelligence-as",
+    "field-report-the-sampo-in-action",
+    "the-carwash-test-virtual-intelligence"
+  ],
+  "interludes": [
+    "in-search-of-other-bodies",
+    "in-search-of-other-minds"
+  ],
+  "aids": [],
+  "featured": [
+    "virtual-intelligence-and-the-death-5c5",
+    "virtual-intelligence-and-the-death",
+    "virtual-intelligence-and-the-high-19e",
+    "virtual-intelligence-and-the-hi2",
+    "virtual-intelligence-and-the-high",
+    "virtual-intelligence-and-the-perfect-2e6",
+    "virtual-intelligence-and-the-perfect",
+    "virtual-intelligence-and-the-doom",
+    "virtual-intelligence-and-the-harms",
+    "virtual-intelligence-and-the-kill",
+    "the-sampo-virtual-intelligence-as",
+    "field-report-the-sampo-in-action",
+    "the-carwash-test-virtual-intelligence",
+    "in-search-of-other-bodies",
+    "in-search-of-other-minds"
+  ]
+}

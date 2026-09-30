@@ -1,0 +1,403 @@
+{
+ "audience": "everyone",
+ "audience_before_archived": null,
+ "canonical_url": "https://chorrocks.substack.com/p/virtual-intelligence-and-the-death-5c5",
+ "default_comment_sort": null,
+ "editor_v2": false,
+ "exempt_from_archive_paywall": false,
+ "free_unlock_required": false,
+ "id": 209784197,
+ "podcast_art_url": null,
+ "podcast_duration": null,
+ "podcast_preview_upload_id": null,
+ "podcast_upload_id": null,
+ "podcast_url": null,
+ "post_date": "2026-08-04T14:32:40.737Z",
+ "updated_at": "2026-08-04T14:51:23.890Z",
+ "publication_id": 8222267,
+ "search_engine_description": null,
+ "search_engine_title": null,
+ "section_id": null,
+ "should_send_free_preview": false,
+ "show_guest_bios": true,
+ "slug": "virtual-intelligence-and-the-death-5c5",
+ "social_title": null,
+ "subtitle": "What a Yale cheating case, the Heated Rivalry AI fan fiction blowup, and an open-source code laundering tool have in common.",
+ "teaser_post_eligible": true,
+ "title": "Virtual Intelligence and the Death of Authorship, Part 2",
+ "type": "newsletter",
+ "video_upload_id": null,
+ "write_comment_permissions": "everyone",
+ "meter_type": "none",
+ "live_stream_id": null,
+ "is_published": true,
+ "restacks": 1,
+ "reactions": {
+  "❤": 2
+ },
+ "top_exclusions": [],
+ "pins": [],
+ "section_pins": [],
+ "has_shareable_clips": false,
+ "previous_post_slug": "whats-wrong-with-opus",
+ "next_post_slug": "the-exchange-monitor",
+ "cover_image": "https://substackcdn.com/image/fetch/$s_!NsMA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdfbedce-d23e-48e3-aebd-e0d0a66e58a5_1408x768.png",
+ "cover_image_is_square": false,
+ "cover_image_is_explicit": false,
+ "videoUpload": null,
+ "podcastFields": {
+  "post_id": 209784197,
+  "podcast_episode_number": null,
+  "podcast_season_number": null,
+  "podcast_episode_type": null,
+  "should_syndicate_to_other_feed": null,
+  "syndicate_to_section_id": null,
+  "hide_from_feed": false,
+  "free_podcast_url": null,
+  "free_podcast_duration": null,
+  "preview_contains_ad": false,
+  "was_imported_self_serve_sync": false,
+  "draft_free_podcast_url": null,
+  "draft_free_podcast_duration": null
+ },
+ "podcastUpload": null,
+ "podcastPreviewUpload": null,
+ "voiceover_upload_id": null,
+ "voiceoverUpload": null,
+ "has_voiceover": false,
+ "description": "What a Yale cheating case, the Heated Rivalry AI fan fiction blowup, and an open-source code laundering tool have in common.",
+ "body_html": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!NsMA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdfbedce-d23e-48e3-aebd-e0d0a66e58a5_1408x768.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!NsMA!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdfbedce-d23e-48e3-aebd-e0d0a66e58a5_1408x768.png 424w, https://substackcdn.com/image/fetch/$s_!NsMA!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdfbedce-d23e-48e3-aebd-e0d0a66e58a5_1408x768.png 848w, https://substackcdn.com/image/fetch/$s_!NsMA!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdfbedce-d23e-48e3-aebd-e0d0a66e58a5_1408x768.png 1272w, https://substackcdn.com/image/fetch/$s_!NsMA!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdfbedce-d23e-48e3-aebd-e0d0a66e58a5_1408x768.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!NsMA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdfbedce-d23e-48e3-aebd-e0d0a66e58a5_1408x768.png\" width=\"1408\" height=\"768\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/cdfbedce-d23e-48e3-aebd-e0d0a66e58a5_1408x768.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:768,&quot;width&quot;:1408,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:570208,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://chorrocks.substack.com/i/209784197?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdfbedce-d23e-48e3-aebd-e0d0a66e58a5_1408x768.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!NsMA!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdfbedce-d23e-48e3-aebd-e0d0a66e58a5_1408x768.png 424w, https://substackcdn.com/image/fetch/$s_!NsMA!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdfbedce-d23e-48e3-aebd-e0d0a66e58a5_1408x768.png 848w, https://substackcdn.com/image/fetch/$s_!NsMA!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdfbedce-d23e-48e3-aebd-e0d0a66e58a5_1408x768.png 1272w, https://substackcdn.com/image/fetch/$s_!NsMA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdfbedce-d23e-48e3-aebd-e0d0a66e58a5_1408x768.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><div><hr></div><p><em><span data-color=\"#e69138\" style=\"color: rgb(230, 145, 56);\">This is the second part of a two-part essay about generative AI and the authorship of cultural products.</span> <span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">[</span><a href=\"https://chorrocks.substack.com/p/virtual-intelligence-and-the-death\"><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">Part 1 is here.</span></a><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">]</span></em></p><div><hr></div><h2><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">1. Thierry Rignol</span></h2><p>Executive Master of Business Administration degrees, awarded through programs from business schools worldwide, afford working professionals an opportunity to advance their education. The coursework is often, but not always, paid for by the student’s employer. The professional’s future opportunities may open further with the awarding of the degree — especially if the awarding institution is prestigious.</p><p>Thierry Rignol is a principal at Midwest Plains Capital. He was accepted to Yale’s Executive MBA program; tuition for this program is over $200,000. A professor suspected Rignol of having used AI to complete a final examination in Spring of 2024, using GPTZero to investigate. [1] The tool told the professor that whole sections of Rignol’s final exam were composed by AI.</p><p>As Rignol tells it, his lengthy and well-polished answers were what caused a false detection. He also points out that tools like GPTZero have known biases against non-native English speakers like himself. A 2023 study of several detector products showed a high rate of false signals when set on text by such authors. [2]</p><p>The examination was a self-timed, “closed internet, open book” exam with answers to be provided as a PDF, and AI tools were explicitly disallowed. Notably, of all of the examinations turned in by the class, only Rignol’s was flagged as a possible instance of AI use. Throughout the subsequent investigation, Rignol was asked to provide the original Word document that could help settle the issue of provenance. He was asked repeatedly for it, and only after many inquiries by Yale officials did Rignol provide an excuse: he had not used Word, but Apple Pages; therefore he had nothing that could be provided for all the previous requests.</p><p>Why Rignol had not offered this Pages file before is left to the reader to guess. Despite being asked many times to provide possibly exculpatory evidence, Rignol was neither cooperative nor forthcoming with Yale during its investigation. Either Rignol has a poor understanding of file formats and assumed Yale didn’t know what Pages was, or some alternative explanation is required.</p><p>The case is now a thirteen-count federal lawsuit, <em>Rignol v. Yale University</em>, that’s nowhere near trial (while the case is mainly about the detection, Rignol also claims that he is being punished by Yale for his political views). [3] Mr. Rignol will have to explain, eventually, what led to his delay in providing the alleged original file to Yale. That’s why this case is important: the provenance of the ideas must be ascertained for Yale to be certain it is awarding degrees to those who do the work and deserve them. A detector cannot tell you that, but an original document could if it were substantially different from the final submission but had the same thesis or foundational ideas.</p><h2><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">2. The Process</span></h2><p>This is, in a sense, a similar solution to what Dr Sam Illingworth proposed for Substack’s Pangram implementation: eliminate the tool and instead tell us about your process; show it if you can. [4] This is a plea to honesty as the best policy. It is in large part founded on the knowledge that detection instruments like GPTZero and Pangram are not reliable. As examined in Part 1, it is possible for these tools to flag entirely human-authored text because they work through statistical pattern matching, and the patterns being matched often signal polished prose.</p><div><hr></div><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/p/virtual-intelligence-and-the-death-5c5?utm_source=substack&utm_medium=email&utm_content=share&action=share&quot;,&quot;text&quot;:&quot;Share&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/p/virtual-intelligence-and-the-death-5c5?utm_source=substack&utm_medium=email&utm_content=share&action=share\"><span>Share</span></a></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe now&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/subscribe?\"><span>Subscribe now</span></a></p><div><hr></div><h2><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">3. </span><em><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">Heated Rivalry:</span></em><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\"> The Fan Fiction AI Blowup</span></h2><p>The television romance series <em>Heated Rivalry</em> had a cultural moment in early 2026 when it premiered on HBO Max. [5] Like many cultural properties, it has attracted fan fiction writers who place the starring characters of the series in new situations. Many of these are erotica; others imagine the handsome hockey players in alternate universes and in different occupations.</p><p>Fan fiction writing has a long and largely cryptic history, but erotica has often formed a core of it; it is only natural that <em>Heated Rivalry</em> (already a successful book series before it came to television) would attract fan writers, much as the <em>Star Trek</em> and <em>Harry Potter</em> fandoms had before. Many of these works are uploaded for sharing with other fans at the website Archive of Our Own, also known as AO3. [6]</p><p>The <em>Heated Rivalry</em> fan fiction community is in the grip of an AI authorship crisis. Stories with perceived AI tells generated controversy: writing patterns and impossibilities of human anatomy and relation in physical space, like being behind a person and still being able to admire their abdominal muscles.</p><p>The turmoil over AI use increased sharply when a more reliable trace was discovered: Anthropic’s Claude labels its generated output with a CSS class called <code>font-claude-response-body</code>. The class is invisible to readers, but it travels along with the text when it is pasted from Claude’s interface into editors that do not strip it, including AO3’s. It sits in the page’s source code, findable by anyone who looks. [7] An anonymous account on X published a 25-page document identifying thirty-eight popular <em>Heated Rivalry</em> fan stories carrying the marker, and released custom code that made flagged text glow bright red. Some stories were entirely red. [8]</p><p>This is a more reliable detection than Pangram’s. Claude left fingerprints that a human can trace with little difficulty. The author of a popular work who had previously decried the use of AI was found to have two such fingerprints in their own writing. The community treated those two instances as if they were hundreds. The writer has since ceased contributing new stories to the archive.</p><p>The community’s response follows the same pattern seen among Substack writers in Part I. Like Substack, AO3 will not ban AI-created works outright. Betsy Rosenblatt, a law professor and a leader of the site’s legal committee, said: “We do not and cannot know how works are created before they’re posted,” adding that a rule against AI use “would be an engine for harassment.” [5] Community members on Reddit came up with two punitive options for when AI use is identified: ban flagged works, or ban the author of any work that is flagged.</p><h2><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">4. Functional Replication</span></h2><p>It is possible to trace the provenance of some generated artifacts, like text, from their tells. What is less common, but more sinister, is the use of AI tools to strip away provenance.</p><p>The website malus.sh offers to take open-source software and produce “clean room” versions stripped of all licensing requirements. The site was created as a satire, but the service it offers is real: supply open-source software at one end, and a functionally identical version with no attribution or copyleft obligations is delivered at the other. [9] The site operates under the legal principles established in the 1982 precedent in which Columbia Data Products reverse-engineered the IBM PC’s BIOS. Courts held that no copyrights were infringed because copyright protects expression, not function; therefore, building something original from scratch that does the same thing is permitted. [10] AI collapses the clean-room timeline from months to minutes.</p><p>The legal right to use AI clean rooms is not as clear-cut as it sounds. Dan Blanchard, the long-time maintainer of the Python library <code>chardet</code>, used Anthropic’s Claude Code to create a new version of the library under a permissive license — first MIT, then 0BSD, a public-domain equivalent — replacing the original GNU LGPL, a copyleft license that requires modified versions to carry the same terms. [11] In a post from an individual claiming to be the library’s inventor, Mark Pilgrim, he noted that “Licensed code, when modified, must be released under the same LGPL license,” and that “[the] claim that it is a ‘complete rewrite’ is irrelevant, since they had ample exposure to the originally licensed code (i.e. this is not a ‘clean room’ implementation). Adding a fancy code generator into the mix does not somehow grant them any additional rights.” [12]</p><p>When Anthropic accidentally published the source of Claude Code in March, Sigrid Jin did the same thing in reverse: a clean-room Python rewrite using a competitor’s AI tools. It was reportedly the fastest repository in GitHub history to reach fifty thousand stars. [13] Anthropic’s DMCA takedown notices removed the direct copies but not the rewrite — another instance of the clean-room principle in action.</p><p>In all of these cases — malus.sh, <code>chardet</code>, and Claude Code — functionality survived the AI rewrite process. What was lost was the authorship and all it entails: license, attribution, and the obligation of the open-source author to share and share alike.</p><h2><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">5. Style as Property</span></h2><p>Among the earliest controversies about generative AI has been the ability of systems to imitate, to one degree or another, the style of a well-known author. Grammarly offered this as a feature called “Expert Review,” generating editing suggestions inspired by named writers and academics — among them Stephen King, Neil deGrasse Tyson, and Carl Sagan — until user backlash and a class-action lawsuit forced the feature’s withdrawal in March. [14] The lawsuit, <em>Angwin v. Superhuman</em>, was filed in the Southern District of New York on behalf of writers and academics whose identities were used without consent. [15]</p><p>OpenAI also permitted ChatGPT to be used for style mimicry, though without advertising it as a feature. That changed in late July, when ChatGPT began to refuse requests to write in a named author’s style. [16] Upset users went to Reddit to complain about this change. The original poster of one complaint thread noted that the entire novel they had been writing was produced by prompting ChatGPT to write in the style of a particular author. [17] This is an ugly specimen of confused authorship: writing by specification (a prompt) to generate an artificial text, written by a machine in the style of another person who is not a party to the exchange.</p><p>The top-voted workaround in this thread showed some ingenuity: have the model describe the style that is desired, build a persona around that description, and then feed it into a new ChatGPT session. This is a clean-room bypass in the spirit of what malus.sh does — the same evasion of the constraint, in a different domain. The service offered by AIStoryHub appears to operate on the same or a similar mechanism and is, in part, pitched to fan fiction writers. [18]</p><p>One Redditor’s reply to the thread was heavily downvoted but survived moderation: “Try writing your own words.”</p><p>In June, the CREATOR Act was introduced into the U.S. House of Representatives (H.R. 9112) to protect visual artists from having their distinctive style imitated in generated imagery. [19] It is an attempt to make style a protectable asset. </p><p>Three responses to the problems of authorship arrived inside of half a year: one commercial (Grammarly pulling the feature), one technical (OpenAI refusing the prompt), one legislative. None of them addresses the cases where nobody’s style is being imitated because nobody authored the work. The current toolkit protects named authors and mandates disclosure. It has no mechanism for the growing category of production  — true AI slop, made to capture eyeballs on revenue-generating platforms  — where no human author exists to name, protect, or hold responsible for the content. </p><h2><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">6. The Failures of Detection</span></h2><p>What links all of the cases we have examined is that detectors resolved none of them. GPTZero flagged Rignol’s exam at Yale; like Pangram at Substack, it produced more noise than real results. The fan fiction community around <em>Heated Rivalry</em> began its hunt with detectors but found a more reliable trace in a CSS artifact left behind by Claude. People who use <code>chardet</code> found the new version functionally identical even though it was supposed to be a ground-up clean-room rewrite; a real possibility with software, but the case is not clean because the person generating the rewrite is, as the maintainer, intimately familiar with the original being reproduced.</p><p>Every current mechanism — detectors, disclosure labels, style-protection statutes — assumes there is an author to find, to protect, or to hold responsible. The growing category of cultural products generated by AI has no such person to credit or discredit.</p><p>There is a small but visible trend of human authors purposefully leaving errors in their text to show they are human-written; but that can be done by software, too. Sinceerly, a Chrome extension that injects typos into polished text to defeat detectors, is the logical endpoint of the arms race between AI-assisted writers and detectors: imperfection as the last remaining signal of human authorship, manufactured by a machine. [20]</p><p>The <em>Heated Rivalry</em> fan fiction community’s stated goal is to encourage and promote human-written texts. The idea is that all-human writing is a bulwark against being inundated by AI slop. Precedent is again instructive here, because the publishing world has had a different slop era to draw lessons from. The pulp fiction age of the 1920s through 1940s provided inexpensive and often poor reading material to millions. Cheaply printed ephemera, the pulps were mostly trash written by writers who were churning out reams of material just to keep body and soul together. The pulps were also the training grounds of giants. The pulps gave us Raymond Chandler, Isaac Asimov, and Ray Bradbury, among others. In the urge to eliminate all AI assistance in writing, it might seem tempting to tear down new talents because they work differently from past authors. The history of the pulps tells us that would be an error.</p><h2><span data-color=\"#65a30d\" style=\"color: rgb(101, 163, 13);\">7. The Open Grave</span></h2><p>Thierry Rignol’s case is still unresolved, but he has encountered some skepticism of his claims about why he was not forthcoming in providing documentation that the work he turned in was his own, and not generated by AI. “Wouldn’t a reasonable professional person who was trying to be cooperative with a proceeding,” one judge asked, “upon getting not just one email but many emails asking for the underlying document that was used to create a PDF say, ‘Oh, I didn’t use Word. I used Pages, a different word processing [program]?’” [3] Rignol’s apparently evasive actions do not look like those of a person who is confident in his authorship or that it will be vindicated upon examination. Yale has moved to dismiss the case.</p><p>What the users of detector tools and other methods of finding AI use in cultural products cannot tell us about is the authorship of what is being scanned. It cannot tell us if the words come from the human presenting them, from the AI that generated them, or from a third party whose work was imitated by the machine through prompting. Authorship, as illustrated in Part I by the example of Rubens and the artist’s workshop, is not about each word on a page or each individual line made by a hair in a brush. It is a real person staking their name on their method of working, and standing behind it when asked how the work was made.</p><p>Detectors, text artifacts, and statutes can protect named authors and mandate disclosure. There is no mechanism, however, that governs or regulates the growing category of works that have no named human author to protect or hold responsible, or to tell where the human contribution ends and the machine’s outputs begin. It is here where authorship’s grave has been dug.</p><div><hr></div><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/subscribe?&quot;,&quot;text&quot;:&quot;Subscribe now&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/subscribe?\"><span>Subscribe now</span></a></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/p/virtual-intelligence-and-the-death-5c5?utm_source=substack&utm_medium=email&utm_content=share&action=share&quot;,&quot;text&quot;:&quot;Share&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/p/virtual-intelligence-and-the-death-5c5?utm_source=substack&utm_medium=email&utm_content=share&action=share\"><span>Share</span></a></p><p class=\"button-wrapper\" data-attrs=\"{&quot;url&quot;:&quot;https://chorrocks.substack.com/?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share&quot;,&quot;text&quot;:&quot;Share Virtual Intelligence&quot;,&quot;action&quot;:null,&quot;class&quot;:null}\" data-component-name=\"ButtonCreateButton\"><a class=\"button primary\" href=\"https://chorrocks.substack.com/?utm_source=substack&amp;utm_medium=email&amp;utm_content=share&amp;action=share\"><span>Share Virtual Intelligence</span></a></p><div><hr></div><h2>Footnotes</h2><ol><li><p>Nate Anderson, “How a Yale AI-cheating dispute became a 13-count federal lawsuit,” <em>Ars Technica</em>, July 31, 2026. <a href=\"https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/\">https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/</a></p></li><li><p>Weixin Liang et al., “GPT detectors are biased against non-native English writers,” <em>Patterns</em> 4, no. 7 (2023). <a href=\"https://arxiv.org/abs/2304.02819\">https://arxiv.org/abs/2304.02819</a></p></li><li><p><em>Rignol v. Yale University</em>, No. 3:25-cv-00236 (D. Conn.). Docket entries and judicial quotation as reported in Anderson (note 1).</p></li><li><p>Sam Illingworth, “Substack’s AI Detector and the Return of the Witch Hunt,” <em>The Slow AI</em>, July 24, 2026. See also Part I of this essay. </p><p><a href=\"https://theslowai.substack.com/p/substack-ai-detection-witch-hunt\">https://theslowai.substack.com/p/substack-ai-detection-witch-hunt</a></p></li><li><p>Emmy Martin, “When A.I. Invaded ‘Heated Rivalry’ Fan Fiction, the Meltdown Was Epic,” <em>The New York Times</em>, July 30, 2026. <a href=\"https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html\">https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html</a></p></li><li><p>Archive of Our Own, <a href=\"https://archiveofourown.org/\">https://archiveofourown.org/</a></p></li><li><p>Whitney A. Foster, “A 25-Page PDF Named 30 Fanfiction Writers as AI Users. Here’s What the Evidence Shows,” Substack, July 2, 2026. </p><p><a href=\"https://whitneyafoster.substack.com/p/ao3-ai-fanfiction-heated-rivalry-detection\">https://whitneyafoster.substack.com/p/ao3-ai-fanfiction-heated-rivalry-detection</a>. See also Candyce Edelen’s original 2025 discovery of the CSS class in pasted Claude output. <a href=\"https://www.linkedin.com/posts/candyceedelen_well-crap-i-didnt-know-claude-was-adding-activity-7448391850501124096-podz/\">https://www.linkedin.com/posts/candyceedelen_well-crap-i-didnt-know-claude-was-adding-activity-7448391850501124096-podz/</a></p></li><li><p>@heatedrivalryai (John Doe), “Fandom Has a Hidden Generative A.I. Problem,” published via X, June 29–30, 2026. </p><div class=\"twitter-embed\" data-attrs=\"{&quot;url&quot;:&quot;https://x.com/heatedrivalryai/status/2071719230223811032&quot;,&quot;full_text&quot;:&quot;The following link leads to our complete findings, the site skin, an appendix of works that contain the Claude code fragment, and copies of the referenced fics: <a class=\\&quot;tweet-url\\&quot; href=\\&quot;https://drive.google.com/file/d/1YyFKLzunnvVJRDTql5nHJwBb-swxIftn/view?usp=sharing\\&quot;>drive.google.com/file/d/1YyFKLz…</a>.&quot;,&quot;username&quot;:&quot;heatedrivalryai&quot;,&quot;name&quot;:&quot;John Doe&quot;,&quot;profile_image_url&quot;:&quot;https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png&quot;,&quot;date&quot;:&quot;2026-06-29T22:15:29.000Z&quot;,&quot;photos&quot;:[],&quot;quoted_tweet&quot;:{},&quot;reply_count&quot;:12,&quot;retweet_count&quot;:328,&quot;like_count&quot;:3524,&quot;impression_count&quot;:1428519,&quot;expanded_url&quot;:null,&quot;video_url&quot;:null,&quot;video_preview_media_key&quot;:null,&quot;belowTheFold&quot;:true}\" data-component-name=\"Twitter2ToDOM\"></div></li><li><p>Emanuel Maiberg, “This AI Tool Rips Off Open Source Software Without Violating Copyright,” <em>404 Media</em>, April 21, 2026. <a href=\"https://www.404media.co/this-ai-tool-rips-off-open-source-software-without-violating-copyright/\">https://www.404media.co/this-ai-tool-rips-off-open-source-software-without-violating-copyright/</a></p></li><li><p>Columbia Data Products reverse-engineered the IBM PC BIOS in 1982 using isolated teams; courts held that copyright protects expression, not ideas or function. <a href=\"https://en.wikipedia.org/wiki/Clean-room_design\">https://en.wikipedia.org/wiki/Clean-room_design</a></p></li><li><p>Dan Blanchard, “Everything Claude Saw,” personal blog. <a href=\"https://dan-blanchard.github.io/blog/chardet-rewrite-controversy/\">https://dan-blanchard.github.io/blog/chardet-rewrite-controversy/</a>. See also Simon Willison’s coverage and ShiftMag, “License Laundering and the Death of Clean Room.”</p></li><li><p>Mark Pilgrim, comment on the <code>chardet</code> relicensing. <a href=\"https://github.com/chardet/chardet/issues/327\">https://github.com/chardet/chardet/issues/327</a></p></li><li><p>Sigrid Jin (GitHub: instructkr), <code>claw-code</code> repository. Star count reported variously at 50,000 in approximately two hours, rising past 100,000 within a day. See Layer5, “The Claude Code Source Leak,” and Business Insider coverage.</p></li><li><p>Emma Loffhagen, “Grammarly removes AI Expert Review feature mimicking writers after backlash,” <em>The Guardian</em>, March 13, 2026. <a href=\"https://www.theguardian.com/technology/2026/mar/13/grammarly-removes-ai-expert-review-feature-mimicking-writers-after-backlash\">https://www.theguardian.com/technology/2026/mar/13/grammarly-removes-ai-expert-review-feature-mimicking-writers-after-backlash</a> </p></li><li><p><em>Angwin v. Superhuman</em>, filed in the U.S. District Court for the Southern District of New York, March 2026. Julia Angwin, investigative journalist, is the lead plaintiff.</p></li><li><p>Kyle Orland, “ChatGPT starts blocking direct requests to copy an author’s style,” <em>Ars Technica</em>, July 27, 2026. <a href=\"https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/\">https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/</a></p></li><li><p>u/Dazzling-Major-5620, post on r/WritingWithAI, July 24, 2026. <a href=\"https://www.reddit.com/r/WritingWithAI/comments/1v5dfd0/chatgpt_not_letting_you_emulate_specific_authors/\">https://www.reddit.com/r/WritingWithAI/comments/1v5dfd0/chatgpt_not_letting_you_emulate_specific_authors/</a></p></li><li><p>AIStoryHub, <a href=\"https://aistoryhub.co/\">https://aistoryhub.co/</a></p></li><li><p>CREATOR Act (Creative Rights Ensuring Artists’ Technique and Originality are Reserved Act), H.R. 9112, 119th Congress, introduced June 2, 2026 by Rep. Beth Van Duyne (R-TX). Referred to the House Committee on the Judiciary; no further action as of July 2026.</p></li><li><p>Sinceerly, Chrome browser extension by Ben Horwitz. See Fast Company coverage, April 25, 2026. <a href=\"https://www.fastcompany.com/91531539/this-anti-grammarly-ai-tool-adds-typos-to-your-emails-on-purpose\">https://www.fastcompany.com/91531539/this-anti-grammarly-ai-tool-adds-typos-to-your-emails-on-purpose</a></p></li></ol><div><hr></div><p><em>The opinions expressed in this essay are my own and do not reflect any official or unofficial institutional position of the University of Pennsylvania.</em></p>",
+ "has_dynamic_content": false,
+ "truncated_body_text": "",
+ "wordcount": 3150,
+ "post_preview_limit": null,
+ "language": "en",
+ "postTags": [
+  {
+   "id": "0f6126f4-1f19-4bea-b945-850b83ccdb36",
+   "publication_id": 8222267,
+   "name": "LLM",
+   "slug": "llm",
+   "hidden": false
+  },
+  {
+   "id": "163fbfb6-bc82-4982-b4a6-79b97753a4a7",
+   "publication_id": 8222267,
+   "name": "Accountability",
+   "slug": "accountability",
+   "hidden": false
+  },
+  {
+   "id": "274639fc-1766-4eb8-867a-30407df0f187",
+   "publication_id": 8222267,
+   "name": "authorship",
+   "slug": "authorship",
+   "hidden": false
+  },
+  {
+   "id": "2d90d92f-460f-4a61-b9d2-989f2ef5df23",
+   "publication_id": 8222267,
+   "name": "reddit",
+   "slug": "reddit",
+   "hidden": false
+  },
+  {
+   "id": "4778494a-ceea-4bcf-8d1d-ff2e0a553595",
+   "publication_id": 8222267,
+   "name": "artificial intelligence",
+   "slug": "artificial-intelligence",
+   "hidden": false
+  },
+  {
+   "id": "55179767-a767-4262-92ee-a28d55a53ed0",
+   "publication_id": 8222267,
+   "name": "fan fiction",
+   "slug": "fan-fiction",
+   "hidden": false
+  },
+  {
+   "id": "7a348377-5483-49e0-b25f-4db0461fa294",
+   "publication_id": 8222267,
+   "name": "culture",
+   "slug": "culture",
+   "hidden": false
+  },
+  {
+   "id": "7fe96f7f-d281-4e49-aec1-2cd46dccf794",
+   "publication_id": 8222267,
+   "name": "fandom",
+   "slug": "fandom",
+   "hidden": false
+  },
+  {
+   "id": "8a0fcceb-6f88-4979-8a3c-ee909912d16f",
+   "publication_id": 8222267,
+   "name": "malus.sh",
+   "slug": "malussh",
+   "hidden": false
+  },
+  {
+   "id": "8be9ea26-da7b-4f37-a9c9-7d6a44e2c780",
+   "publication_id": 8222267,
+   "name": "responsibility",
+   "slug": "responsibility",
+   "hidden": false
+  },
+  {
+   "id": "9c3176ae-792d-49c1-b407-5bb2ce9f23fc",
+   "publication_id": 8222267,
+   "name": "ai",
+   "slug": "ai",
+   "hidden": false
+  },
+  {
+   "id": "a1140fdd-3fb6-4a10-9570-169dc21d596b",
+   "publication_id": 8222267,
+   "name": "AI detection",
+   "slug": "ai-detection",
+   "hidden": false
+  },
+  {
+   "id": "a342a1c7-f336-4628-aaaf-e2c3825fbb10",
+   "publication_id": 8222267,
+   "name": "heated rivalry",
+   "slug": "heated-rivalry",
+   "hidden": false
+  },
+  {
+   "id": "bfff138c-6b26-4376-b76f-61efb17027f1",
+   "publication_id": 8222267,
+   "name": "sagan",
+   "slug": "sagan",
+   "hidden": false
+  },
+  {
+   "id": "c1133f16-2496-4799-a601-ca3db18dd3bd",
+   "publication_id": 8222267,
+   "name": "detection",
+   "slug": "detection",
+   "hidden": false
+  },
+  {
+   "id": "c4a2c612-15d0-4fba-9d5b-bf44259501f7",
+   "publication_id": 8222267,
+   "name": "anthropic",
+   "slug": "anthropic",
+   "hidden": false
+  },
+  {
+   "id": "daf48c64-4086-4b53-948c-f32bb34a6107",
+   "publication_id": 8222267,
+   "name": "openai",
+   "slug": "openai",
+   "hidden": false
+  },
+  {
+   "id": "dbabd0f4-d6e4-4f91-92d5-96d5b51be27f",
+   "publication_id": 8222267,
+   "name": "ao3",
+   "slug": "ao3",
+   "hidden": false
+  },
+  {
+   "id": "e44084b2-c8b4-4ee6-be21-2d6a9b4cf150",
+   "publication_id": 8222267,
+   "name": "chatgpt",
+   "slug": "chatgpt",
+   "hidden": false
+  },
+  {
+   "id": "edb26ab1-9db8-4a74-a346-363c8ba3280f",
+   "publication_id": 8222267,
+   "name": "creativity",
+   "slug": "creativity",
+   "hidden": false
+  },
+  {
+   "id": "feb44769-a9b3-468a-82f6-803991afe123",
+   "publication_id": 8222267,
+   "name": "generative AI",
+   "slug": "generative-ai",
+   "hidden": false
+  }
+ ],
+ "postCountryBlocks": [],
+ "headlineTest": null,
+ "coverImagePalette": {
+  "Vibrant": {
+   "rgb": [
+    233,
+    137,
+    54
+   ],
+   "population": 3
+  },
+  "DarkVibrant": {
+   "rgb": [
+    119.51838565022422,
+    62.434977578475326,
+    13.081614349775792
+   ],
+   "population": 0
+  },
+  "LightVibrant": {
+   "rgb": [
+    204,
+    212,
+    164
+   ],
+   "population": 2
+  },
+  "Muted": {
+   "rgb": [
+    164,
+    180,
+    100
+   ],
+   "population": 1
+  },
+  "DarkMuted": {
+   "rgb": [
+    96,
+    100,
+    103
+   ],
+   "population": 25
+  },
+  "LightMuted": {
+   "rgb": [
+    204,
+    198,
+    158
+   ],
+   "population": 3
+  }
+ },
+ "publishedBylines": [
+  {
+   "id": 474704088,
+   "name": "Christopher Horrocks",
+   "handle": "chorrocks",
+   "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/7a8cf605-dcd8-41b8-aedd-eda353c188f3_298x298.jpeg",
+   "bio": "Christopher Horrocks is a technologist at the University of Pennsylvania writing about AI and tech ethics. His concept of Virtual Intelligence bridges weak & strong AI and more accurately describes the current state of AI technology than either term.",
+   "profile_set_up_at": "2026-03-05T16:59:29.889Z",
+   "reader_installed_at": "2026-03-17T12:01:30.539Z",
+   "publicationUsers": [
+    {
+     "id": 8416243,
+     "user_id": 474704088,
+     "publication_id": 8222267,
+     "role": "admin",
+     "public": true,
+     "is_primary": true,
+     "publication": {
+      "id": 8222267,
+      "name": "Virtual Intelligence",
+      "subdomain": "chorrocks",
+      "custom_domain": null,
+      "custom_domain_optional": false,
+      "hero_text": "Contemporary AI systems produce intelligent outputs without agency, intention, or judgment. This series examines what happens when humans rely on systems that don't know true from false and right from wrong — and asks where accountability lies. ",
+      "logo_url": "https://substack-post-media.s3.amazonaws.com/public/images/69d00242-89f0-458c-89db-946df76089e4_1280x1280.png",
+      "author_id": 474704088,
+      "primary_user_id": 474704088,
+      "theme_var_background_pop": "#FF6719",
+      "created_at": "2026-03-05T16:59:38.055Z",
+      "email_from_name": null,
+      "copyright": "Christopher Horrocks",
+      "founding_plan_name": null,
+      "community_enabled": true,
+      "invite_only": false,
+      "payments_state": "disabled",
+      "language": null,
+      "explicit": false,
+      "homepage_type": "magaziney",
+      "is_personal_mode": false,
+      "logo_url_wide": "https://substack-post-media.s3.amazonaws.com/public/images/ef6c9d30-db7b-4be9-b09d-b0dbaa139cea_1344x256.png"
+     }
+    }
+   ],
+   "is_guest": false,
+   "bestseller_tier": null,
+   "status": {
+    "bestsellerTier": null,
+    "subscriberTier": null,
+    "leaderboard": null,
+    "vip": false,
+    "badge": null,
+    "subscriber": null
+   }
+  }
+ ],
+ "reaction": null,
+ "reaction_count": 2,
+ "comment_count": 0,
+ "child_comment_count": 0,
+ "is_geoblocked": false,
+ "is_editor_preview": false,
+ "hasCashtag": false,
+ "unlockedWithIP": false,
+ "unlockedWithCampaign": false,
+ "themeVariables": {
+  "color_theme_bg_pop": "#65a30d",
+  "background_pop": "#65a30d",
+  "color_theme_bg_web": "#292524",
+  "cover_bg_color": "#292524",
+  "cover_bg_color_secondary": "#363231",
+  "background_pop_darken": "#568b0b",
+  "print_on_pop": "#ffffff",
+  "color_theme_bg_pop_darken": "#568b0b",
+  "color_theme_print_on_pop": "#ffffff",
+  "color_theme_bg_pop_20": "rgba(101, 163, 13, 0.2)",
+  "color_theme_bg_pop_30": "rgba(101, 163, 13, 0.3)",
+  "print_pop": "#65a30d",
+  "color_theme_accent": "#65a30d",
+  "cover_print_primary": "#ffffff",
+  "cover_print_secondary": "#d9d9d9",
+  "cover_print_tertiary": "#d9d9d9",
+  "cover_border_color": "#ffffff",
+  "font_family_headings_preset": "Lora,sans-serif",
+  "font_weight_headings_preset": 600,
+  "font_family_body_preset": "'Roboto Slab',sans-serif",
+  "font_weight_body_preset": 400,
+  "home_hero": "magazine-5",
+  "home_posts": "custom",
+  "web_bg_color": "#292524",
+  "background_contrast_1": "#363231",
+  "background_contrast_2": "#464242",
+  "background_contrast_3": "#656362",
+  "background_contrast_4": "#848281",
+  "background_contrast_5": "#bbbaba",
+  "color_theme_bg_contrast_1": "#363231",
+  "color_theme_bg_contrast_2": "#464242",
+  "color_theme_bg_contrast_3": "#656362",
+  "color_theme_bg_contrast_4": "#848281",
+  "color_theme_bg_contrast_5": "#bbbaba",
+  "color_theme_bg_elevated": "#363231",
+  "color_theme_bg_elevated_secondary": "#464242",
+  "color_theme_bg_elevated_tertiary": "#656362",
+  "color_theme_detail": "#3e3b3a",
+  "background_contrast_pop": "rgba(101, 163, 13, 0.4)",
+  "color_theme_bg_contrast_pop": "rgba(101, 163, 13, 0.4)",
+  "theme_bg_is_dark": "1",
+  "print_on_web_bg_color": "#ffffff",
+  "print_secondary_on_web_bg_color": "#a9a8a7",
+  "header_bg_color": "#292524",
+  "header_bg_color_h": "12.000000000000036",
+  "header_bg_color_s": "6.493506493506497%",
+  "header_bg_color_l": "15.098039215686276%",
+  "print_on_header_bg_color": "#ffffff",
+  "print_secondary_on_header_bg_color": "#a9a8a7",
+  "header_bg_contrast_1": "#363231",
+  "header_bg_contrast_2": "#464242",
+  "header_bg_contrast_3": "#656362",
+  "header_bg_contrast_4": "#848281",
+  "header_bg_elevated": "#363231",
+  "header_bg_elevated_secondary": "#464242",
+  "header_bg_elevated_tertiary": "#656362",
+  "header_detail_color": "#3e3b3a",
+  "background_pop_rgb": "101, 163, 13",
+  "color_theme_bg_pop_rgb": "101, 163, 13",
+  "color_theme_accent_rgb": "101, 163, 13"
+ },
+ "comments": []
+}
