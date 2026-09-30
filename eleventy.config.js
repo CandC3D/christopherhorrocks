@@ -1,4 +1,5 @@
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
+import { HtmlBasePlugin } from "@11ty/eleventy";
 import markdownIt from "markdown-it";
 import markdownItFootnote from "markdown-it-footnote";
 
@@ -7,6 +8,11 @@ const SITE_URL = "https://christopherhorrocks.com";
 export default function (eleventyConfig) {
   const md = markdownIt({ html: true, linkify: false, typographer: false }).use(markdownItFootnote);
   eleventyConfig.setLibrary("md", md);
+
+  // Links are written from the site root. When served from a subfolder (the
+  // candc3d.github.io preview, before the custom domain is set) the deploy
+  // workflow passes that folder in PATH_PREFIX and every link is rewritten.
+  eleventyConfig.addPlugin(HtmlBasePlugin);
 
   eleventyConfig.addPassthroughCopy({ "src/fonts": "fonts", "src/img": "img", "src/css": "css", "src/CNAME": "CNAME" });
 
@@ -50,6 +56,7 @@ export default function (eleventyConfig) {
   });
 
   return {
+    pathPrefix: process.env.PATH_PREFIX || "/",
     dir: { input: "src", includes: "_includes", data: "_data", output: "_site" },
     markdownTemplateEngine: false,
     htmlTemplateEngine: "njk",

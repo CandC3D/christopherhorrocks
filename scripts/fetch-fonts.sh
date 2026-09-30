@@ -16,7 +16,7 @@ fetch() { # name, css2 family spec
     i=$((i+1))
     local file="${name}-${i}.woff2"
     curl -sS -o "src/fonts/${file}" "$url"
-    sed -i "s#${url}#/fonts/${file}#" /tmp/f.css
+    sed -i "s#${url}#${file}#" /tmp/f.css
   done < <(grep -o 'https://fonts.gstatic.com[^)]*' /tmp/f.css)
   cat /tmp/f.css >> "$out"
 }
