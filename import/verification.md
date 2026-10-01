@@ -1,6 +1,6 @@
 # Verification report
 
-Generated 2026-09-30. Compares each page on this site with the published Substack text.
+Generated 2026-10-01. Compares each page on this site with the published Substack text.
 
 Substack's reported word count is its own figure and counts differently; the body count is this script's count of the same Substack text with subscribe and share widgets removed. A match means the two body texts are identical word for word, the italic and bold runs are identical, and link, image and image-alt text agree.
 
